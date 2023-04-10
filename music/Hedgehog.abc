@@ -1,0 +1,354 @@
+%% scale 0.87
+%% annotationfont * 16
+%% maxshrink 0.95
+%% titlespace 0.1cm
+%% musicspace -0.4cm
+%% topspace 0.3cm
+%% header "O'Reilly Groove to Saint Sonnet		$P"
+
+X: 1
+T: O'Reilly Groove
+M: 4/4
+K: Em
+%% stretchlast 1
+|: "Em"z8 | "C"z8 | "D"z8 | "Em"z4 "G"z2 "C"z2 :|
+
+X:2
+T: Saint Sonnet
+M: 4/4
+K: Em
+%% alignbars 4
+||:"Em"B2 B2 A3G | FGAB E4 | "C"EFGA B2 AB | "D"d2 e2 B4 |
+"Em"B2 B2 A3G | FGAB E4 | "C"EFGA B2 AG | "G"FGAB "C"E4 :||
+||:"Em"B2 GB cGBc | "C"B2 GB cGBc | "D"F3 B cFBc | "Bm"F3 B cFBc |
+"Em"B2 GB cGBc | "C"B2 GB cGBc | "D"F3 c "G"BAGF | "C"EFGF E3 A :||
+
+
+%%newpage
+%%header "La Ligue Set		$P"
+
+X: 2
+T: Quand j'etais chez mon père
+L: 1/8
+M: 4/4
+K: G
+[V:N]|: d | "G"GABc dBd2 | "C"eeee/e/ e "G"d/d3/2 :|
+[V:T]|: B |    GGGA BGB2 |    cccc/c/ c    B/B3/2 :|
+[V:B]|: D |    DDDD GDG2 |    GGGG/G/ G    D/D3/2 :|
+w: J'me cache derr-ièr la porte oh djè ral-fa dla dla dla hou-di-ame
+w: I'~y~a de la soupe dans~l'-potte, oh djè!
+w: I'~y~a des os sous la table, oh djè!
+w: Quand j'e-tais chez mon père, oh djè!
+[V:N]| e | "G"dcBA G4   | GGGG/G/      B "D"A/A3/2 e |
+[V:T]| c |    BAGF G4   | DDDD/D/      G    F/F3/2 c |
+[V:B]| G |    GGGD D4   | B,B,B,B,/B,/ D    D/D3/2 G |
+w: Ay-ant honte à ren-trer Ral-fa dla dla dla hou-di-ame Ay-
+w: mais, mets-y pas ton nez * * * * * * * *  mais,
+w: Les chiens les ont ron-gés, * * * * * * * * Les
+w: Ti gar-çon gar-çon-nait * * * * * * * * Ti
+[V:N]"G"    dcBA G2 "C"c2 | "G"BG/G/ "D"A A/ "G"G5 |
+[V:T]       BAGF G4       |    GG/G/    F F/    G5 |
+[V:B]       GGGD D2    E2 |    DD/D/    D D/    D5 |
+w: ant honte à ren-trer Ral-fa dla dla hou-di-ame
+w: mets-y pas ton nez
+w: chiens les ont ron-gés
+w: gar-çon gar-çon-nait
+
+%% scale 0.8
+
+X:3
+T: The Green Mountain
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+uA | "D"vAu(F~F2) vAu(FEF)|D(F~F2) v(ABd)(e|"G"f~f3) v(efd)B|"A"ABdu(f efdB)|
+"D"A(F~F2) A(FEF)|D(F~F2) (ABd)(e|"G"f~f3) v(efd)B|"A"Au(FEF) "D"vD3 :|
+ue|"D"v(f2af) u(bfaf)|d(efd) ve2(de|"G"f~f3) v(efd)B|"A"ABdu(f efdB)|
+"D"v(f2af) u(bfaf)|d(efd) ve2(de|"G"f~f3) v(efd)B|"A"Au(FEF) "D"vD3 :|
+
+X:4
+T:La Ligue de Vieux Poele (in G)
+L:1/8
+M:4/4
+K:Gmaj
+"G"G3 (A B3 A) | A(GFD) "D"A(DEF) | "G"G2(AG B2) (AB) | u(AGFD) "C"EC "D"(D2 |
+"G"G3) (A B3 A) | A(GFD) "D"A(DEF) | "G"G2(AG B2) (AB) | u(AGFD) "C"E3 D :||
+"D"A3 (A GFED) | "G"G2(BG AG)(BG | "C"c3) u(c "G"BA)Gu(B | "Em"AE)Eu(D E4) |1
+"D"A3 (A GFED) | "G"G2(BG AG)(BG | "C"c3) u(c "G"BA)GB | "D"+>+AAA +>+AAA +>+AG :||2
+"D"A3 (A GFED) | "G"G2(BG AG)(BG | "C"c3) u(c "G"BA)GB| "D"A(DcB) A(GBA) ||
+"^Alt Chords for A part" "Em"G3 A B3 A | AGFD ADEF | "Bm"GDAD B2 AB | AGFD EC D2 |
+"C"G3 A B3 A | AGFD ADEF | "Bm"GDAD "G"B2 AB | "D"AGFD "C"E3 D ||
+
+%% scale 0.87
+%%newpage
+%%header "La Fee Set		$P"
+X: 5
+T: La fée des dents
+M: 6/8
+L: 1/8
+K: G
+|: "G"B2 D2 GA | Bdc BAG | "C"c2 E2 FG | "D"FAG FED |
+   "G"B2 D2 GA | "Em"Bdc Bgf | "C"eg "D"d2 cB | AGF "G"G3 :|
+|: "C"e3 edB | "Am"ced cBc | "G"d2 B2 AG | "Em"Bdc BAG |
+   "C"e3 efg | "D"af d2 cB | "C"ced cBA | "D"AGF "G"G3 :||
+
+X: 6
+T: The Kerfunten
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:"D"F3 FED|FGA Bcd|"G"A2 B BAF|"A"~E3 EDE|
+|"D"~F3 FED|FGA Bcd|"G"A2 B BAF|1 "A"EFE "D"D2 E:|2 "A"EFE "D"DFA|
+|:"^Decending line as alt chords" "D"d3 def|"Bm"B3 BAB|"G"d3 def|fed "A"efe|
+|"D"d3 def|"Bm"B3 BAB|"G"A2 d dAF|1"A"EFE "D"DFA:|2 "A"EFE "D"D2 E|
+
+X: 7
+T: The Sailors Wife
+L: 1/8
+M: 6/8
+K: Ddor
+|: "Dm"DEF E2D | d2e f2g | "C"agf edc | "F"(3ABc A "C"GEC | 
+   "Dm"DEF E2D | d2e f2g | afd "A7"ge^c | "Dm"d3 d3 :|
+|: "F"fga fga | fga agf | "C"ecg ecg | ecg gfe |
+   "Dm"fga agf | "C"efg gfe | "Dm"afd "A7"ge^c | "Dm"d3 d3 :|
+
+%%newpage
+%%header "Menacing Hedgehog		$P"
+
+X: 8
+T: Lunchtime Groove
+M: 6/8
+K: Am
+%% alignbars 8
+%% stretchlast 1
+|: "A5"z6 | z6 | z6 | "G+9"z3 "G#+9b"z3  | "A5"z6 | z6 | "Cadd9" z6 | "GMaj"z6 :|
+|: "A5"z6 | "Cadd9"z6 | "A5"z6 | "G+9"z3 "G#+9b"z3  | "A5"z6 | "Cadd9"z6 | "F" z6 | "G"z6 :|
+
+X: 9
+T: Emmet's Hedgehog
+L: 1/8
+M: 6/8
+K: Em
+"Am"A2e edB | ~A3 AGE | ~A3 AGE | "G"GBG DEG | 
+"Am"A2e edB | ~A3 AGE | "G"GBG DEG |1 BAG "Am"A (3EFG |2 BAG "Am"A (3Bcd ||
+"Am"e2a ged | "C"c"G"B3 AG | ~B3 BAG | g2f "C"edB | 
+"Am"e2a ged | "C"c"G"B3 AG | Bge dBA |1 EFG "Am"A (3Bcd |2 EFG "Am"A (3EFG ||
+
+X: 10
+T: Donegal Lass
+L: 1/8
+M: 6/8
+K: Amix
+|: "A"Ace aed | cdB A3 | "G"GBd G3 | "D"FAd F3 | 
+   "A"Ace aed | cdB A2 a | aed "G"cdB | ABG "A"A3 :|
+|: "G"GBd G3 | "D"FAd F3 | "A"e3 ecA | e3 ecA |
+   "G"GBd G3 | "D"FAd F2 a | "A"aed "G"cdB | ABG "A"A3 :|
+
+
+%%newpage
+%%header "Halting March Set		$P"
+
+X: 11
+T: Halting March
+R: march
+M: 4/4
+L: 1/8
+K: Am
+Q: 180
+"E" E4 | "Am"A4 ABcd | e2 e4 d2 | e3d  e2 f2 | e2 c2  A4 | 
+      "G"G4 GABc | d2 d4 e2 | d3B G2B2 | "E5"d4 "E5/G#"c2B2 | 
+     "Am"A4 ABcd | e2 e4 d2 | e3d  e2 f2 | e2 c2  A4 | 
+   "G"a2g4 e2 | "E5"d2 c4 B2 | "D"A3B A2 G2 | A4 :||
+       "E" e4 | "Am"a2 a4 g2 | e2 d4 e2 | "G"g3a g2 e2 | d2 B2 G4 |
+     "Am"a2 a4 g2 | e2 d4 e2 | "G"g3a g2 e2 | g4 "E5"e2 fg |
+     "Am"a2 a4 g2 | e2 d4 e2 | "G"g3a g2 e2 | d2 B2 G4 |1
+   "D"A3B c2d2 | e2 d4 B2 | A3B c2d2 | "E5"e4 :||2
+   "D"A3B c2d2 | e2 d4 B2 | "E5"A3B A2 G2 | A4 ||
+
+X: 12
+T: The Star Of Munster
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:ed|"Am"vc2(Ac B2)G(B|AG)E(F GE)D2|(EA)A(B cB)c(d|"G"ea)a(f "Em"gf)e(d|
+|"Am"cBAc) (BA)G(B|AG)E(F GE)D2|(EA)A(B cd)(ed)|"G"(cABG) "E"A2:|
+|:de|"Am"eaab ageg|agbg agef|"G"gfga ged2 |geaf "Em"gfed|
+|"Am"eaab ageg|agbg agef|"G"g2ge "D"a2ga|"Em"b2ba gf:|
+|:"^Alt Chords"ed|"Am"c2Ac B2GB|"B5"AGEF "C5"GED2|"G - Rest"EAAB cBcd|eaaf gfed|
+|"Am"cBAc BAGB|"B5"AGEF "C5"GED2|"G - Rest"EAAB cded|"G"cABG "E"A2:|
+|:de|"F"eaab ageg|agbg agef|"G"gfga ged2 |geaf gfed|
+|1 "F"eaab ageg|agbg agef|"G"g2ge a2ga| b2ba gf:||
+|2 "F"eaab ageg|agbg agef|"G"g2ge a2ga| "G#"b2ba gf:|
+
+%%newpage
+%%header "Yet More Smooth Jigs		$P"
+
+X:13
+T: Fair Jenny's
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:"D"~f3 fgf | "A"ecA ecA | "G"Bcd "A"ecA | "G"Bcd "A"e2g |
+  "D"~f3 fef | "A"ecA ecA | "G"Bcd "A"ecA | ABc "D"d2A :|
+|:"G"B3 B=cB | GBB B=cB | "D"ADD dDD | cDD "D7"=cDD|
+  "G"B3 B=cB | GBB B=cB | "A"ABA ABc | "D"dAF D3 :|
+
+X:14
+T: Out On The Ocean
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:E | "G"D2B BAG|BdB A2B|"C"GED G2A|"D"~B3 AGE|
+      "G"D2B BAG|BdB A2B|"C"GED G2A|"D"BGF "G"G2:|
+  B | "Em(G)"~e3 edB|~e3 edB|"D(Bm)"~d3 def|gfe dBA|
+"G"G2A "(D)"B2d|"C"~e3 dBA|"G"GED G2A|"D"BGF "G"G2:|
+
+X:15
+T: My Darling Asleep
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:fdd cAA|BGG A2G|FAA def|gfg eaa|
+fdd cAA|BGG A2G|FAA def|gec d3:|
+FAA Add|FAA BGG|FAA def|gfg eaa|
+fdd cAA|BGG A2G|FAA def|gec d3:|
+
+%%newpage
+%%header "Heathery Br -> Red Box		$P"
+
+X:16
+T: Miss Cathy Chilcott
+R: Reel
+M: 4/4
+K: Dmix
+"D"D3F A(BcA) | d3(c BA)c(B | AGFG) "C"c(GAG) | "D"A(GFD) "C"CDDu(C |
+"D"D3F) A(BcA) | d3(c BA)c(B | AGFG) "C"c(GAG) |1 "D"A(GFD) "C"CDDC :|2 "D"A(GFD) CDD2 ||
+"D"a3a add2 | "G"g(fef) "D"g~d3 | "G"ve2(dB "C"c2)BG | "D"Ad A/A/d gaag |
+"D"a3a add2 | "G"g(fef) "D"g~d3 | "G"ve2(dB "C"c2)BG |1 "D"Ad Ad gaag :|2 "D"Ad(AF) "G"(GF)"A"EF ||
+
+X:17
+T: The Heathery Crauch
+L: 1/8
+M: 4/4
+K: D
+ Au(c| "D"d2)Au(G FD)D(E | FG)A(F "A"E2)Au(c | "D"d2)A(G FD)D(E | "G"FG)"A"(AF) "D"D2Au(c |
+     "D"d2)A(G FD)DE | v(FG)u(AF "A"E2)EF | "D"ABAu(G FD)DE | "G"(FG)"A"(AF) "D"D2 :||
+ved | "A"cA~A2 c(AGA) | (cA)(cd "E"ef)ed | cA~A2 c(AGA) | v(EF)u(3(GFE) "D"D2u(ed) |
+     "A"cA~A2 c(AGA) | (cA)(cd "E"ef)e2 | (efed) c(~A2G) |  v(EF)u(3(GFE) "D"D2 :||
+
+X:18
+T: The Red Box
+L: 1/8
+M: 4/4
+K: Dmix
+|: "D"v(af)u(ge fd) ~d2 | u(cABG) AD ~D2 | v(FDF)(G A2) (AB | "C"c)u(BAB) (cd)(eg) |
+   "D"v(af)u(ge fd) ~d2 | u(cABG) AD ~D2 | v(FDF)(G A2) Au(B | "C"cA)G(E "D"ED) ~D2 :|
+|: "C"c2 u(ce gece) | "D"d2 (df af)d(f | "G"g2) vbu(g "D"f2) a(f | "Em"e^d)v(ef) "C"(ec) (AB |
+   "C"c2) u(ce ge)ce | "D"d2 (df af)d(f | "G"g2 ag) "D"fd ~d2 | "C"v(cA)(GE "D"ED) ~D2 :|
+
+%%newpage
+%%header "More Smooth Jigs		$P"
+
+X:19
+T: Anthony Frawley's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:BA|"G"GED GBA|GED ~G3|GED GAB|"C"dBA "D"~B2 A|
+"G"GED GAB|def g2a|bag (3efg e|"C"dBG "D"A:|
+|:Bc|"G"~d3 "C"edB|"D"def "G"gfe|~d3 edB|dBA "D"ABc|
+     "G"~d3 "C"edB|"D"def "G"g2a|"C"bag (3efg e|dBG "D"A:|
+
+X:20
+T: La Maison de Glace
+L: 1/8
+M: 6/8
+K: D
+|: "D"D3 DEF | A3 AFA | "G"B3 Bcd | "A"cBA GFE | 
+   "D"D3 DEF | A3 AFA |1 "G"B3 BAG | "A"F2 A E2 A :|2 "G"B3 Bcd | "A"c3 A3 |
+|: "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | dcA dcA
+   "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | "D"Adc d3 :|
+
+
+%%newpage
+%%header "Tatter Jack Walsh & Kesh		$P"
+
+X: 21
+T: Tatter Jack Walsh
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|: "D"~f3 ~d3 | "C"cAB c2 A |"D"dcA GFG| Add "A"efg |
+   "D"~f3 ~d3 | "C"cAB c2 A |"D"dcA GFG | "A"Ad^c "D"d3 :|
+|: "D"dfa afd | "(Bm)"dfa agf | "G"g2 a ged | ^cde gfg |
+   "D"afd fed | "C"cAB c2 ^c | "D"dcA "G"GFG| "A"Ad^c "D"d3 :|
+
+X: 22
+T:The Kesh
+R:jig
+M:6/8
+L:1/8
+K:Gmaj
+D |:"G" G3 GAB | "D" A3 ABd | "G" edd "C" gdd | "G" edB "D" dBA |
+"G" G3 GAB | "D" A3 ABd | "G" edd "C" gdB | "D" AGF "G" G3 :|
+|: "G" {A}B3 dBd | "C" ege edB | "G" {A}B3 dBG | "D" ABA AGA |
+"G" {A}B3 dBd | "C" ege "G" e2e | "G" gfg "C" aga | "D" bgf "G" g3 :|
+
+%%newpage
+%%header "Will Reels 3		$P"
+
+X:23
+T: The Chicago
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+Q:240
+"C"cded cAGE|~G3E GAcd|ecgc acgc|"Am"eaag "G"edcA|
+"C"cded cAGE|~G3E GAcd|"Am"eaag "G"(3efg ed|"F"cA"G"BG "Am"~A3B:|
+|:"Am"cdef "G"g2ef|gfgd BG~G2|"Am"cdef "G"g2fg|"Am"eaag aged|
+  "Am"cdef "G"~g3e|"Am"~a3f "G"~g3e|"F"~f3d "G"efed|"F"cA"G"BG "Am"~A3B:|
+
+X:24
+T: The Sligo Maid
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|: "Am"A2BA (3B^cd ef | gedB AGEF | "G"G2BG dGBG | DEGA BAdB |
+"Am"A2BA (3B^cd ef | gedB AGEG | "G"B3G A2GE | "Am(D)"DEGA BAA2:|
+|: "Am"eaag a2ga | bgaf gfed | "G"eggf g2ge | dega bgag |
+"Am"eaag a2ga | bgaf gfed | "G"eg (3gfg edBA | "Am(D)"dBgB BAA2 :|
+
+%%newpage
+%%header "Will Reels 4		$P"
+
+X:25
+T: The Lads Of Laois
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:"Em"EB,B,2 EGFE| "D"DA, A,2 DEFD| "Em"E2 FD EFGA|B2 e^c "D"d^cBA|
+  "Em"EB,B,2 EGFE| "D"DA, A,2 DEFD| "Em"E2 BE dEBE| "D"DEFA "Em"BE E2:|
+|:"Em"eBB2 egfe| "D"defa gfed| "G"Bdef gfea| "D"afdf gfed|
+"Em"eBB2 "(G)"GB"(D)"FA| "Em"EBBA Bdef|"G"g2ge "D"f2fd| efed BAFD:|
+
+X:26
+T: The Killarney Boys Of Pleasure
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|"Em"~E2FD E2FA|"G"BFAE "D"DEFA|"Em"BA(3Bcd ezed|(3Bcd "D"AF DEFD|
+ "Em"E2FD E2FA|"G"BFAE "D"DEFA|"Em"BA(3Bcd ezed|1B2AF "D"FEED:|2B2AF "D"FE~E2|:
+"Em"Beed Beed|ABAF DEFA|"D"~f3e fzfe|dBAF DE~F2|
+"Em"Beed Beed|ABAF DEFA|"D"~f3e dzBA|1(3Bcd AF "Em"FE~E2:|2(3Bcd AF "Em"FEED|

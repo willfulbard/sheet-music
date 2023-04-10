@@ -1,0 +1,132 @@
+%% scale 0.87
+%% annotationfont * 16
+%% maxshrink 0.95
+%% titlespace 0.1cm
+%% musicspace -0.4cm
+%% topspace 0.3cm
+
+%% header "Fun Size - For Canyon		$P"
+X: 1
+T: Table of Contents
+L: 1/8
+M: C
+K: C
+W: Imogen Scottish Reels - Em - Page 2
+
+%%newpage
+%%header "Imogen Scottish Reels		$P"
+
+X: 1
+T: Scottish Reel 1 - Em
+R: reel
+M: 4/4
+L: 1/8
+K: Em
+|: "Em"BE~E2 EDB,E | "G"DB,A,B DEFG | "D"AD~D2 FEDF | "(A)"ABdA "(Bm)"BdAF | 
+   "Em"BE~E2 EDB,E | "G"DB,A,B DEFG | "D"AD~D2 FEDF | ABdF "Em"E2 E2 :|
+|  "Em"B2ef "G"gfeg | "D"fedf edBA | "D/F#"(3Bcd AG "D/E"FDDF | "D/D"ABdA "Bm"BdAd |
+   "Em"B2ef "G"gfeg | "D"fedf edBA | "D/F#"(3Bcd AG "D/E"FDDF | "D/D"ABdF "Em"E2 E2 |
+   "Em"B2ef "G"gfeg | "D"fedf edBA | "D/F#"(3Bcd AG "D/E"FDDF | "D/D"ABdA "Bm"BdAF |
+   "Em"BE~E2 EDB,E | "G"DB,A,B DEFG | "D"AD~D2 FEDF | ABdF "Em"E2 E2 ||
+W: "^Walking Bass part from F# -> D"
+
+X: 1
+T: Scottish Reel 2 - D
+R: reel
+M: 4/4
+L: 1/8
+K: D
+|: "D"dA~A2 defb | af~f2 defd | "G"gB~B2 GB~B2 | "A"ABce afge |
+   "D"dA~A2 defb | af~f2 defd | "G"gB~B2 GB~B2 |1 "A"ABcA "D"d3 c :|2 "A"ABcA "D"d2dc |
+|: "Bm"BF~F2 Bcdc | "G"BG~G2 Bcdc | "D"AD~D2 DEFD | DEFA BAdc |
+   "Bm"BF~F2 Bcdc | "G"BG~G2 Bcdc | "A"ABce faAB | cefa fedc :|
+
+X: 2
+T: The High Drive
+R: reel
+M: 4/4
+L: 1/8
+K: D
+|: "D" d3e fedA | "G"B2gB BAGB | "A"A2Ae fedf | eA~A2 efge |  
+   "D" d3e fedA | "G"B2gB BAGB | "A"A2Ae fedf |1 edce "D"d2 A2 :|2 edce "D"defg |
+   "D" a3g ad~d2 | "G"AB~B2 gBdB | "A".A~A2e fedf | eA~A2 efge |
+   "D" a3g ad~d2 | "G"AB~B2 gBdB | "A".A~A2e fedf | edce "D"defg |
+   "D" a3g ad~d2 | "G"AB~B2 gBdB | "A".A~A2e fedf | eA~A2 efge |
+   "D" d3e fedA | "G"B2gB BAGB | "A"A2Ae fedf | edce "D"d2 A2 |
+|: "D"dAeA fA~A2 | "G"gBBA Bgag | "D"fA~A2 fedf | "A"eA~A2 efge |
+   "D"dAeA fA~A2 | "G"gBBA Bgag | "D"fA~A2 fedf |1 "A"edce "D"d2 A2 :|2 "A"edce "D"defg |
+|: "D"aAA aAA aA | "G"gAA gAA gA | "D"fAA fAA fA | "A"eAA eAA eA |
+   "D"aAA aAA aA | "G"gAA gAA gA | "D"fA~A2 fedf |1 "A"edce "D"defg :|2 "A"edce "D"d2 A2 ||
+W: "^Walking Chords during D part"
+
+
+%%newpage
+%%header "Anthony Frawley, Maison de Glace		$P"
+
+X: 1
+T: Anthony Frawley's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:BA|"G"GED GBA|GED ~G3|GED GAB|"C"dBA "D"~B2 A|
+"G"GED GAB|def g2a|bag (3efg e|"C"dBG "D"A:|
+|:Bc|"G"~d3 "C"edB|"D"def "G"gfe|~d3 edB|dBA "D"ABc|
+     "G"~d3 "C"edB|"D"def "G"g2a|"C"bag (3efg e|dBG "D"A:|
+
+X: 1
+T: La Maison de Glace
+L: 1/8
+M: 6/8
+K: D
+|: "D"D3 DEF | A3 AFA | "G"B3 Bcd | "A"cBA GFE | 
+   "D"D3 DEF | A3 AFA |1 "G"B3 BAG | "A"F2 A E2 A :|2 "G"B3 Bcd | "A"c3 A3 |
+|: "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | dcA dcA
+   "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | "D"Adc d3 :|
+
+
+%%newpage
+%%header "Calliope House, Devon the Drummer		$P"
+
+X: 1
+T: Calliope House
+C: Dave Richardson, Boys of the Lough
+L: 1/8
+M: 6/8
+O: arranged for highland bagpipes by Chris Caswell, 1988
+K: D
+A |: "D"dAA fAA | "F#"eAA fAA | "E"Bee e2 d | "G"efd BdB |
+"D"ABA A2 G | "F#"A2 B d2 e |1 "B"f2 a fed | "A"e3 e2 A :|2 "D"f<af "E"edB | "D"d3 "G"dfg ||
+|:"D"a3 faa | "F#"eaa faa | "G"g3 fgf | "E"efe edB |
+"D"ABA A2 G | "F#"A2 B d2 e |1 "B"f2 a fed | "A"e3 efg :|2 "D"f<af "A"edB | "D"d3 d2 |]
+
+%%scale 0.70
+X: 1
+T: Devin the Drummer
+C: Chris Caswell, 1997
+L: 1/8
+M: 6/8
+K: D
+|: "A"GBG AAA | ABd e2 e | GBG AAA | "D"Aee dcB |
+"A"GBG AAA | ABd e2 e | "G"g2 e edc |1 "D"ddd dcB :|2 "D"ddd dcA |
+|: "G"g2 e edc | "D"ddd Bde | "G"g2 e edc | "D"ddd dcA |
+"G"g2 e edc | "D"ddd Bde | "A"gea ege | "D"ddd dcA :|
+|: "A"eA"A"f A"A"eA | "A"eee edc | "A"eA"A"f A"A"eA | "D"ddd dcA |
+"A"eA"A"f A"A"eA | "A"eee edc | "G"g2 e edc |1 "D"ddd dcA :|2 "D"ddd dcB |
+|: "A"AaB acd | eee edc | AaB ace | "D"ddd dcB |
+"A"AaB acd | eee edc |  "G"g2 e edc | "D"ddd dcB :|
+
+%%newpage
+%%header "Laride		$P"
+
+X: 1
+T: Laride
+M: 4/4
+L: 1/8
+K: Em
+"Em"E4 B4 | "(D)"A2c2 "Em"B4 | "D"A3B AGF2 | "(C )"G2 "D"A2 "Em"B4 |
+"Em"E4 B4 | "(D)"A2c2 "Em"B4 | "D"A3B AGF2 | "(C )"G2 "D"F2 "Em"E4 |
+"Em(C )"E4 G4 | G2E2 "D"F4 | F2AB AGF2 | "Em"G2 A2 B4 | 
+"Em(C )"E4 G4 | G2E2 "D"F4 | F2AB AGF2 | "(C )"G2 "D"F2 "Em"E4 | 
+
+

@@ -1,0 +1,45 @@
+%%newpage
+%%header "Imogen Scottish Reels		$P"
+
+X: 1
+T: Scottish Reel 1 - Em
+R: reel
+M: 4/4
+L: 1/8
+K: Em
+|: "Em"BE~E2 EDB,E | "G"DB,A,B DEFG | "D"AD~D2 FEDF | "(A)"ABdA "(Bm)"BdAF | 
+   "Em"BE~E2 EDB,E | "G"DB,A,B DEFG | "D"AD~D2 FEDF | ABdF "Em"E2 E2 :|
+|  "Em"B2ef "G"gfeg | "D"fedf edBA | "D/F#"(3Bcd AG "D/E"FDDF | "D/D"ABdA "Bm"BdAd |
+   "Em"B2ef "G"gfeg | "D"fedf edBA | "D/F#"(3Bcd AG "D/E"FDDF | "D/D"ABdF "Em"E2 E2 |
+   "Em"B2ef "G"gfeg | "D"fedf edBA | "D/F#"(3Bcd AG "D/E"FDDF | "D/D"ABdA "Bm"BdAF |
+   "Em"BE~E2 EDB,E | "G"DB,A,B DEFG | "D"AD~D2 FEDF | ABdF "Em"E2 E2 ||
+W: "^Walking Bass part from F# -> D"
+
+X: 1
+T: Scottish Reel 2 - D
+R: reel
+M: 4/4
+L: 1/8
+K: D
+|: "D"dA~A2 defb | af~f2 defd | "G"gB~B2 GB~B2 | "A"ABce afge |
+   "D"dA~A2 defb | af~f2 defd | "G"gB~B2 GB~B2 |1 "A"ABcA "D"d3 c :|2 "A"ABcA "D"d2dc |
+|: "Bm"BF~F2 Bcdc | "G"BG~G2 Bcdc | "D"AD~D2 DEFD | DEFA BAdc |
+   "Bm"BF~F2 Bcdc | "G"BG~G2 Bcdc | "A"ABce faAB | cefa fedc :|
+
+X: 2
+T: The High Drive
+R: reel
+M: 4/4
+L: 1/8
+K: D
+|: "D" d3e fedA | "G"B2gB BAGB | "A"A2Ae fedf | eA~A2 efge |  
+   "D" d3e fedA | "G"B2gB BAGB | "A"A2Ae fedf |1 edce "D"d2 A2 :|2 edce "D"defg |
+   "D" a3g ad~d2 | "G"AB~B2 gBdB | "A".A~A2e fedf | eA~A2 efge |
+   "D" a3g ad~d2 | "G"AB~B2 gBdB | "A".A~A2e fedf | edce "D"defg |
+   "D" a3g ad~d2 | "G"AB~B2 gBdB | "A".A~A2e fedf | eA~A2 efge |
+   "D" d3e fedA | "G"B2gB BAGB | "A"A2Ae fedf | edce "D"d2 A2 |
+|: "D"dAeA fA~A2 | "G"gBBA Bgag | "D"fA~A2 fedf | "A"eA~A2 efge |
+   "D"dAeA fA~A2 | "G"gBBA Bgag | "D"fA~A2 fedf |1 "A"edce "D"d2 A2 :|2 "A"edce "D"defg |
+|: "D"aAA aAA aA | "G"gAA gAA gA | "D"fAA fAA fA | "A"eAA eAA eA |
+   "D"aAA aAA aA | "G"gAA gAA gA | "D"fA~A2 fedf |1 "A"edce "D"defg :|2 "A"edce "D"d2 A2 ||
+W: "^Walking Chords during D part"

@@ -1,0 +1,32 @@
+%%scale 0.97 
+%%oneperpage no
+
+X:1
+T:La Ligue de Vieux Poele (in G)
+C:Quebecois
+L:1/8
+M:4/4
+K:Gmaj
+"G"G3 A B3 A | AGFD "D"ADEF | "G"GDAD B2 AB | AGFD "C"EC "D"D2 |
+"G"G3 A B3 A | AGFD "D"ADEF | "G"GDAD B2 AB | AGFD "C"E3 D :||
+"D"A3 A GFED | "G"GDBG AGBG | "C"c3 c "G"BAGB | "Em"AEED E4 |1
+"D"A3 A GFED | "G"GDBG AGBG | "C"c3 c "G"BAGB | "D"+>+AAA +>+AAA +>+AG :||2
+"D"A3 A GFED | "G"GDBG AGAB | "C"c3 c "G"BAGB | "D"ADcB AGBA ||
+w:Alt Chords for A part
+"Em"G3 A B3 A | AGFD ADEF | "Bm"GDAD B2 AB | AGFD EC D2 |
+"C"G3 A B3 A | AGFD ADEF | "Bm"GDAD "G"B2 AB | "D"AGFD "C"E3 D ||
+w:B1 with Pauses
+"D"A3 A GFED | GDBG AGBG | "C"c3 c BAGB | AEED E4 |
+"D"A3 A GFED | GDBG AGBG | "C"c3 c BAGB | "D"+accent+AAA +accent+AAA +accent+AG ||
+
+X: 2
+T: La Ligue de Vieux Poele (in A)
+C: Quebecois
+L: 1/8
+M: 4/4
+K: Amaj
+"A"A3 B c3 B | BAGE "E"BEFG | "A"AEBE c2 Bc | BAGE "D"FD "E"E2 |
+"A"A3 B c3 B | BAGE "E"BEFG | "A"AEBE c2 Bc | BAGE "D"F3 E :||
+"E"B3 B AGFE | "A"AEcA BAcA | "D"d3 d "A"cBAc | "F#m"BFFE F4 |1
+"E"B3 B AGFE | "A"AEcA BAcA | "D"d3 d "A"cBAc | "E"+accent+BBB +accent+BBB +accent+BA :||2
+"E"B3 B AGFE | "A"AEcA BABc | "D"d3 d "A"cBAc | "E"BEdc BAcB ||

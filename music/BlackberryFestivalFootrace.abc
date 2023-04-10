@@ -1,0 +1,20 @@
+%% scale 0.97
+%% annotationfont * 16
+%% maxshrink 0.95
+%% titlespace -0.4cm
+%% musicspace 0.4cm
+%% topspace 0.2cm
+
+X: 1
+T: Blackberry Festival Footrace
+C: By David Fisher
+L: 1/8
+M: 6/8
+K: Dm^C
+|: c | "Dm"d2A "(Bb)"BAG | "Gm"FED "A"CEA | "Dm"dAA fed | "A"(3cde c A=Bc | 
+       "Dm"d2A "(Bb)"BAG | "Gm"FED "A"CEA | "Gm"Bdg "Dm"Adf | "A"edc "Dm"d2 :|
+|: B | "Dm"AaA g2f | gfd fdA | "Gm"BaB g2f | dfa "A"ecA |
+       "Dm"AaA g2f | gfd fdA | "Gm"Bdg "Dm"Adf | "A"edc "Dm"d2 :|
+|: E | "Dm"DAa gAB | dgf Afe | ABd FED | "A"CDB AFE |
+       "Dm"DAa gAB | dgf Afe | ABd FED | "A"CDE "Dm"D2 :| 
+

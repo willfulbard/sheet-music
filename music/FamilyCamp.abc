@@ -1,0 +1,148 @@
+%%scale 0.97
+
+X: 1
+T: La Maison de Glace
+T: (The Ice House)
+C: Réjean Brunet
+L: 1/8
+M: 6/8
+K: D
+|: "D"D3 DEF | A3 AFA | "G"B3 Bcd | "A"cBA GFE | 
+   "D"D3 DEF | A3 AFA |1 "G"B3 BAG | "A"F2 A E2 A :|2 "G"B3 Bcd | "A"c3 A3 |
+|: "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | dcA dcA
+   "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | "D"Adc d3 :|
+
+X: 2
+T: The Orphan
+C: Traditional Irish
+L: 1/8
+M: 6/8
+K: Edor
+|: B, | "Em"E3 EDE | GFG A2 A | ~B3 ABA | GED EDB, | 
+    "A7" A,2 A, EDE |  GFG A2 A | "B7" ~B3 ABA | GED "Em"E2 :|
+|: d | "Em" ~e3 edB | GAB d3 | ~e3 edB | dBA GED | 
+    "A7" A,2 A, EDE |  GFG A2 A | "B7" ~B3 ABA | GED "Em"E2 :|
+
+X: 3
+T: Coleman's March
+C: Traditional Southern
+L: 1/8
+M: 4/4
+K: D
+|: DE | "D"F6 EF | "G"G6 FG | "D"A3 B A2 F2 | "A" E6 FG |
+        "D"A2 d2 "A"c4 | "G"BcBA "D"FE D2 | "A"E3 F GF E2 | "D" D6 :|
+|: Bc | "Bm" d4 d3 e | "A"c8 | "G"B2 Bc dc B2 | "D"A6 FG |
+        "D"A2 d2 "A"c4 | "G"BcBA "D"FE D2 | "A"E3 F GF E2 | "D" D6 :|
+
+X: 4
+T: Lady Anne Montgomery
+T: New England Version
+C: Repeat the A part 4 times
+L: 1/8
+M: 4/4
+K: D
+|: DE | "D"FDAD FDAD | "(Bm)"BAdA "G"B2Bc | "D"dBAF "A"E2 FE | "D"DB,A,B, D2 :|
+|: de | "D"f4 fede | fedB ABde | f4 fede | "G"fgaf "A"e2de |
+        "D"f4 fede | fedB ABde | fdec d2BA | "A"FDEC "D"D2 :|
+
+X: 5
+T: La fée des dents
+C: André Brunet
+M: 6/8
+L: 1/8
+K: G
+|: "G"B2 D2 GA | Bdc BAG | "C"c2 E2 FG | "D"FAG FED |
+   "G"B2 D2 GA | "Em"Bdc Bgf | "C"eg "D"d2 cB | AGF "G"G3 :|
+|: "C"e3 edB | "Am"ced cBc | "G"d2 B2 AG | "Em"Bdc BAG |
+   "C"e3 efg | "D"af d2 cB | "C"ced cBA | "D"AGF "G"G3 :||
+
+
+X: 6
+T: Disconnect
+C: Jeremy Kittel
+D: Chasing Sparks
+M: 6/8
+L: 1/8
+K: Em
+|: "Em" E2 E B2 c-|c BA Bcd |"D" D2 D A2 B-|B AG F2 G | 
+   "Em" E2 E B2 c-|c BA Bcd |"D" D2 D Bcd |1 D2 D F2 G :|2 D2 D Bcd |
+|: "C" e2 G GFG |"D" A3 ABc | "Bm" d2 F FEF |"Em" G3 Bcd | 
+"C" e2 G GFG | "D" A3 d2 c | "Bm" BAG FED |1 "Em" EFG ABd :|2 EFG FED ||
+
+X: 7
+T: Elzic's Farewell
+C: Traditional Appalachian
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|: "Am"e3 e2 c d2 | c3 d cB A2 | a2 ab agef | "G"geae ge d2 |
+   "Am"e3 e2 c d2 | c3 d cB A2 | AGAB AGED |1 "Em"EGAB "Am"A2 cd :|2 "Em"EGAB "Am"A2 A2 |
+|: "A5" A,3 A,2 B, "C"C2 | "D"D3E DCA,C | DCDE DCA,C | DEDC A,2 "G"G,2 | 
+   "A5" A,3 A,2 B, "C"C2 | "D"D3E DCA,C | DEDC A,G,A,C |1 DEDC A,2 A,2 :|2  DEDC "Am"A,2 A,2 ||
+
+X: 8
+T: Waiting for Nancy
+C: Curtis Carlisle Bouterse
+L: 1/8
+M: 4/4
+K: Dmix
+|: "A"b2 a2 b2 a2 | b2 a2 e2 ef | "G"g2 f2 e2 ef | gagf e4 | 
+   "A"b2 a2 b2 a2 | b2 a2 e2 ef | "G"g2 f2 e2 ^c2 |1 "D"d4 d4 :|2 "D"d4  |
+|: d2 ^c2 | "C"c4 e3 f | g2 f2 e3 f | g2 f2 e3 f | gagf e4 |
+            "C"c4 e3 f | g2 f2 e3 f | gagf e2 ^c2 |1 "D"d4 :|2 "D"d4 d4 ||
+
+X: 9
+T: Northward Bound
+C: Crowfoot: Nadajai (2005)
+L: 1/8
+M: 4/4
+K: G
+|: DB, | "G" G,2 B,D GBAG | "C"E2 ED EFGE | "G"DGEG DGEG | DGED "D"A,CB,A, |
+         "G" G,2 B,D GBAG | "C"E2 ED EFGE | "G"D3G "D"FGAc | "G"BG"D"AF "G"G2 :|
+|: Bc | "G"B G~G2 BGcG | BGFG EGD2 | "C"GEED EFGA | "G"BcBA "D"F2 ED |
+        "G"B G~G2 BGcG | BGFG EGD2 | "C"E3F "G"GAGE | "D"DB,A,B, "G"G,2 :|
+
+X: 10
+T: The Red Box
+C: Traditional Irish - Altan: The Red Crow
+L: 1/8
+M: 4/4
+K: Dmix
+|: "D"afge fd ~d2 | cABG AD ~D2 | FDFG A2 AB | "C"cBAB cdeg |
+   "D"afge fd ~d2 | cABG AD ~D2 | FDFG A2 AB | "C"cAGE "D"ED ~D2 :|
+|: "C"c2 ce gece | "D"d2 df afdf | "G"g2 bg "D"f2 af | "Em"e^def "C"ec AB |
+   "C"c2 ce gece | "D"d2 df afdf | "G"g2 ag "D"fd ~d2 | "C"cAGE "D"ED ~D2 :|
+
+X: 11
+T:Idlewild Jig
+C:Traditional - Ryan's Mammoth Collection (1883)
+M:6/8
+K:D
+|: "D" D2D FED | F2A d2 A | "G" Bcd A2F | "A"E2D B,2A, |
+"D" D2D FED | F2A d2 A | "G" Bcd A2F | "A"E2C "D"D3 :|
+|:"Bm"B2F F^EF |"Bm/A#"d2 B B^AB |"Bm/A" f2 B B^AB |"Bm/G#" b2f f^ef | 
+"G"g2e "D"f2d | "A"e2c "D"d2A |1"G"Bcd A2 c | "A"B2 "F#m"AF2A:|2"G"Bcd A2F | "A"E2D B,2A, ||
+
+
+X: 12
+T: Donegal Lass
+C: Brian Finnegan
+L: 1/8
+M: 6/8
+K: Amix
+|: "A"Ace aed | cdB A3 | "G"GBd G3 | "D"FAd F3 | 
+   "A"Ace aed | cdB A2 a | aed "G"cdB | ABG "A"A3 :|
+|: "G"GBd G3 | "D"FAd F3 | "A"e3 ecA | e3 ecA |
+   "G"GBd G3 | "D"FAd F2 a | "A"aed "G"cdB | ABG "A"A3 :|
+
+X: 13
+T: The Sailors Wife
+C: Traditional Scottish - SFSF
+L: 1/8
+M: 6/8
+K: Ddor
+|: "Dm"DEF E2D | d2e f2g | "C"agf edc | "F"(3ABc A "C"GEC | 
+   "Dm"DEF E2D | d2e f2g | afd "A7"ge^c | "Dm"d3 d3 :|
+|: "F"fga fga | fga agf | "C"ecg ecg | ecg gfe |
+   "Dm"fga agf | "C"efg gfe | "Dm"afd "A7"ge^c | "Dm"d3 d3 :|

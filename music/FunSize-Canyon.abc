@@ -1,0 +1,306 @@
+%% scale 0.87
+%% annotationfont * 16
+%% maxshrink 0.95
+%% titlespace 0.1cm
+%% musicspace -0.4cm
+%% topspace 0.3cm
+
+%% header "Fun Size - For Canyon		$P"
+X: 1
+T: Table of Contents
+L: 1/8
+M: C
+K: C
+W: Tatter Jack Walsh & Kesh - Page 2
+W: Anthony Frawley, Maison de Glace - Page 3
+W: Calliope House, Devon the Drummer - Page 4
+W: Little Thatched Cabin, Bird in the Bush - Page 5
+W: Lunchtime, Hedgehog, Donegal Lass - Page 6
+W: Lads Of Laois,Killarney Boys Of Pleasure - Page 7
+W: Halting March - Page 8
+W: Idlewild, Disconnect - Page 9
+W: La fée, Kefunten, Sailors Wife - Page 10-11
+W: Coleman's March, Spootiskerry - Page 12
+W: Laride in Em - Page 13
+
+%%newpage
+%%header "Tatter Jack Walsh & Kesh		$P"
+
+X: 1
+T: Tatter Jack Walsh
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|: "D"~f3 ~d3 | "C"cAB c2 A |"D"dcA GFG| Add "A"efg |
+   "D"~f3 ~d3 | "C"cAB c2 A |"D"dcA GFG | "A"Ad^c "D"d3 :|
+|: "D"dfa afd | "(Bm)"dfa agf | "G"g2 a ged | ^cde gfg |
+   "D"afd fed | "C"cAB c2 ^c | "D"dcA "G"GFG| "A"Ad^c "D"d3 :|
+
+X: 1
+T:The Kesh
+R:jig
+M:6/8
+L:1/8
+K:Gmaj
+D |:"G" G3 GAB | "D" A3 ABd | "G" edd "C" gdd | "G" edB "D" dBA |
+"G" G3 GAB | "D" A3 ABd | "G" edd "C" gdB | "D" AGF "G" G3 :|
+|: "G" {A}B3 dBd | "C" ege edB | "G" {A}B3 dBG | "D" ABA AGA |
+"G" {A}B3 dBd | "C" ege "G" e2e | "G" gfg "C" aga | "D" bgf "G" g3 :|
+
+%%newpage
+%%header "Anthony Frawley, Maison de Glace		$P"
+
+X: 1
+T: Anthony Frawley's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:BA|"G"GED GBA|GED ~G3|GED GAB|"C"dBA "D"~B2 A|
+"G"GED GAB|def g2a|bag (3efg e|"C"dBG "D"A:|
+|:Bc|"G"~d3 "C"edB|"D"def "G"gfe|~d3 edB|dBA "D"ABc|
+     "G"~d3 "C"edB|"D"def "G"g2a|"C"bag (3efg e|dBG "D"A:|
+
+X: 1
+T: La Maison de Glace
+L: 1/8
+M: 6/8
+K: D
+|: "D"D3 DEF | A3 AFA | "G"B3 Bcd | "A"cBA GFE | 
+   "D"D3 DEF | A3 AFA |1 "G"B3 BAG | "A"F2 A E2 A :|2 "G"B3 Bcd | "A"c3 A3 |
+|: "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | dcA dcA
+   "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | "D"Adc d3 :|
+
+
+%%newpage
+%%header "Calliope House, Devon the Drummer		$P"
+
+X: 1
+T: Calliope House
+C: Dave Richardson, Boys of the Lough
+L: 1/8
+M: 6/8
+O: arranged for highland bagpipes by Chris Caswell, 1988
+K: D
+A |: "D"dAA fAA | "F#"eAA fAA | "E"Bee e2 d | "G"efd BdB |
+"D"ABA A2 G | "F#"A2 B d2 e |1 "B"f2 a fed | "A"e3 e2 A :|2 "D"f<af "E"edB | "D"d3 "G"dfg ||
+|:"D"a3 faa | "F#"eaa faa | "G"g3 fgf | "E"efe edB |
+"D"ABA A2 G | "F#"A2 B d2 e |1 "B"f2 a fed | "A"e3 efg :|2 "D"f<af "A"edB | "D"d3 d2 |]
+
+%%scale 0.70
+X: 1
+T: Devin the Drummer
+C: Chris Caswell, 1997
+L: 1/8
+M: 6/8
+K: D
+|: "A"GBG AAA | ABd e2 e | GBG AAA | "D"Aee dcB |
+"A"GBG AAA | ABd e2 e | "G"g2 e edc |1 "D"ddd dcB :|2 "D"ddd dcA |
+|: "G"g2 e edc | "D"ddd Bde | "G"g2 e edc | "D"ddd dcA |
+"G"g2 e edc | "D"ddd Bde | "A"gea ege | "D"ddd dcA :|
+|: "A"eA"A"f A"A"eA | "A"eee edc | "A"eA"A"f A"A"eA | "D"ddd dcA |
+"A"eA"A"f A"A"eA | "A"eee edc | "G"g2 e edc |1 "D"ddd dcA :|2 "D"ddd dcB |
+|: "A"AaB acd | eee edc | AaB ace | "D"ddd dcB |
+"A"AaB acd | eee edc |  "G"g2 e edc | "D"ddd dcB :|
+
+%% scale 0.87
+%%newpage
+%%header "Little Thatched Cabin, Bird in the Bush		$P"
+
+X: 1
+T: The Little Thatched Cabin
+R: reel
+M: 4/4
+L: 1/8
+K: D
+"D"A,D~D2 FGAB|=cDDE FGAc|d2 cd BdAG|FADB, "C"=C2 B,C|
+"D"A,D~D2 FGAB|=cdDE FGAc|d2 cd BdAG|1 "G"FD"A"EC "D"D3 B :|2"G"FD"A"EC "D"D2Ac ||
+"D"d2 fd Adfd|"G"g2fg edBc|"D"d2 fd Adfd|"C"=cAGE =C2 Ac |
+"D"d2 fd Adfd|(3Bcd ef "G"g2 ag|"D"fdec "G"dBAG|"A"FGEC "D"D2 FA|
+"D"d2 fd Adfd|"G"g2fg edBc|"D"d2 fd Adfd|=cAGE DEFA|
+"D"d2 fd Adfd|(3Bcd ef "G"g2 ag|"D"fdec "G"dBAG|"A"FGEF "D"D4||
+
+X: 1
+T: The Bird In The Bush
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: "G"d2eB dB~B2 | dBAB G3D | "Am"EA~A2 "G"BG~G2 | "C"BGBd "D"g2ge |
+   "G"d2eB dB~B2 | dBAB ~G3E | "C"DEGA B2eB | "D"dBAd "G"BG~G2 :|
+|: "Em"(3Bcd ef g3f | "D"afdf gfed | "Em"Bdef g~g2b | "C"ag"D"ab "G"g~g2a |
+   "^G desc. line"bg~g2 agef | ~g2fe dBGE | "C"DEGA B2eB | "D"dBAd "G"BG~G2 :|
+
+%%newpage
+%%header "Lunchtime, Hedgehog, Donegal Lass		$P"
+
+X: 1
+T: Lunchtime Groove
+M: 6/8
+K: Am
+%% alignbars 8
+%% stretchlast 1
+|: "A5"z6 | z6 | z6 | "G+9"z3 "G#+9b"z3  | "A5"z6 | z6 | "Cadd9" z6 | "GMaj"z6 :|
+|: "A5"z6 | "Cadd9"z6 | "A5"z6 | "G+9"z3 "G#+9b"z3  | "A5"z6 | "Cadd9"z6 | "F" z6 | "G"z6 :|
+
+X: 1
+T: Emmet's Hedgehog
+L: 1/8
+M: 6/8
+K: Em
+"Am"A2e edB | ~A3 AGE | ~A3 AGE | "G"GBG DEG | 
+"Am"A2e edB | ~A3 AGE | "G"GBG DEG |1 BAG "Am"A (3EFG |2 BAG "Am"A (3Bcd ||
+"Am"e2a ged | "C"c"G"B3 AG | ~B3 BAG | g2f "C"edB | 
+"Am"e2a ged | "C"c"G"B3 AG | Bge dBA |1 EFG "Am"A (3Bcd |2 EFG "Am"A (3EFG ||
+
+X: 1
+T: Donegal Lass
+L: 1/8
+M: 6/8
+K: Amix
+|: "A"Ace aed | cdB A3 | "G"GBd G3 | "D"FAd F3 | 
+   "A"Ace aed | cdB A2 a | aed "G"cdB | ABG "A"A3 :|
+|: "G"GBd G3 | "D"FAd F3 | "A"e3 ecA | e3 ecA |
+   "G"GBd G3 | "D"FAd F2 a | "A"aed "G"cdB | ABG "A"A3 :|
+
+%%newpage
+%%header "Lads Of Laois,Killarney Boys Of Pleasure		$P"
+
+X: 1
+T: The Lads Of Laois
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:"Em"EB,B,2 EGFE| "D"DA, A,2 DEFD| "Em"E2 FD EFGA|B2 e^c "D"d^cBA|
+  "Em"EB,B,2 EGFE| "D"DA, A,2 DEFD| "Em"E2 BE dEBE| "D"DEFA "Em"BE E2:|
+|:"Em"eBB2 egfe| "D"defa gfed| "G"Bdef gfea| "D"afdf gfed|
+"Em"eBB2 "(G)"GB"(D)"FA| "Em"EBBA Bdef|"G"g2ge "D"f2fd| efed BAFD:|
+
+X: 1
+T: The Killarney Boys Of Pleasure
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|"Em"~E2FD E2FA|"G"BFAE "D"DEFA|"Em"BA(3Bcd ezed|(3Bcd "D"AF DEFD|
+ "Em"E2FD E2FA|"G"BFAE "D"DEFA|"Em"BA(3Bcd ezed|1B2AF "D"FEED:|2B2AF "D"FE~E2|:
+"Em"Beed Beed|ABAF DEFA|"D"~f3e fzfe|dBAF DE~F2|
+"Em"Beed Beed|ABAF DEFA|"D"~f3e dzBA|1(3Bcd AF "Em"FE~E2:|2(3Bcd AF "Em"FEED|
+
+%%newpage
+%%header "Halting March		$P"
+X: 1
+T: Halting March
+R: march
+M: 4/4
+L: 1/8
+K: Am
+Q: 180
+"E" E4 | "Am"A4 ABcd | e2 e4 d2 | e3d  e2 f2 | e2 c2  A4 | 
+      "G"G4 GABc | d2 d4 e2 | d3B G2B2 | "E5"d4 "E5/G#"c2B2 | 
+     "Am"A4 ABcd | e2 e4 d2 | e3d  e2 f2 | e2 c2  A4 | 
+   "G"a2g4 e2 | "E5"d2 c4 B2 | "D"A3B A2 G2 | A4 :||
+       "E" e4 | "Am"a2 a4 g2 | e2 d4 e2 | "G"g3a g2 e2 | d2 B2 G4 |
+     "Am"a2 a4 g2 | e2 d4 e2 | "G"g3a g2 e2 | g4 "E5"e2 fg |
+     "Am"a2 a4 g2 | e2 d4 e2 | "G"g3a g2 e2 | d2 B2 G4 |1
+   "D"A3B c2d2 | e2 d4 B2 | A3B c2d2 | "E5"e4 :||2
+   "D"A3B c2d2 | e2 d4 B2 | "E5"A3B A2 G2 | A4 ||
+
+%%newpage
+%%header "Idlewild, Disconnect		$P"
+
+X: 1
+T:Idlewild Jig
+M:6/8
+K:D
+|: "D" D2D FED | F2A d2 A | "G" Bcd A2F | "A"E2D B,2A, |
+"D" D2D FED | F2A d2 A | "G" Bcd A2F | "A"E2C "D"D3 :|
+|:"Bm"B2F F^EF |"Bm/A#"d2 B B^AB |"Bm/A" f2 B B^AB |"Bm/G#" b2f f^ef | 
+"G"g2e "D"f2d | "A"e2c "D"d2A |1"G"Bcd A2 c | "A"B2 "F#m"AF2A:|2"G"Bcd A2F | "A"E2D B,2A, ||
+
+X: 1
+T: Disconnect
+M: 6/8
+L: 1/8
+K: Em
+|: "Em" E2 E B2 c-|c BA Bcd |"D" D2 D A2 B-|B AG F2 G | 
+   "Em" E2 E B2 c-|c BA Bcd |"D" D2 D Bcd |1 D2 D F2 G :|2 D2 D Bcd |
+|: "C" e2 G GFG |"D" A3 ABc | "Bm" d2 F FEF |"Em" G3 Bcd | 
+"C" e2 G GFG | "D" A3 d2 c | "Bm" BAG FED |1 "Em" EFG ABd :|2 EFG FED ||
+
+%%newpage
+%%header "La fée, Kefunten, Sailors Wife		$P"
+
+X: 1
+T: La fée des dents
+C: André Brunet
+M: 6/8
+L: 1/8
+K: G
+|: "G"B2 D2 GA | Bdc BAG | "C"c2 E2 FG | "D"FAG FED |
+   "G"B2 D2 GA | "Em"Bdc Bgf | "C"eg "D"d2 cB | AGF "G"G3 :|
+|: "C"e3 edB | "Am"ced cBc | "G"d2 B2 AG | "Em"Bdc BAG |
+   "C"e3 efg | "D"af d2 cB | "C"ced cBA | "D"AGF "G"G3 :||
+
+X: 1
+T: The Kerfunten
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:"D"F3 FED|FGA Bcd|"G"A2 B BAF|"A"~E3 EDE|
+|"D"~F3 FED|FGA Bcd|"G"A2 B BAF|1 "A"EFE "D"D2 E:|2 "A"EFE "D"DFA|
+|:"^Decending line as alt chords" "D"d3 def|"Bm"B3 BAB|"G"d3 def|fed "A"efe|
+|"D"d3 def|"Bm"B3 BAB|"G"A2 d dAF|1"A"EFE "D"DFA:|2 "A"EFE "D"D2 E|
+
+X: 1
+T: The Sailors Wife
+L: 1/8
+M: 6/8
+K: Ddor
+|: "Dm"DEF E2D | d2e f2g | "C"agf edc | "F"(3ABc A "C"GEC | 
+   "Dm"DEF E2D | d2e f2g | afd "A7"ge^c | "Dm"d3 d3 :|
+|: "F"fga fga | fga agf | "C"ecg ecg | ecg gfe |
+   "Dm"fga agf | "C"efg gfe | "Dm"afd "A7"ge^c | "Dm"d3 d3 :|
+
+%%newpage
+%%header "Coleman's March, Spootiskerry		$P"
+X: 1
+T: Coleman's March
+L: 1/8
+M: 4/4
+K: D
+|: DE | "D"F6 EF | "G"G6 FG | "D"A3 B A2 F2 | "A" E6 FG |
+        "D"A2 d2 "A"c4 | "G"BcBA "D"FE D2 | "A"E3 F GF E2 | "D" D6 :|
+|: Bc | "Bm" d4 d3 e | "A"c8 | "G"B2 Bc dc B2 | "D"A6 FG |
+        "D"A2 d2 "A"c4 | "G"BcBA "D"FE D2 | "A"E3 F GF E2 | "D" D6 :|
+
+X: 1
+T: Spootiskerry
+L: 1/8
+M: 4/4
+K: G
+DE |: "G"G2 DE GDEG | DEGA B2 AB | G2 DE GABd | "C"eged "D"B2 AB |
+"G"G2 DE GDEG | DEGA B2 AB | "C"g2 ed edBA |1 "D"B2 G2 "G"G2 DE :|2 "D"B2 G2 "G"G2 ef||
+"Em"g2 eded B2 | "D"BABG E2 DE | "C"GABd eged | "D"B2 A2 A2 ef |
+"Em"g2 eded B2 | "D"BABG E2 DE | "C"GABd eged | "D"B2 G2 G2 ef |
+"Em"g2 eded B2 | "D"BABG E2 DE | "C"GABd eged | "D"B2 A2 A2 DE |
+"^G desc. line"G2 DE GDEG | DEGA B2 AB | "C"g2 ed edBA | "D"B2 G2 "G"G2 |]
+
+
+%%newpage
+%%header "Laride		$P"
+
+X: 1
+T: Laride
+M: 4/4
+L: 1/8
+K: Em
+"Em"E4 B4 | "(D)"A2c2 "Em"B4 | "D"A3B AGF2 | "(C )"G2 "D"A2 "Em"B4 |
+"Em"E4 B4 | "(D)"A2c2 "Em"B4 | "D"A3B AGF2 | "(C )"G2 "D"F2 "Em"E4 |
+"Em(C )"E4 G4 | G2E2 "D"F4 | F2AB AGF2 | "Em"G2 A2 B4 | 
+"Em(C )"E4 G4 | G2E2 "D"F4 | F2AB AGF2 | "(C )"G2 "D"F2 "Em"E4 | 
+
+

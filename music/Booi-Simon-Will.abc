@@ -1,0 +1,414 @@
+X: 1
+T: Maggie's Pancakes
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+fB~B2 fgfe|dBAB GBdB|cAAd AAeA|Aaec Aceg|
+fB~B2 fgfe|dBAB GBdB|cABc def^g|afec B3e:|
+|:f2dB GBdB|caec dB~B2|f2dB GBdB|caec Bcde|
+fd~d2 fgfe|dBAB GBdB|cABc def^g|afec B3e:|
+
+X: 2
+T: The High Drive
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: A | d3 e fedA | B/B/B gB BAGB | GA A/A/A fedf | eA A/A/A afge |
+d/d/d de fedA | B/B/B gB BAGB | GA A/2A/2A fedf | edce d3 :|
+|: A | aaag ad d/d/d | AB B/B/B gBdB | GA A/A/A fedf | eA A/A/A efge |
+aaag ad d/d/d | AB B/B/B gBdB | GA A/A/A fedf | edce d3 :|
+A |: dAeA fA A/A/A | gBBA Baag | fA A/A/A afdf | eA A/A/A afge |
+dAeA fA A/A/A | gBBA Baag | fA A/A/A afdf |[1 edce d2 fe :|[2 edce defg |]
+|: adda ddad | gddg ddgd | fddf ddfd | edde defg |
+adda ddad | gBdg BdGB | GA A/A/A fedf |[1 edce defg :|[2 edce d4 |]
+
+%%newpage
+
+X: 3
+T: The Banshee
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+G3D EDB,D|GFGB d2 Bd|eged BAGA|BAGE EDDE|
+G2 GD EDB,D|GFGB d2 Bd|eged BAGA|1 BAGE EDDE:|2 BAGE ED D2||
+eaag efge|dBBA B2 Bd|eB ~B2 gBfB|eBBA B2 Bd|
+eaag efge|dBBA B2 Bd|eged BAGA|1 BAGE EDD2:|2 BAGE EDDE||
+
+X: 4
+T: The Lads Of Laois
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:EB,B,2 EGFE| DA, A,2 DEFD| E2 FD EFGA|B2 e^c d^cBA|
+EB,B,2 EGFE|DA, A,2 DEFD| E2 BE dEBE| DEFA BE E2:|
+|:eBB2 egfe| defa gfed| Bdef gfea| afdf gfed|
+eBB2 GBFA| EBBA Bdef|g2ge f2fd| efed BAFD:|
+
+%%newpage
+
+X: 5
+T: The Grumbling Old Man And Woman
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+CA,EA, CA,EA,|B,G,DG, B,G,DG,|CA,EA, CA,EA,|1 B,A,G,B, A,2A,B,:|2 B,A,G,B, A,2z2 :||
+e2ed ^cdef|g2gf ed^cd|efed ^cded|eaa^g a2ef|
+=gfed ^cdef|g2ge dBGB|=c2Bc AGEF|GEDB, A,2A,B, :||
+
+X: 6
+T: The Earl's Chair
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+B2Bd BAFA | B2Bd BAFA | AF (3FFF DF (3FFF | AFdB AFEF |!
+B2Bd BAFA | B2Bd BAFA | AFAB dcdf |edef d3z :||!
+e2ec d2Bd | efec dFAB | e2ec d3e | fedB ADFA |!
+e2ef eB(3BBB | gB(3BBB defg |afbf afef | gedB ADFA :||
+
+%%newpage
+
+X: 7
+T:Up In The Rafters
+R:jig
+M:6/8
+L:1/8
+K:Amin
+EAA EAA | ABc B2A | EAA ABA | F2F FED |
+EAA EAA | ABc B2A | efe dcB | cAG A3 :|
+a3 age | aba ged | cec B3 | cec BAG |
+A2E ABc | BAG EFG | A2a ged | BAG A3 :|
+
+X: 8
+T: February Reels #1
+T: (Needs fixing)
+R: reel
+M: 4/4
+L: 1/8
+K: F#m
+EFFA Bcef|ecBc eaga|ef (3fff fecA|ABcA BAFE|
+EFFA BccB|caga effg|aAgA fAeA|ABcA BA E2:|
+bffb afed|cAce (3ffe ce|bf (3fff afed|cABG Acea|
+bffb afed|cAce fefg|aAgA fAeA|ABcA BAFE:|
+
+%%newpage
+
+X: 9
+T: Julia Delaney's
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+|:dcAG F2DF |E2CE FEFA |dcAG F2EF| Addc defe|
+dcAG F2DF |E2CE FEFA |dcAG F2EF|1 Addc d4:|2 Addc d2de||
+|:fede fagf |ecgc acgc |fede fagf |edcB Adde |
+fede fagf |ecgc acgc |fedf edcB |Addc d2de:|
+
+X: 10
+T: Dick Gossip's
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:F2 AF GFED|DFAF GFED|EDEF GFED|~E3 F GFED|
+|F2 AF GFED|DFAF GFED|cdef gece|1 eddc d2 AG:|2 eddc d2 ef||
+|:gB (3BBB gBaB|gB (3BBB gfed|(3cBA eA fAeA|(3Bcd ef gfef|
+|gB (3BBB gBaB|gB (3BBB gfed|cdef gece|1 eddc d2 ef:|2 eddc d2 AG|
+
+%%newpage
+
+X: 11
+T: Tuttle's
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+A,DDE FEFG|A2Gc Ad~d2|A,DDE F2dB|cAGE FDEC|
+A,DDE FEFG|A2Gc Ad~d2|fded dcAB|1 cAGE FDEC:|2 cAGE EDD2||
+|:d2dB c2cG|AddB cAGA|d2dB cdcA|GEcE EDD2|
+d2dB c2cG|Addc d2de|fded dcAB|1 cAGE EDD2:|2 cAGE FDEC||
+
+X: 12
+T: Brenda Stubbert's
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:B|A/A/A (BA) GAAB|A/A/A (BA) edde|G2 (BA) BGGB| c2 (BA) BGGB|
+A/A/A (BA) GAAB|A/A/A (BA) edda|gedB GABd|{d}e2 dB eAA:|
+|:B|A/A/A a2 A/A/A g2| Aage ageg|G2 (BA) BGGB| c2 (BA) BGGB|
+[1A/A/A a2 A/A/A g2| Aage agea| gedB GABd|{B}e2 dB eAA:|
+[2A/A/A (BA) GAAB|A/A/A (BA) edda| gedB GABd|{d}e2 dB eAA|]
+
+%%newpage
+
+X: 13
+T: The Caribou
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:B2ED EFGA|B2ED EFGE|D2FD DADD|BDDA DDFD|
+E2ED EFGA|Bdef g2fg|afge efec|1 dBAF EdcA:|2 dBAF E4||
+|:Be2B efed|Bdef edBd|Ad2A d3e|fedf edBA|
+Be2B efed|Bdef g2fg|afge efec|dBAF E4:|
+
+X: 14
+T: The Red Box
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|:afge fdd/d/d|cABG ADD/D/D|~FDFG AGAB|cBAB cdeg|
+afge fdd/d/d|cABG ADD/D/D|FDFG AGAB|1cAGE ~EDD2:|2cAG~E EDDB||
+|:~cBce gece|d^cdf afdf|gabg fgaf|e^def ecAB|
+~cBce gece|d^cdf afdf|g/g/gag fddB|cAGE EDD2:|
+
+%%newpage
+
+X: 15
+T: Evit Gabriel
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:z2|"Em"EFGF EFGF | EFGA B2BB |"Am"cBAG F2GA |"B7"BAGB F2 GF |
+"Em"EFGF EFGF | EFGA B2BB | "Am"cBAG FGAc | "B7"BAGF "Em"E2 :|
+|: cd|"Am"eAAe "D7"dcBc | "G"dGGd "C"cBAG | "Am/F#"FGAc "B7"BAGF | "Em"EFGA "E7"B2cd |
+"Am"eAAe "D7"dcBc | "G"dGGd "C"cBAG | "Am/F#"FGAc "B7"BAGF| "Em"EG FD E2 :|
+
+X: 16
+T: Frank's
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|Ac BA F2 AF|EF AB cA Bc |d3 f ec Ae |fa ec (3Bcd cB |
+Ac BA F2 AF|EF AB cA Bc |d3 f ec Ac |1 BA GB A2 (3EFG :|2 BA GB Ae fg ||
+|aA Ag AA fA |ef fe cA Bc |d3 f ec Ac |Bc de fe ce |
+|1 aA Ag AA fA |ef fe cA Bc |df (3fff ec Ac |BA GB Ae fg :|
+|2 Ac BA F3 A |EF AB cA Bc |d3 f ec Ac |BA GB A4 ||
+
+%%newpage
+
+X: 17
+T: The Bus Stop
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+|:A2e2 d2cB|ABcA BAGB|A2e2 d2cA|(3Bcd e^fg edB|
+A2e2 d2cB|ABcA BAGB|(3E^FG AcB AGE|A4 A4:|
+|:a2ag edcB|ABcd e2cB|A2ag edcA|de^fd e2cB|
+A2ag edcB|ABcd e3d|cBAG E^FGB|A4 A4:|
+
+X: 18
+T: Spootiskerry
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DE | G2 DE GDEG | DEGA B2 AB | G2 DE GABd |eged B2 AB |
+G2 DE GDEG | DEGA B2 AB | g2 ed edBA | B2 G2 G2 :|
+ef | g2 ed ed B2 | BABG E2 DE | GABd eged | B2 A2 A2 ef |
+g2 ed ed B2 | BABG E2 DE | GABd eged | B2 G2 G2 ef |
+g2 ed ed B2 | BABG E2 DE | GABd eged | B2 A2 A2 DE|
+G2 DE GDEG | DEGA B2 AB | g2 ed edBA |B2 GB G2 ||
+
+%%newpage
+
+X: 19
+T: Cooley's
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:D2|EBBA B2 EB|B2 AB dBAG|FDAD BDAD|FDAD dAFD|
+EBBA B2 EB|B2 AB defg|afec dBAF|DEFD E2:|
+|:gf|eB B2 efge|eB B2 gedB|A2 FA DAFA|A2 FA defg|
+eB B2 eBgB|eB B2 defg|afec dBAF|DEFD E2:|
+
+X: 20
+T: The New Mown Meadows
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+eA A2 BABd | egfd edBd | eA A2 BABc | d2 ed BABd |
+eA A2 BABd | egfd edBd |1 g2 ge f2 fe | dfed BABd :|2 gbag faef | dfed Bddf ||
+a2 fa bafa | a2 fd edBd | a2 fa baaf | dfed Bddf |
+a2 fa bafa | a2 fd edBd | g2 ge f2 fe |1 dfed Bcdf :|2 dfed BABd ||
+
+%%newpage
+
+X: 21
+T: Emmet's Hedgehog
+L: 1/8
+M: 6/8
+K: Em
+"Am"A2e edB | ~A3 AGE | ~A3 AGE | "G"GBG DEG | 
+"Am"A2e edB | ~A3 AGE | "G"GBG DEG |1 BAG "Am"A (3EFG |2 BAG "Am"A (3Bcd ||
+"Am"e2a ged | "C"c"G"B3 AG | ~B3 BAG | g2f "C"edB | 
+"Am"e2a ged | "C"c"G"B3 AG | Bge dBA |1 EFG "Am"A (3Bcd |2 EFG "Am"A (3EFG ||
+
+X: 22
+T: Donegal Lass
+L: 1/8
+M: 6/8
+K: Amix
+|: "A"Ace aed | cdB A3 | "G"GBd G3 | "D"FAd F3 | 
+"A"Ace aed | cdB A2 a | aed "G"cdB | ABG "A"A3 :|
+|: "G"GBd G3 | "D"FAd F3 | "A"e3 ecA | e3 ecA |
+"G"GBd G3 | "D"FAd F2 a | "A"aed "G"cdB | ABG "A"A3 :|
+
+%%newpage
+
+X: 23
+T: La Maison de Glace
+T: (The Ice House)
+C: Réjean Brunet
+L: 1/8
+M: 6/8
+K: D
+|: "D"D3 DEF | A3 AFA | "G"B3 Bcd | "A"cBA GFE |
+   "D"D3 DEF | A3 AFA |1 "G"B3 BAG | "A"F2 A E2 A :|2 "G"B3 Bcd | "A"c3 A3 |
+|: "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | dcA dcA
+   "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | "D"Adc d3 :|
+
+X: 24
+T: Calliope House
+R: jig
+M: 6/8
+L: 1/8
+K: Emaj
+B|:eBB gBB|fBB gfe|cff f2e|fgf e2c|BcB B2G|
+B2c e2f|1 g2b gfe|f3 f2B:|2 gbg fed|e3 ega|
+|:b3 gbb|fbb gbb|a3 gag|f2e c2e|BcB B2G|
+B2c e2f|1 g2b gfe|f3 fga:|2 gbg fed| e3 e2|
+
+%%newpage
+
+X:25
+T:Idlewild Jig
+C:Traditional - Ryan's Mammoth Collection (1883)
+M:6/8
+K:D
+|: "D" D2D FED | F2A d2 A | "G" Bcd A2F | "A"E2D B,2A, |
+"D" D2D FED | F2A d2 A | "G" Bcd A2F | "A"E2C "D"D3 :|
+|:"Bm"B2F F^EF |"Bm/A#"d2 B B^AB |"Bm/A" f2 B B^AB |"Bm/G#" b2f f^ef | 
+"G"g2e "D"f2d | "A"e2c "D"d2A |1"G"Bcd A2 c | "A"B2 "F#m"AF2A:|2"G"Bcd A2F | "A"E2D B,2A, ||
+
+X:26
+T: The Sailors Wife
+C: Traditional Scottish - SFSF
+L: 1/8
+M: 6/8
+K: Ddor
+|: "Dm"DEF E2D | d2e f2g | "C"agf edc | "F"(3ABc A "C"GEC | 
+"Dm"DEF E2D | d2e f2g | afd "A7"ge^c | "Dm"d3 d3 :|
+|: "F"fga fga | fga agf | "C"ecg ecg | ecg gfe |
+"Dm"fga agf | "C"efg gfe | "Dm"afd "A7"ge^c | "Dm"d3 d3 :|
+
+%%newpage
+
+X:27
+T: The Coleraine
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|:"Am"EAA ABc|"G"Bee e2d| "C"cBA ABc| "E"B^GE E2 D|
+"Am"EAA ABc|"G"Bee e2d|"Am"cBA "E"B^GE|"Am"A2A A3:|
+"C"c3 cdc|"G"Bgg g2^g|"Am"aed cBA|"E"^GBA E^F^G|
+"Am"A^GA "Bm"BAB|"C"cde "Dm"fed|"Am"cBA "E"B^GE|"Am"A2A A3:|
+
+X:28
+T: Jump at the Sun
+R: jig
+M: 6/8
+L: 1/8
+K: Dmin
+DFA ^G2A|DFA ^G2A|dAA dAA|~B2G FGE|
+DFA ^G2A|DFA ^G2A|dAA BAG|FGE D2A:|
+|:d2 d2 ef|e3 gfe|d2d2ef|e3 ABA|
+dAA d ef|e3 gfe|dAA BAG|FGE D2A:|
+
+%%newpage
+
+X: 29
+T: The Orphan
+C: Traditional Irish
+L: 1/8
+M: 6/8
+K: Edor
+|: B, | "Em"E3 EDE | GFG A2 A | ~B3 ABA | GED EDB, | 
+    "A7" A,2 A, EDE |  GFG A2 A | "B7" ~B3 ABA | GED "Em"E2 :|
+|: d | "Em" ~e3 edB | GAB d3 | ~e3 edB | dBA GED | 
+    "A7" A,2 A, EDE |  GFG A2 A | "B7" ~B3 ABA | GED "Em"E2 :|
+
+X:30
+T: The Banks Of Lough Gowna
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+BcB BAF|FEF DFA|BcB BAF|d2e fed|
+BcB BAF|FEF DFA|def geg|1 fdB Bdc:|2 fdB ~B3||
+|:def ~a3|afb afe|dFA def|geg fdB|
+def ~a3|afb afe|def geg|1 fdB ~B3:|2 fdB Bdc||
+
+%%newpage
+
+X:31
+T:Flying Home to Shelley
+M:C|
+L:1/8
+C:©Paul Gitlitz 1988
+R:Reel
+B:Gibltz Fancy, 169 Brand New Old Time Fiddle Tunes Vol. 3, Canadian Fiddle Tunes Vol 1
+K:G
+"G6"G2dG cGBG|"Am7"G2cG BGAG|"Bm7"G2AG BGAG|"C6"DEGD EDB,C|!
+"G6"G2dG cGBG|"Am7"G2cG BGAG|"Bm7"G2AG "Am"BGAG|1"D9"DEFD "G"G2z2:|2"D9"DEFD "G"GABc|!
+|:"G6"d3B AGAB|"Am7"c3B AGE2|"C6"e3d "Bm7"BAG2|"Am7"ABdA "D7"BAGB|!
+"Em7"d2dB AGAB|"Am7"cGBG AGE2|"C6"e3d "Am7"BAG2|1"D7"ABAF "G6"GABc:|2"D7"ABAF "G6"G4|]
+
+X:32
+T:Star of Munster
+R:Reel
+M:C|
+Q:200
+K:Ador
+"Am"cBAc "G"BAGB|"Am"AGEF "G"GED2|"Am"EAAB cBcd|eaaf "Em"gfed|
+"Am"cBAc "G"BAGB|"Am"AGEF "G"GED2|"Am"EAAB cBcd|"Em"edcB "Am"A4:|
+|:"Am"a3b ageg|agab agef|"G"g2 ga gfef|gfga gfe2|
+"Am"a3b ageg|agab agef|"G"g4 "Am"a4|1"G"b3a "Em"gfe2:|2"G"b3a "Em"gfed|]
+
+%%newpage
+
+X:33
+T:Breton An Dro
+M:C|
+L:1/8
+R:An Dro / March
+K:EDor
+EFGF E2 B2 | G2 E2 F2 B2 | ABAG F3E | GEGE F4 |
+EFGF E2 B2 | G2 E2 F2 B2 | ABAG F3E | GEFD E4 :|
+EFGA B4 | A2 d2 B2 G2 | EFGB A4 | ABAG F4 |
+EFGA B4 | A2 d2 B2 G2 | EFGB A3E | GEFD E4 :|
+
+X:34
+T:Coral Riff
+M:C|
+L:1/8
+R:An Dro / March
+K:EDor
+E2 DE B,DE G- | GA DE B,A,A,2 | E2 DE B,D (3EFG | A>GED EGFD |
+E2 DE B,DE G- | GA DE B,A,A,2 | E2 DE B,D (3EFG | A>GED E3 A |
+B2 AG B2 EG | BA A3E GA | B2 AG B2 EG | A>GED E2 GA |
+B2 AG B2 EG | BA A3G (3FED | E2 DE B,D (3EFG | A>GED EGFD |
+

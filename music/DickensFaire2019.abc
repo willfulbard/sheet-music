@@ -1,0 +1,142 @@
+%% scale 0.80
+%% annotationfont * 16
+%% maxshrink 0.90
+%% titlespace 0.1cm
+%% musicspace -0.2cm
+%% topspace 0.3cm
+%% maxstaffsep 1.0cm
+
+%%newpage
+%%header "Quebecois set"
+
+X:20
+T: La Maison de Glace
+L: 1/8
+M: 6/8
+K: D
+|: "D"D3 DEF | A3 AFA | "G"B3 Bcd | "A"cBA GFE | 
+   "D"D3 DEF | A3 AFA |1 "G"B3 BAG | "A"F2 A E2 A :|2 "G"B3 Bcd | "A"c3 A3 |
+|: "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | dcA dcA
+   "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | "D"Adc d3 :|
+
+X: 5
+T: La fée des dents
+M: 6/8
+L: 1/8
+K: G
+|: "G"B2 D2 GA | Bdc BAG | "C"c2 E2 FG | "D"FAG FED |
+   "G"B2 D2 GA | "Em"Bdc Bgf | "C"eg "D"d2 cB | AGF "G"G3 :|
+|: "C"e3 edB | "Am"ced cBc | "G"d2 B2 AG | "Em"Bdc BAG |
+   "C"e3 efg | "D"af d2 cB | "C"ced cBA | "D"AGF "G"G3 :||
+
+%%newpage
+%%header "Tatter Jack set"
+
+X: 21
+T: Tatter Jack Walsh
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|: "D"~f3 ~d3 | "C"cAB c2 A |"D"dcA GFG| Add "A"efg |
+"D"~f3 ~d3 | "C"cAB c2 A |"D"dcA GFG | "A"Ad^c "D"d3 :|
+|: "D"dfa afd | "(Bm)"dfa agf | "G"g2 a ged | ^cde gfg |
+"D"afd fed | "C"cAB c2 ^c | "D"dcA "G"GFG| "A"Ad^c "D"d3 :|
+
+X:15
+T: My Darling Asleep
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:"D"fdd "(A)"cAA|"(G)"BGG "(D)"A2G|FAA def|"G"gfg "A"eaa|
+  "D"fdd cAA|BGG A2G|FAA def|"G"gec "D"d3:|
+|:"D"FAA Add|FAA BGG|FAA def|"G"gfg "A"eaa|
+  "D"fdd "(A)"cAA|"(G)"BGG "(D)"A2G|FAA def|"G"gec "D"d3:|
+
+X: 7
+T: The Sailors Wife
+L: 1/8
+M: 6/8
+K: Ddor
+|: "Dm"DEF E2D | d2e f2g | "C"agf edc | "F"(3ABc A "C"GEC | 
+   "Dm"DEF E2D | d2e f2g | afd "A7"ge^c | "Dm"d3 d3 :|
+|: "F"fga fga | fga agf | "C"ecg ecg | ecg gfe |
+   "Dm"fga agf | "C"efg gfe | "Dm"afd "A7"ge^c | "Dm"d3 d3 :|
+
+%%newpage
+%%header "Hedgehog set"
+
+X:14
+T: Out On The Ocean
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:E | "G"D2B BAG|BdB A2B|"C"GED G2A|"D"~B3 AGE|
+      "G"D2B BAG|BdB A2B|"C"GED G2A|"D"BGF "G"G2:|
+  B | "Em(G)"~e3 edB|~e3 edB|"D(Bm)"~d3 def|gfe dBA|
+"G"G2A "(D)"B2d|"C"~e3 dBA|"G"GED G2A|"D"BGF "G"G2:|
+
+X: 9
+T: Emmet's Hedgehog
+L: 1/8
+M: 6/8
+K: Em
+"Am"A2e edB | ~A3 AGE | ~A3 AGE | "G"GBG DEG | 
+"Am"A2e edB | ~A3 AGE | "G"GBG DEG |1 BAG "Am"A (3EFG |2 BAG "Am"A (3Bcd ||
+"Am"e2a ged | "C"c"G"B3 AG | ~B3 BAG | g2f "C"edB | 
+"Am"e2a ged | "C"c"G"B3 AG | Bge dBA |1 EFG "Am"A (3Bcd |2 EFG "Am"A (3EFG ||
+
+X: 10
+T: Donegal Lass
+L: 1/8
+M: 6/8
+K: Amix
+|: "A"Ace aed | cdB A3 | "G"GBd G3 | "D"FAd F3 | 
+   "A"Ace aed | cdB A2 a | aed "G"cdB | ABG "A"A3 :|
+|: "G"GBd G3 | "D"FAd F3 | "A"e3 ecA | e3 ecA |
+   "G"GBd G3 | "D"FAd F2 a | "A"aed "G"cdB | ABG "A"A3 :|
+
+
+%% scale 0.75
+%% maxshrink 0.80
+%% musicspace -0.2cm
+%% maxstaffsep 0.8cm
+%%newpage
+%%header "Sligo Maid Set"
+
+X:24
+T: The Sligo Maid
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|: "Am"A2BA (3B^cd ef | gedB AGEF | "G"G2BG dGBG | DEGA BAdB |
+"Am"A2BA (3B^cd ef | gedB AGEG | "G"B3G A2GE | "Am(D)"DEGA BAA2:|
+|: "Am"eaag a2ga | bgaf gfed | "G"eggf g2ge | dega bgag |
+"Am"eaag a2ga | bgaf gfed | "G"eg (3gfg edBA | "Am(D)"dBgB BAA2 :|
+
+X:18
+T: The Red Box
+L: 1/8
+M: 4/4
+K: Dmix
+|: "D"v(af)u(ge fd) ~d2 | u(cABG) AD ~D2 | v(FDF)(G A2) (AB | "C"c)u(BAB) (cd)(eg) |
+   "D"v(af)u(ge fd) ~d2 | u(cABG) AD ~D2 | v(FDF)(G A2) Au(B | "C"cA)G(E "D"ED) ~D2 :|
+|: "C"c2 u(ce gece) | "D"d2 (df af)d(f | "G"g2) vbu(g "D"f2) a(f | "Em"e^d)v(ef) "C"(ec) (AB |
+   "C"c2) u(ce ge)ce | "D"d2 (df af)d(f | "G"g2 ag) "D"fd ~d2 | "C"v(cA)(GE "D"ED) ~D2 :|
+
+X:3
+T: The Green Mountain
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+uA | "D"vAu(F~F2) vAu(FEF)|D(F~F2) v(ABd)(e|"G"f~f3) v(efd)B|"A"ABdu(f efdB)|
+"D"A(F~F2) A(FEF)|D(F~F2) (ABd)(e|"G"f~f3) v(efd)B|"A"Au(FEF) "D"vD3 :|
+ue|"D"v(f2af) u(bfaf)|d(efd) ve2(de|"G"f~f3) v(efd)B|"A"ABdu(f efdB)|
+"D"v(f2af) u(bfaf)|d(efd) ve2(de|"G"f~f3) v(efd)B|"A"Au(FEF) "D"vD3 :|
+
+
+

@@ -1,0 +1,109 @@
+%%scale 0.97
+X: 1
+T: Sparkle of Starlight
+L: 1/8
+M: 4/4
+C: Rodney Miller
+K: A
+"A"EA ~A2 BcBA | "Bm"DA ~A2 BcBA | "F#m"EA ~A2 BcBA | "E"B3A cBAF | 
+"A"EA ~A2 BcBA | "Bm"DA ~A2 BcBA | "F#m"EA ~A2 BcBA |1 "E"B3c "A"A3 F :|2 "E"B3c "A"A2 cd ||
+"A"e2ce "Bm"f2cf | "F#m"ecBc "A"A4 | "D"dcBd "A"cBAc | "E"BAGA B2 cd |
+"A"e2ce "Bm"f2cf | "F#m"ecBc "A"A4 | "D"dcBd "A"cBAc | "E"BAGE "A"A2 cd |
+"A"e2ce "Bm"faaf | "F#m"ecBc "A"A4 | "D"dcBd "A"cBAc | "E"BAGA B2 AG |
+"D"FddF "A"EccE  | "D"DABA "A"cBAE | "D"FGAd "E"cBAG |"D" A7 F |
+
+X: 2
+T: Emmet's Hedgehog
+C: Lunasa
+L: 1/8
+M: 6/8
+K: Em
+"Am"A2e edB | ~A3 AGE | ~A3 AGE | "G"GBG DEG | 
+"Am"A2e edB | ~A3 AGE | "G"GBG DEG |1 BAG "Am"A (3EFG |2 BAG "Am"A (3Bcd ||
+"Am"e2a ged | "C"c"G"B3 AG | ~B3 BAG | g2f "C"edB | 
+"Am"e2a ged | "C"c"G"B3 AG | Bge dBA |1 EFG "Am"A (3Bcd |2 EFG "Am"A (3EFG ||
+
+X: 3
+T: Donegal Lass
+C: Brian Finnegan
+L: 1/8
+M: 6/8
+K: Amix
+|: "A"Ace aed | cdB A3 | "G"GBd G3 | "D"FAd F3 | 
+   "A"Ace aed | cdB A2 a | aed "G"cdB | ABG "A"A3 :|
+|: "G"GBd G3 | "D"FAd F3 | "A"e3 ecA | e3 ecA |
+   "G"GBd G3 | "D"FAd F2 a | "A"aed "G"cdB | ABG "A"A3 :|
+
+X: 4
+T: Laride
+M: 4/4
+L: 1/8
+K: Em
+"Em"E4 B4 | A2c2 B4 | "D"A3B AGF2 | "Em"G2 A2 B4 |
+"Em"E4 B4 | A2c2 B4 | "D"A3B AGF2 | "Em"G2 F2 E4 :|
+"Em"E4 G4 | G2E2 "D"F4 | F2AB AGF2 | "Em"G2 A2 B4 | 
+"Em"E4 G4 | G2E2 "D"F4 | F2AB AGF2 | "Em"G2 F2 E4 :| 
+"^Alternate chords for B part""C"E4 G4 | G2E2 F4 | "D"F2AB AGF2 | G2 A2 B4 | 
+"C"E4 G4 | G2E2 F4 | "D"F2AB AGF2 | G2 F2 E4 | 
+W: 1) Tune x 2, then solos alternate times through the tune.
+W: 2) If time, 2 bars of call and 2 bars of response (winds vs strings)
+
+X: 5
+T: Reel du Nord
+L: 1/8
+M: 4/4
+K: Bm
+Q: 220
+"Bm"FBLBB FBLBB | FBLdB "F#m"Lc4 | "Bm"FBLBB FBLBB | "F#m"LfeLdc "Bm"LB4 |
+"Bm"FBLBB FBLBB | FBLdB "F#m"Lc4 | "Bm"FBLBB FBLBB | "F#m"LfeLdc "Bm"LB4 :||
+"A"Acec Acec | "D"dcdf a4 | "A"Acec Acec | "D"defd A4 |
+"A"Acec Acec | "D"dcdf a4 | "A"Acec Acec | "D"dfaf d4 :||
+"^Alternate chords for A part""G"FBLBB FBLBB | FBLdB Lc4 | "Em"FBLBB FBLBB | LfeLdc LB4 |
+"D"FBLBB FBLBB | FBLdB Lc4 | "F#m"FBLBB FBLBB | LfeLdc LB4 :||
+
+X: 6
+T: Nail That Catfish to the Tree
+L: 1/8
+M: 4/4
+C: Steve Rosen
+K: G
+Q: 230
+DE |"G"G2 B2 A2 B2 | cBA2 B4 |"D" ABAG FDAB | AGFD E2 D2 |
+"G"G2 B2 A2 B2 | cBA2 B4 |"D" ABAG FDEF |"G" G4 G2 :|| 
+F2 |"C" E4 G4 | c8 | "D" ABAG FDAB | AGFD E2 D2 |
+    "C" E4 G4 | c8 |1"D" ABAG FDEF |"G" G4 G2 :||2 "D" d2 c2 B2 A2 |"G" G4 ||
+
+X: 7
+T: La Bastringue
+L: 1/8
+M: 4/4
+K: D
+Q: 230
+"D"f2ff f2gf | "A"e2 c2 "D" d4 | "A"c2d2 e4 | "D"d2 e2 f4 | 
+"D"f2ff f2gf | "A"e2 c2 "D" d4 | "G"g2 f2 "A"e2 d2 | "G"B2 "A"c2 "D"d4 :||
+"D"d2 f2 a2 f2 | "C"=c2 e2 g2 e2 |"D"d2 f2 a2 f2 | "G"bgec dcBA |
+"D"d2 f2 a2 f2 | "C"=c2 e2 g2 e2 |"D"d2 f2 a2 f2 | "G"bgec d4 :||
+
+X: 8
+T: La Maison de Glace
+T: (The Ice House)
+C: Réjean Brunet 
+L: 1/8
+M: 6/8
+K: D
+|: "D"D3 DEF | A3 AFA | "G"B3 Bcd | "A"cBA GFE | 
+   "D"D3 DEF | A3 AFA |1 "G"B3 BAG | "A"F2 A E2 A :|2 "G"B3 Bcd | "A"c3 A3 |
+|: "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | dcA dcA
+   "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | "D"Adc d3 :|
+
+
+X: 9
+T: Coleman's March
+C: Traditional Southern
+L: 1/8
+M: 4/4
+K: D
+|: DE | "D"F6 EF | "G"G6 FG | "D"A3 B A2 F2 | "A" E6 FG |
+        "D"A2 d2 "A"c4 | "G"BcBA "D"FE D2 | "A"E3 F GF E2 | "D" D6 :|
+|: Bc | "Bm" d4 d3 e | "A"c8 | "G"B2 Bc dc B2 | "D"A6 FG |
+        "D"A2 d2 "A"c4 | "G"BcBA "D"FE D2 | "A"E3 F GF E2 | "D" D6 :|

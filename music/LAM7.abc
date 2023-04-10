@@ -1,0 +1,17 @@
+%%scale 1
+
+X: 1
+T: LAM 7
+T: Long Afghan Melody in Seven
+L: 1/8
+M: 7/8
+K: D
+|: F2G AB cd | c2c B2 B2 | A2B AG FG | A2A A2 A2 :| 
+|: f2f f2 f2 | f2g e2 e2 | d2d ed c2 | B2c A2 A2 :|
+|: a2g f2 f2 | g2f e2 e2 | g2f e2 d2 | cde d2 d2 :|
+|: F2F F2 G2 | A2A A2 B2 | c2d c2 B2 | A2B A2 G2 :|
+|  F2G F2 E2 | DEF FE D2 | G3  Fz z2 | DEF FE D2 |
+| EDC B,2 A,2 | DEF FE D2 | G3  Fz z2 | DEF FE D2 | EDC D2 D2 ||
+"Last time through the tune, the last measure is played as"
+M: 6/8
+| EDC D3 | EDC D3 | EDC D3 || 

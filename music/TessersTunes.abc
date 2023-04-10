@@ -1,0 +1,33 @@
+%%scale 1
+
+X: 1
+T: Launch The Boat
+L: 1/8
+M: 4/4
+K: D
+|: "D"defd AGFA | "Em"BE ~E2 "A"BAFA | "D"defd AGFD | "Em"EDEF "G"GA"A"Bc |
+   "D"defd AGFA | "Em"BE ~E2 "A"BAFA | "D"A2 FA DAFD | "A"EDCD "D"ED D2 :|
+|: "D"fd ~d2 fdad | fadf a2 gf | "Em"eggf g2 gf | efga "G"bg"A"ag |
+   "D"fd ~d2 edBc | defd AGFA | A2 FA DAFD | "A"EDCD "D"ED D2 :|
+
+X: 2
+T: The Red Box
+L: 1/8
+M: 4/4
+K: Dmix
+|: "D"afge fd ~d2 | cABG AD ~D2 | FDFG A2 AB | "C"cBAB cdeg |
+   "D"afge fd ~d2 | cABG AD ~D2 | FDFG A2 AB | "C"cAGE "D"ED ~D2 :|
+|: "C"c2 ce gece | "D"d2 df afdf | "G"g2 bg "D"f2 af | "Em"e^def "C"ec AB |
+   "C"c2 ce gece | "D"d2 df afdf | "G"g2 ag "D"fd ~d2 | "C"cAGE "D"ED ~D2 :|
+
+X: 3
+T: The Donegal Lass
+L: 1/8
+M: 6/8
+K: Amix
+|: "A"Ace aed | cdB A3 | "G"GBd G3 | "D"FAd F3 | 
+   "A"Ace aed | cdB A2 a | aed "G"cdB | ABG "A"A3 :|
+|: "G"GBd G3 | "D"FAd F3 | "A"e3 ecA | e3 ecA |
+   "G"GBd G3 | "D"FAd F2 a | "A"aed "G"cdB | ABG "A"A3 :|
+
+

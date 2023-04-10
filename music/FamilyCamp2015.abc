@@ -1,0 +1,199 @@
+%%scale 0.97
+%%newpage
+%%header "Highland Laddie / Blue Jig		$P"
+
+X: 1
+T: Highland Laddie
+C: Trad Schottish
+L: 1/8
+M: 4/4
+K: Amaj
+|: E | "A"A3B c2e2 | dcBA c3B | "E"c2B2 B2AB | c2B2 B3E | 
+"A"A3B c2e2 | dcBA c3B | "F#m"A2F2 F2EF | A2F2 F3 :|
+|: e | "D"f2a2 "A"e3c | "D"dcBA "A"c3B | "E"c2B2 B2AB | c2B2 B3 e |
+"D"f2a2 "A"e3c | "D"dcBA "A"c3B | "F#m"A2F2 F2EF | A2F2 F3 :|
+
+X: 2
+T: The Blue Jig
+C: Joel Mabus 1994
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|: "Am7"A3 cBA | cBA "D"a3 | age ^d=dc | "D7"d^de d=dc |
+   "Am7"A3 cBA | cBA "D"a3 | age "D7"cAG | "E7"EDC "Am7"A,3 :|
+|: "D7"FAB cBA | FAB cBA | "A7"^cef gfe | ^cef gfe |
+   "D7"FAB cBA | FAB cBA | "A7"age "D7"cAG | "E7"EDC "A7"A,3 :||
+
+%%newpage
+%%header "Crane's Last Twostep / An Dro		$P"
+
+
+X: 3
+T: Crane's Last Twostep
+C: Will Wheeler
+L: 1/8
+M: 4/4
+K: Amix
+|: "A"A2Ac BAA2 | cBA!>!a AA!>!aA | "G"g2ga gedA | "A"cdec "E"B4 |
+   "A"A2Ac BAA2 | cBA!>!a AA!>!aA | "G"g2ga gedA | "E"BcdB "A"A4 :|
+|: "A"aece aece | "G"ged!>!g dd!>!gd | "D"fed!>!f dd!>!fd | "A"cdec "E"B4 |
+   "A"aece aece | "G"ged!>!g dd!>!gd | "D"fed!>!f dd!>!fd | "E"BcdB "A"A4 :|
+
+X: 4
+T: An Dro
+C: Traditional - via Jim Oakden
+M: 4/4
+L: 1/8
+K: D
+|: "D"D2 D2 A4 | "G"G2 A2 "A"GFE2 | "D"D2 D2 A4 | "G"G2AG "A"E4 :|
+|: "G"G2AG "D"F2D2 | "A"E2FE "D"D2A2 | D2EF "G"G2GA |"A"GFE2 "D"D4 :| 
+
+%%newpage
+%%header "Brand		$P"
+
+X: 5
+T: Brand
+C: Pettersson & Fredriksson via Ryan McKasson
+M: 4/4
+L: 1/8
+K: Ador
+Q: 112
+| "Am"A2 AG A4-|A2 AB (3c2d2B2 | "C"e2 (3dcB (3c2B2E2 | "G"G2 F4 G2 | 
+   "Am"A2 AG A4-|A2 AB (3c2d2B2 | "C"e2 (3dcB (3c2B2E2 | "G"G4 "Am"A4 ||
+| "C"e2 (3dcB (3c2B2E2 | "G"G2 F4 G2 | "Am"A2 AB cd "Em"B2-|B4 c2 d2 | 
+   "C"e2 (3dcB (3c2B2E2 | "G"G2 F4 G2 | "Am"A2 AG A2 AG |1A4 c2 d2 :|2A6 G2 ||
+|:"^Vamp1" G,2 A A,3 A,G, |  G,2 A A,3 A,G, :|
+|:"^AltA" "C"g4  a4  | "G"B4 c2 d2 | "Am"e2 (3dcB "Em"cB3-|B6 e2 | 
+          "C"g4 a4 | "G"B4 c2 d2 | "Am"e2 ed e2 ed | e8 :| 
+
+%%newpage
+%%header "Left Handed Polka		$P"
+
+
+X: 6
+T: Left Handed Polka
+C: Christie Hubbard 2011
+R: Polka
+M: 2/4
+L: 1/8
+K: Am
+|: "Am"Ac cA | "G" BG G/A/B | "Am" Ac cA | "Em" .G2 "E".^G2 |
+   "Am"Ac cA | "G" BG G/A/B | "F" cA  "E"B^G |1 "Am" A2 A2 :|2 "Am" A2 "G"B2 |
+| "C"cg gc | "G"BG G/A/B | "C"cg gc | "G" B2 B2 |
+  "C"cg gc | "G"BG G/A/B | "F"cA "E" B^G | "Am" A2 AB |
+  "C"cg gc | "E7"B^g gB | "Am" Aa ac' | "E" b2 b2 |
+  "F"c'/b/a bg | aA Ac | "Em" BG G/A/B|"Am" A2 A2 ||
+
+%%newpage
+%%header "Nail That Catfish / Haapavesi		$P"
+
+
+X: 7
+T: Nail That Catfish to the Tree
+L: 1/8
+M: 4/4
+C: Steve Rosen
+K: G
+Q: 230
+DE |"G"G2 B2 A2 B2 | cBA2 B4 |"D" ABAG FDAB | AGFD E2 D2 |
+"G"G2 B2 A2 B2 | cBA2 B4 |"D" ABAG FDEF |"G" G4 G2 :|| 
+F2 |"C" E4 G4 | c8 | "D" ABAG FDAB | AGFD E2 D2 |
+    "C" E4 G4 | c8 |1"D" ABAG FDEF |"G" G4 G2 :||2 "D" d2 c2 B2 A2 |"G" G4 ||
+
+X: 8
+T: Haapavesi Waltz
+C: Keith Murphy
+R:Waltz
+M:3/4
+L:1/8
+K:Gmaj
+D FD|"G"FG GD FD|FG GD FG|"Am7"A2 Ac Bc |"D"A2 D2 EF|
+"G"FG GD FD|FG GD FG|"Am7"A2 Ac "D"B/2A/2F|"G"G3 :|]
+|: A Bc |"G"d2 dc BG|"C"c3 B2 c| "D"AD Dc Bc|
+A2 D2 Bc|"G"d2 dc BG|"C"c3 B2 c|"D"A2 Ac B/2A/2F|1 "G"G3:|]
+
+%%newpage
+%%header "Maison de Glace		$P"
+
+
+X: 9
+T: La Maison de Glace
+T: (The Ice House)
+C: Réjean Brunet 
+L: 1/8
+M: 6/8
+K: D
+|: "D"D3 DEF | A3 AFA | "G"B3 Bcd | "A"cBA GFE | 
+   "D"D3 DEF | A3 AFA |1 "G"B3 BAG | "A"F2 A E2 A :|2 "G"B3 Bcd | "A"c3 A3 |
+|: "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | dcA dcA
+   "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | "D"Adc d3 :|
+
+%%newpage
+%%header "Connaughtman's / Swallowtail		$P"
+
+X: 10
+T: Connaughtman's Rambles
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:"D"FAA dAA|BAB dAG|FAA dfe|"G"dBB BAG|
+  "D"FAA dAA|BAB def|"G"gfe "D"dfe|1"G"dBB BAG:|2 "G"dBB B3|
+K:Bmin
+|:"Bm"fbb "A"faa|"Bm"fef def|fbb faa|fed "A"e3|
+  "Bm"fbb "A"faa|"Bm"fef def|"G"gfe "D"dfe|1 "G"dBB B3:|2 "G"dBB BAG|
+
+X: 11
+T: The Swallowtail
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|:"Em"GEE BEE|GEG BAG|"D"FDD ADD|dcd AGF|
+  "Em"GEE BEE|GEG B2c|"D"dcd AGF|"Em"GEE E3:|
+|:"Em"Bcd e2f|e2f edc|Bcd e2f|edB "D"d3|
+  "Em"Bcd e2f|e2f edc|"D"dcd AGF|"Em"GEE E3:||
+
+%%newpage
+%%header "Blank		$P"
+X: 12
+T: Blank
+M: 6/8
+L: 1/8
+K: Edor
+abc
+
+
+%%newpage
+
+%%header "Highland Laddie Harmony		$P"
+
+X: 12
+T: Highland Laddie
+T: Harmony Parts
+C: Trad Schottish
+L: 1/8
+M: 4/4
+K: Amaj
+[V:1]|: E | A3B c2e2 | dcBA c3B | c2B2 B2AB | c2B2 B3E | 
+[V:2]|: G | c3d e2a2 | fedc e3d | e2g2 g2ed | e2g2 g3d |
+[V:3]|: B | A2Ac e2c2 | a2e2c2e2 | gfef g2b2 | gfec B2cB |
+[V:4]|: B,| A,2E2C2FE | D2E2 C4 | G,2G,B,E4  | B,2E2 E3B, |
+[V:1]A3B c2e2 | dcBA c3B | A2F2 F2EF | A2F2 F3 :|
+[V:2]c3d e2a2 | fedc e3d | c2A2 A2AB | c2A2 A3 :|
+[V:3]A2Ac e2c2 | a2e2c2e2 | cdeg f2cB | agfe f3 :|
+[V:4]A,2E2C2FE | D2E2 C4 | F2A,B, C4 | F2A,2 A,3- :|
+[V:1]|: e | f2a2 e3c | dcBA c3B | c2B2 B2AB | c2B2 B3 e |
+[V:2]|: g | d2A2 c3e | fedc e3d | a2g2 g2fa | a2g2 g3 g | 
+[V:3]|: g | d2cB AFEA | F2G2 A4 | gfef g2b2 | gfec B2cB |
+[V:4]|: A,| D2DF E2D2 | E2B,2 C4 | G,2G,B,E4  | B,2E2 E3B, |
+[V:1]       f2a2 e3c | dcBA c3B | A2F2 F2EF | A2F2 F3 :|
+[V:2]       d2A2 c3e | fedc e3d | c2A2 A2AB | c2A2 A3 :|
+[V:3]       d2cB AFEA | F2G2 A4 | cdeg f2cB | agfe f3 :|
+[V:4]       D2DF E2D2 | E2B,2 C4 | F2A,B, C4 | F2A,2 A,3- :|
+
+
+
+
+

@@ -1,0 +1,122 @@
+%% scale 0.87
+%% annotationfont * 16
+%% maxshrink 0.95
+%% titlespace 0.1cm
+%% musicspace -0.4cm
+%% topspace 0.3cm
+
+X:2
+T: Saint Sonnet
+M: 4/4
+K: Em
+%% alignbars 4
+||:"Em"B2 B2 A3G | FGAB E4 | "C"EFGA B2 AB | "D"d2 e2 B4 |
+"Em"B2 B2 A3G | FGAB E4 | "C"EFGA B2 AG | "G"FGAB "C"E4 :||
+||:"Em"B2 GB cGBc | "C"B2 GB cGBc | "D"F3 B cFBc | "Bm"F3 B cFBc |
+"Em"B2 GB cGBc | "C"B2 GB cGBc | "D"F3 c "G"BAGF | "C"EFGF E3 A :||
+
+%%newpage
+
+X: 3
+T: Emmet's Hedgehog
+L: 1/8
+M: 6/8
+K: Em
+"Am"A2e edB | ~A3 AGE | ~A3 AGE | "G"GBG DEG | 
+"Am"A2e edB | ~A3 AGE | "G"GBG DEG |1 BAG "Am"A (3EFG |2 BAG "Am"A (3Bcd ||
+"Am"e2a ged | "C"c"G"B3 AG | ~B3 BAG | g2f "C"edB | 
+"Am"e2a ged | "C"c"G"B3 AG | Bge dBA |1 EFG "Am"A (3Bcd |2 EFG "Am"A (3EFG ||
+
+X: 12
+T: Donegal Lass
+C: Brian Finnegan
+L: 1/8
+M: 6/8
+K: Amix
+|: "A"Ace aed | cdB A3 | "G"GBd G3 | "D"FAd F3 | 
+   "A"Ace aed | cdB A2 a | aed "G"cdB | ABG "A"A3 :|
+|: "G"GBd G3 | "D"FAd F3 | "A"e3 ecA | e3 ecA |
+   "G"GBd G3 | "D"FAd F2 a | "A"aed "G"cdB | ABG "A"A3 :|
+
+%%newpage
+%%header "La Ligue Set	"
+
+X: 10
+T: Quand j'etais chez mon père
+L: 1/8
+M: 4/4
+K: G
+%%MIDI chordvol 0
+%%MIDI bassvol 0
+[V:N]|: d | "G"GABc dBd2 | "C"eeee/e/ e "G"d/d3/2 :|
+[V:T]|: B |    GGGA BGB2 |    cccc/c/ c    B/B3/2 :|
+[V:B]|: D |    DDDD GDG2 |    GGGG/G/ G    D/D3/2 :|
+w: J'me cache derr-ièr la porte oh djè ral-fa dla dla dla hou-di-ame
+w: I'~y~a de la soupe dans~l'-potte, oh djè!
+w: I'~y~a des os sous la table, oh djè!
+w: Quand j'e-tais chez mon père, oh djè!
+[V:N]| e | "G"dcBA G4   | GGGG/G/      B "D"A/A3/2 e |
+[V:T]| c |    BAGF G4   | DDDD/D/      G    F/F3/2 c |
+[V:B]| G |    GGGD D4   | B,B,B,B,/B,/ D    D/D3/2 G |
+w: Ay-ant honte à ren-trer Ral-fa dla dla dla hou-di-ame Ay-
+w: mais, mets-y pas ton nez * * * * * * * *  mais,
+w: Les chiens les ont ron-gés, * * * * * * * * Les
+w: Ti gar-çon gar-çon-nait * * * * * * * * Ti
+[V:N]"G"    dcBA G2 "C"c2 | "G"BG/G/ "D"A A/ "G"G5 |
+[V:T]       BAGF G4       |    GG/G/    F F/    G5 |
+[V:B]       GGGD D2    E2 |    DD/D/    D D/    D5 |
+w: ant honte à ren-trer Ral-fa dla dla hou-di-ame
+w: mets-y pas ton nez
+w: chiens les ont ron-gés
+w: gar-çon gar-çon-nait
+
+X:4
+T:La Ligue de Vieux Poele (in G)
+L:1/8
+M:4/4
+K:Gmaj
+"G"G3 (A B3 A) | A(GFD) "D"A(DEF) | "G"G2(AG B2) (AB) | u(AGFD) "C"EC "D"(D2 |
+"G"G3) (A B3 A) | A(GFD) "D"A(DEF) | "G"G2(AG B2) (AB) | u(AGFD) "C"E3 D :||
+"D"A3 (A GFED) | "G"G2(BG AG)(BG | "C"c3) u(c "G"BA)Gu(B | "Em"AE)Eu(D E4) |1
+"D"A3 (A GFED) | "G"G2(BG AG)(BG | "C"c3) u(c "G"BA)GB | "D"+>+AAA +>+AAA +>+AG :||2
+"D"A3 (A GFED) | "G"G2(BG AG)(BG | "C"c3) u(c "G"BA)GB| "D"A(DcB) A(GBA) ||
+"^Alt Chords for A part" "Em"G3 A B3 A | AGFD ADEF | "Bm"GDAD B2 AB | AGFD EC D2 |
+"C"G3 A B3 A | AGFD ADEF | "Bm"GDAD "G"B2 AB | "D"AGFD "C"E3 D ||
+
+%%newpage
+%%header "	"
+
+X:19
+T: Anthony Frawley's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:BA|"G"GED GBA|GED ~G3|GED GAB|"C"dBA "D"~B2 A|
+"G"GED GAB|def g2a|bag (3efg e|"C"dBG "D"A:|
+|:Bc|"G"~d3 "C"edB|"D"def "G"gfe|~d3 edB|dBA "D"ABc|
+     "G"~d3 "C"edB|"D"def "G"g2a|"C"bag (3efg e|dBG "D"A:|
+
+X:20
+T: La Maison de Glace
+L: 1/8
+M: 6/8
+K: D
+|: "D"D3 DEF | A3 AFA | "G"B3 Bcd | "A"cBA GFE | 
+   "D"D3 DEF | A3 AFA |1 "G"B3 BAG | "A"F2 A E2 A :|2 "G"B3 Bcd | "A"c3 A3 |
+|: "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | dcA dcA
+   "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | "D"Adc d3 :|
+
+%%newpage
+%%header "Laride		$P"
+
+X: 1
+T: Laride
+M: 4/4
+L: 1/8
+K: Em
+"Em"E4 B4 | "(D)"A2c2 "Em"B4 | "D"A3B AGF2 | "(C )"G2 "D"A2 "Em"B4 |
+"Em"E4 B4 | "(D)"A2c2 "Em"B4 | "D"A3B AGF2 | "(C )"G2 "D"F2 "Em"E4 |
+"Em(C )"E4 G4 | G2E2 "D"F4 | F2AB AGF2 | "Em"G2 A2 B4 | 
+"Em(C )"E4 G4 | G2E2 "D"F4 | F2AB AGF2 | "(C )"G2 "D"F2 "Em"E4 | 
+
