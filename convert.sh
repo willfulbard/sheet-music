@@ -25,3 +25,14 @@ cat << EOF >> ../build/index.html
 </ul>
 
 EOF
+
+# Concat pdf & ps files
+# gs \
+#   -o merged.pdf \
+#   -sDEVICE=pdfwrite \
+#   -dPDFSETTINGS=/prepress \
+#    input_1.pdf \
+#    input_2.pdf \
+#    input_3.eps \
+#    input_4.ps \
+#    input_5.pdf
