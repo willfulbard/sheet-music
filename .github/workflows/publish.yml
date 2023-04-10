@@ -23,7 +23,7 @@ jobs:
           path: ~/.npm
           key: ${{ runner.os }}-node_modules-${{ hashFiles('**/package-lock.json') }}
 
-      - run: npm ci
+            #      - run: npm install
       - run: mkdir build && echo "Hello" > build/index.html
 
       - name: Deploy JS to js-build-main
