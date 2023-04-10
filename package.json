@@ -1,0 +1,11 @@
+{
+  "name": "sheet-music",
+  "version": "1.0.0",
+  "description": "Sheet music for my various projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
