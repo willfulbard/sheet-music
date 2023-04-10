@@ -3,8 +3,6 @@ name: Build PDFs
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
  
 jobs:
   build:
@@ -24,13 +22,25 @@ jobs:
           key: ${{ runner.os }}-node_modules-${{ hashFiles('**/package-lock.json') }}
 
             #      - run: npm install
-      - run: mkdir build && echo "Hello" > build/index.html
-
-      - name: Deploy JS to js-build-main
-        if: github.ref == 'refs/heads/main'
-        uses: peaceiris/actions-gh-pages@v3
+      - run: mkdir build && echo "Hello, World" > build/index.html
+      - uses: actions/upload-pages-artifact@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
-          force_orphan: true
-          publish_dir: ./build
+          path: build/
+
+  deploy:
+    needs: build
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+
+    # Specify runner + deployment step
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
