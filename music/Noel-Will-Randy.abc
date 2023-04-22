@@ -551,16 +551,16 @@ K: Amaj
 |:"A"cee ece|fec ecA|cee ecA|"D"EFA "E"B2A|
   "A"cee ece|fec e2a|"D"f2a "A"e2a|"E"ABc B2A:|
 
-X: 10
+X: 1
 T: Calliope House
 R: jig
 M: 6/8
 L: 1/8
-K: Emaj
-|:"E"eBB gBB| fBB gBB|"A"cff f2e|"B"fgf ecB|
-  "E"GBB B2G| B2c e2f|1 "A"g2g gfe|"B"f3 f2B:|2 "A" g2g "B"fec|"E"e3 fga||
-|:"E"b2b gbb|fbb gbb|"A"a2a gag|"B"fgf fec|
-"E"GBB B2G| B2c e2f|1 "A"g2g gfe|"B"f3 fga:|2 "A"g2g fec|"E"e3e3||
+K:Dmaj
+|:"D"dAA fAA| eAA fAA|"G"Bee e2d|"A"efe dBA|
+  "D"FAA A2F| A2B d2e|1 "G"f2f fed|"A"e3 e2A:|2 "G" f2f "A"edB|"D"d3 efg||
+|:"D"a2a faa|eaa faa|"G"g2g fgf|"A"efe edB|
+  "D"FAA A2F| A2B d2e|1 "G"f2f fed|"A"e3 efg:|2 "G"f2f edB|"D"d3d3||
 
 %%newpage
 %% header "Randy+Will+Noel - Laride / Scottish du Stockfish 2		$P"
