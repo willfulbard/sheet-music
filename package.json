@@ -2,10 +2,14 @@
   "name": "sheet-music",
   "version": "1.0.0",
   "description": "Sheet music for my various projects",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "yaml": "^2.2.1"
+  }
 }

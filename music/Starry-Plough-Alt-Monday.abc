@@ -1,0 +1,636 @@
+%% scale 0.87
+%% annotationfont * 16
+%% maxshrink 0.95
+%% titlespace 0.1cm
+%% musicspace -0.4cm
+%% topspace 0.3cm
+
+%% header "Starry Plough Will's Sets - TOC		$P"
+X: 1
+T: Table of Contents
+L: 1/8
+M: C
+K: C
+W: Road to Errogie - Page 2
+W: Lady Anne Montgomery / Maggie's Pancakes - Page 3
+W: Evit Gabriel / Frank's - Page 4
+W: Wedding Reel / Far From Home - Page 5
+W: Julia Delaney's / Superfly - Page 6
+W: Banshee / Maid Behind The Bar - Page 7
+W: Bus Stop / Earl's Chair - Page 8
+W: High Drive / Old Copper Plate - Page 9-10
+W: Sweeney's Buttermilk / Cooley's - Page 11
+W: Spootiskerry / Catharsis - Page 12
+W: Green Mountain / Old Bush - Page 13
+W: Music For A Found Harmonium / Acorn Stomp - Page 14-15
+W: Maison de Glace / Fée Des Dents - Page 16
+W: Stan Chapman's / Rose In The Heather - Page 17
+W: Disconnect / Sailor's Wife - Page 18
+W: Emmet's Hedgehog / Donegal Lass - Page 19
+W: My Darling Asleep / Star Above The Garter - Page 20
+W: Spotted Dog / Calliope House - Page 21
+W: Laride / Scottish du Stockfish 2 - Page 22
+W: Rose Tree / Britches Full Of Stitches - Page 23
+W: Coral Riff - Page 24
+W: Waltz - Page 25+
+
+%%newpage
+%% header "Starry Plough Will's Sets - Road to Errogie		$P"
+%%scale 0.70
+X: 1
+T: The Road To Errogie
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+Q: 180
+"G"DG~G2 AGAB|dG~G2 ABdB|"C"e3g dBG2|"D"A3B AGEG|
+"G"DG~G2 AGAB|dG~G2 ABdB|"C"e3g dBG2|"D"AG F/E/D "G"G2 BG:||
+"G"dgg2 g2ag|ab2a g3d|"C"e2d "G"g2d"C"e2-|ed"D"gd edBc|
+"G"dgg2 g2ag|ab2a g3d|"C"e3g "G"dBGE|"D"AG F/E/D "G"G4|
+"G"dgg2 g2ag|ab2a g3d|"C"e2d "G"g2d"C"e2-|ed"D"gd edBc|
+"G"DG~G2 AGAB|dG~G2 ABdB|"C"e3g dBG2|"D"AG F/E/D "G"G2 BG||
+
+X: 2
+T: The Road To Errogie
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+Q: 180
+"A"EA~A2 BABc|eA~A2 Bcec|"D"f3a ecA2|"E"B3c BAFA|
+"A"EA~A2 BABc|eA~A2 Bcec|"D"f3a ecA2|"E"BA G/F/E "A"A2 cA:|
+"A"eaa2 a2ba|bc'2b a3e|"D"f2e "A"a2e"D"f2-|fe"A"ae fecd|
+"A"eaa2 a2ba|bc'2b a3e|"D"f3a "A"ecAF|"E"BA G/F/E "A"A4|
+"A"eaa2 a2ba|bc'2b a3e|"D"f2e "A"a2e"D"f2-|feae fecd|
+"A"EA~A2 BABc|eA~A2 Bcec|"D"f3a ecA2|"E"BA G/F/E "A"A2 cA:|
+
+%% scale 0.87
+%%newpage
+%% header "Starry Plough Will's Sets - Lady Anne Montgomery / Maggie's Pancakes		$P"
+
+
+X: 1
+T: Lady Anne Montgomery
+T: New England Version
+C: Repeat the A part 4 times
+L: 1/8
+M: 4/4
+K: D
+|: DE | "D"FDAD FDAD | "(Bm)"BAdA "G"B2Bc | "D"dBAF "A"E2 FE | "D"DB,A,B, D2 :|
+|: de | "D"f4 fede | fedB ABde | f4 fede | "G"fgaf "A"e2de |
+        "D"f4 fede | fedB ABde | fdec d2BA | "A"FDEC "D"D2 :|
+
+X: 1
+T: Maggie's Pancakes
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|:"Bm"fB~B2 fgfe|"G"dBAB GBdB|"A"cAAd AAeA|Aaec "F#m"Aceg|
+"Bm"fB~B2 fgfe|"G"dBAB GBdB|"A"cABc defg|"F#m"afec "Bm"B3e:|
+|:"Bm"f2dB "G"GBdB|"A"caec dB~B2|"Bm"f2dB "G"GBdB|"F#m"caec Bcde|
+"D"fd~d2 fgfe|"G"dBAB GBdB|"A"cABc defg|"F#m"afec "Bm"B3e:|
+
+
+%%newpage
+%% header "Starry Plough Will's Sets - Evit Gabriel / Frank's		$P"
+
+X: 1
+T: Evit Gabriel
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:"Em"EFGF EFGF|EFGA B4|"Am"cBAG F2GA|"B7"BAGB F2 GF|
+"Em"EFGF EFGF|EFGA B4|"Am"cBAG FGAc|"B7"BAFG "Em"E4:|
+|:"Am"eAAe "D7"dcBc|"G"dGGd "C"cBAG|"Am/F#"FGAc "B7"BAGF|"Em"EFGA "E7"B2cd|
+"Am"eAAe "D7"dcBc|"G"dGGd "C"cBAG|"Am/F#"FGAc "B7"BAGF|"Em"EG FD E4:|
+
+X: 1
+T: Frank's
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|:"A"AcBA F2 AF|"A"EFAB cABc|"D"d3f ecAe|"E"faec (3Bcd cB|
+"A"AcBA F2AF|"A"EFAB cABc|"D"d3f ecAc|1 "E"BAGB A3"A"G:|2 "E"BAGB "A"A2 (3cde||
+"A"aAAg AAfA|"A"effe cABc|"D"d3f ecAc|"E"Bcde fe (3efg|
+"A"aAAg AAfA|"A"effe cABc|"D"df f2 ecAc|"E"BAGB A2 (3cde|
+"F#m"aAAg AAfA|"F#m"effe cABc|"D"d3f eAce|"E"faec (3Bcd cB|
+"A"AcBA F3A|"A"EFAB cABc|"D"d3f ecAc|"E"BAGB "A"A4|
+
+%%newpage
+%% header "Starry Plough Will's Sets - Wedding Reel / Far From Home		$P"
+
+
+X: 8
+T: The Wedding Reel
+T: MacLeod's Farewell
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:DE|"D"F2BF AFEF|D2DE FABd|"Em"e2fd efdB|"A"ABde dBAG|
+     "D"F2BF AFEF|D2DE FABd|"Em"e2fd efdB|"A"ABde "D"d2:|
+|:dB|"D"A3f edfd| A3f edfd|"G"ABdA "(Bm)"BdAB|"Em"dBAF "A"E2DE|
+"D"F2BF AFEF|D2DE FABd|"Em"e2fd efdB|"A"ABde "D"d2:|
+
+X: 5
+T: Far From Home
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:D|"G"GEDE G2GA|B2BA Bcd2|"C"GEDE G2GB|"D"AGAB AGE2|
+"G"GEDE G2GA|B2BA Bcd2|"C"edef gedc|"D"BGAF "G"G3:|
+|:d|:"Em"g2ge "D"f2fd|"C"edef edB2|"G"gedB G2B2|"C"AGAB "D"AGE2 |
+"G"GEDE G2GA|B2BA Bcd2|"C"edef gedc|"D"BGAF "G"G3:||
+
+%%newpage
+%% header "Starry Plough Will's Sets - Julia Delaney's / Superfly		$P"
+
+X: 7
+T: Julia Delaney's
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+|:c|"Dm"dcAG F2 DF|"C"E2 CE "Dm" FEFA|"Dm"dcAG F2 DF|Add^c defe|
+"Dm"dcAG F2 DF|"C"E2 CE "Dm"FEFA|"Dm"dcAG F2 DF|"A"Add^c "Dm"d2 d:|
+|:e|"Dm"fede "(F)"fagf|"C"ecgc acge|"Dm"fede "(F)"fagf|"C"edcG "Dm"Adde|
+"Dm"fede "(F)"fagf|"C"ecgc acge|"Dm"fedf "C"edcG|"A"Add^c "D"d2 d:|
+
+
+X: 1
+T: Superfly
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|:"Bm"Bf ~f2 gfeg|f3 g fedf|"A"e3 f edce|dBBA BAFA|
+  "Bm"Bf ~f2 gfeg|f3 g fedf|"A"e3 f edce|dBBA "Bm"B2 BA:|
+|:"Bm"Bcde f2 Bc|defB "G"g2 Bc|defd "D"agfa|"G"gfeg "F#"fedc|
+  "Bm"Bcde f2 Bc|defB "G"g2 Bc|defd "D"agfa|"G"gfeg "F#"f4:|
+
+
+%%newpage
+%% header "Starry Plough Will's Sets - Banshee / Maid Behind The Bar		$P"
+
+X: 12
+T: The Banshee
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+"G"~G3D EDEG|AGAB d2 Bd|"C"eged BAGA|"G"BAGE "D"EDEF|
+"G"~G3D EDEG|AGAB d2 Bd|"C"eged BAGA|"G"BAGE "D"EDD2:||
+"C"eaag "D"efge|"Em"dBBA B2Bd|"Em"e~B3 eBgB|eBBA B2Bd|
+"C"eaag "D"efge|"Em"dBBA B2Bd|"C"eged BAGA|"G"BAGE "D"EDD2:||
+
+X: 4
+T: The Maid Behind The Bar
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:"D"FAAB AFED|FAAB A2de|"G"fBBA Bcde|"D"fdgf "A"efdB|
+  "D"FAAB AFED|FAAB A2de|"G"fBBA BcdB|1 "A"AFEF "D"D2DE:|2 "A"AFEF "D"D2de:||
+|:"D"faag fdde|"D"fdad fdd2|"Em"efga beef|"G"gebe "A"geeg|
+"D"fgaf b2af|"D"defd "A"e2de|"G"fBBA BcdB|1 "A"AFEF "D"D2de:|2 "A"AFEF "D"D4||
+
+%%newpage
+%% header "Starry Plough Will's Sets - Bus Stop / Earl's Chair		$P"
+
+X: 3
+T: The Bus Stop
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+|:"Am"A2 eA dA c2|"Am"ABcA "G"BAGB|"Am"A2eA dAc2|"F"cde^f "G"gedB|
+"Am"A2 eA dAc2|"Am"ABcA "G"BAG2|"F"FGAc "G"BAGA|"Am"cABG A4:|
+|:"Am"e a2 g edcB|ABcd e4|"Am" e a2 g ed c2|"D"de^fd "E"e4|
+"Am" e a2 g edcB|ABcd e2 dc|"G"BAGF EFGB|"Am"cABG A4:|
+
+X: 7
+T: The Earl's Chair
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A|"Bm"B2 dB BAFA|"(G)"B2 dB BAFB|"D"A F ~F2 D F ~F2|AFdB ADFA|
+"Bm"B2 dB BAFA|"(G)"B2 dB BAFB|"A"AFAB "D"dcdf|"A"edef "D"d3|
+f|"A" edef "D"d2 Bd|"A"edef "D"dBAB|"A" edef "D" d2de|"D"fedB ADFA|
+"A" e2ef "Bm"d B ~B2|"G"g B ~B2 defg|"A"afbf "D"afeg|fedB "A"A3|
+
+%%newpage
+%% header "Starry Plough Will's Sets - High Drive / Old Copper Plate		$P"
+%% scale 0.7
+
+X: 1
+T: The High Drive
+R: reel
+M: 4/4
+L: 1/8
+K: D
+|: "D" d3e fedA | "G"B2gB BAGB | "A"A2Ae fedf | eA~A2 efge |
+   "D" d3e fedA | "G"B2gB BAGB | "A"A2Ae fedf |1 edce "D"d2 A2 :|2 edce "D"defg ||
+   "D" a3g ad~d2 | "G"AB~B2 gBdB | "A".A~A2e fedf | eA~A2 efge |
+   "D" a3g ad~d2 | "G"AB~B2 gBdB | "A".A~A2e fedf | edce "D"defg |
+   "D" a3g ad~d2 | "G"AB~B2 gBdB | "A".A~A2e fedf | eA~A2 efge |
+   "D" d3e fedA | "G"B2gB BAGB | "A"A2Ae fedf | edce "D"d2 A2 ||
+|: "D"dAeA fA~A2 | "G"gBBA Bgag | "D"fA~A2 fedf | "A"eA~A2 efge |
+   "D"dAeA fA~A2 | "G"gBBA Bgag | "D"fA~A2 fedf |1 "A"edce "D"d2 A2 :|2 "A"edce "D"defg |
+|: "D"aAA aAA aA | "G"gAA gAA gA | "D"fAA fAA fA | "A"eAA eAA eA |
+   "D"aAA aAA aA | "G"gAA gAA gA | "D"fA~A2 fedf |1 "A"edce "D"defg :|2 "A"edce "D"d2 A2 ||
+
+X: 6
+T: The Old Copperplate
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:"Am" A2 EA cA ~A2 |aged cA ~A2 |"G" G2 DG BGBd| gedc BAGB|
+"Am" A2 EA cA ~A2| aged cAGB| "G"ABcd efge| aged "Am"cA ~A2:|
+|:"Am" ageg a2 eg|aged cA ~A2|"G" gfef g2 ef|gedc BG ~G2|
+  "Am" ageg a2 eg| aged cAGB| "G"ABcd efge|aged "Am"cA ~A2:|
+
+%% scale 0.87
+%%newpage
+%% header "Starry Plough Will's Sets - Sweeney's Buttermilk / Cooley's		$P"
+
+X: 6
+T: Sweeney's Buttermilk
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|:"Bm"F~B3 F~B3|"D"dcBc "A"A~E3|"Bm"F~B3 ABce|"A"afec Baga|
+"D"f2 ec fecf|"A"ecBc BAFE|"Bm"F~B3 ABce|1 "A"afec "Bm"B4:|2 "A"faec "Bm"B2 BA:|
+|:"Bm"FBdc B~F3|"A"EAcB A~E3|"Bm"FBdc (3Bcd fb|"G"afec "A"dBcA|
+"D"Bcde f~B2g|"A"afec ABce|"Bm"fe (3fga "G"bafb|"A"afec "Bm"B2 BA:|
+
+X: 7
+T: Cooley's
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+ED|"Em"EBBA B2 EB|"Em"B2 AB dBAG|"D"(3FED AD BDAD|"D"(3FED AD BAGF|
+"Em"EBBA B2 EB|"Em" B2 AB defg|"D" afec dBAF|"D"DEFD "Em"E2:|
+|:gf|"Em"eB~B2 eBgf|"Em"eB~B2 gedB|"D"~A2 FA DAFA|"D"~A2 FA defg|
+"Em"eBB2 eBgf|"Em"eBB2 defg|"D"afec dBAF|"D"DEFD "Em"E2:|
+
+%%newpage
+%% header "Starry Plough Will's Sets - Spootiskerry / Catharsis		$P"
+
+X: 1
+T: Spootiskerry
+L: 1/8
+M: 4/4
+K: G
+DE |: "G"G2 DE GDEG | DEGA B2 AB | G2 DE GABd | "C"eged "D"B2 AB |
+"G"G2 DE GDEG | DEGA B2 AB | "C"g2 ed edBA |1 "D"B2 G2 "G"G2 DE :|2 "D"B2 G2 "G"G2 ef||
+"Em"g2 eded B2 | "D"BABG E2 DE | "C"GABd eged | "D"B2 A2 A2 ef |
+"Em"g2 eded B2 | "D"BABG E2 DE | "C"GABd eged | "D"B2 G2 G2 ef |
+"Em"g2 eded B2 | "D"BABG E2 DE | "C"GABd eged | "D"B2 A2 A2 DE |
+"^G desc. line"G2 DE GDEG | DEGA B2 AB | "C"g2 ed edBA | "D"B2 G2 "G"G2 |]
+
+X: 9
+T: Catharsis
+R: reel
+M: 4/4
+L: 1/8
+K: Gmin
+"Gm"DF GF DF GF|DF GA BG AF|DF GF DF GF|"F" DE DC "Dm"B,C A,B,|
+"Gm" G,F GF DF GF|DF GA B2 Bc|"Eb"dc BA BA GF|1 "Dm" DG GF "Gm"G2 G2:|2 "Dm"DG GF "Gm"GA Bc||
+"Gm"dG Gc GG BG|GA GG AG Ac|"F"dF Fc FF BF|FA FF AG Ac|
+"Eb" dE Ec EE BE|EA EE AG Ac|"Cm" dc BA "Gm"BA GF|1 "Dm" DG GF "Gm"GA Bc]:|2 "Dm" DG GF "Gm"G2 G2||
+
+%%newpage
+%% header "Starry Plough Will's Sets - Green Mountain / Old Bush		$P"
+
+
+X: 3
+T: The Green Mountain
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:"D"A~F3 AFEF|D~F3 ABde|"G"~f3d efdB|"A"Adfd edBd|
+"D"A~F3 AFEF|D~F3 ABde|"G"~f3d efdB|1 "A"AFEF "D"D2 dB :|2 "A"AFEF "D"D2 de||
+|:"D"f~a3 bafe|f2 af efde|"G"f2 df efdB|"A"Adfd edBd|
+"D"f~a3 bafe|f2 af efde|"G"f2 df efdB|1 "A"AFEF "D"D2 de:|2 "A"AFEF "D"D2 dB||
+
+
+X: 4
+T: The Old Bush
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+"Am(D)"A2GA "C"cA~A2|"D"d^cde fde=c|"Am(D)"A2GA "C"cA~A2|"D"dfed cAdc|
+"Am(D)"A2GA "C"cA~A2|"D"d^cde ~f3g|afge fde^c|1 dfed "C"cAdc:|2 dfed cA~A2||
+|:"C"eg~g2 edcd|egge c3d|eg~g2 "D"afge|dfed "Am"cA~A2|
+"C"eg~g2 ag~g2|egge "D"defg|afge fde^c|1 dfed "Am"cA~A2:|2 dfed cAdc||
+
+%%newpage
+%% header "Starry Plough Will's Sets - Music For A Found Harmonium / Acorn Stomp		$P"
+%% scale 0.7
+
+X: 1
+T: Music For A Found Harmonium
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+DE|:FDGD FDDD|FDGD FDDD|FDGD FDDD|EDCD FDDD:|
+|:EDCD EDCD|FDCD FDCD|GDED CDGD|1 FDDD D2 DD:|2 FDDD D2 D=F||
+K: Cmaj
+|:cFEF {EF}GFEF|1 cFEF EE2 F:|2 cFEF EE2 D||
+K: Fmaj
+BFDF GFDF|BFDF GFDF|BFEF GEEG|BFEF GEEG|
+^cGEG cGGG|^cGEG cGGG|^cGEG cGGG|^cGEG cGGG|
+K: Dmaj
+|:FDGD FDDD|FDGD FDDD|FDGD FDDD|EDCD FDDD:|
+|:EDCD EDCD|FD=CD FDCD|GDED CDED|1 FDDD D2 DD:|2 FDDD D4||
+
+X: 1
+T: The Acorn Stomp
+R: reel
+M: 4/4
+L: 1/8
+K: Fmaj
+"C7" ccd^d e b2 e|aeg a2 ged|"F" AAB=B c a2 f|gfg f2 d"Bb" c2|
+d3"Bdim" f2 dc"F"A|cAc"D7" d2 cA"G"F|GFGA =BGA"C7"B|cAB=B c"C7" z3|
+ccd^d e b2 e|aeg a2 ge"F"d|AAB=B c a2 f|g^fg=f- f2 c"Bb"^c|
+d f2 d fdf"F"d|c f2 c f2"C7" c2-|cfgf afd"F"c|f6 (3f"C7"gf|
+|:ecd^d ec=d^d|ecd^d e c2"F" e|fAdA c f2 c|dcAc z cd"C7"^d|
+ecd^d ec=d^d|ecd^d e c2"F" e|fcdA c f2 c|dcAc- c2"C7" e2|
+ecbe aege|c b2 e a"F"ege|c a2 e gfcA|c a2 f g"Bb"faf|
+d f2 d f"F"dfd|c f2 c"C7" f2 cf|ffgf a"F"fdc|f6"C7" z2:|
+|:ccde f a2 F|GGFG A c2"F" f|cdAc AFGA|FGDE"C7" c4|ccde f a2 F|
+GGFG A c2"F" f|cdAc AFGA|FGE F4"C7" z:|
+|:f4- fgaf|cAdA cAFA|f4- fgaf|afga gfdc|
+f4- fgaf|cAdA cAFA|fcdA cAFG|AFGE F2 z2:|
+
+%% scale 0.87
+%%newpage
+%% header "Starry Plough Will's Sets - Maison de Glace / Fée Des Dents		$P"
+
+X: 9
+T: La Maison de Glace
+T: (The Ice House)
+C: Réjean Brunet 
+L: 1/8
+M: 6/8
+K: D
+|: "D"D3 DEF | A3 AFA | "G"B3 Bcd | "A"cBA GFE | 
+   "D"D3 DEF | A3 AFA |1 "G"B3 BAG | "A"F2 A E2 A :|2 "G"B3 Bcd | "A"c3 A3 |
+|: "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | dcA dcA
+   "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | "D"Adc d3 :|
+
+X: 1
+T: La Fée Des Dents
+C: André Brunet
+M: 6/8
+L: 1/8
+K: G
+|: "G"B2 D2 GA | Bdc BAG | "C"c2 E2 FG | "D"FAG FED |
+"G"B2 D2 GA | "Em"Bdc Bgf | "C"eg "D"d2 cB | AGF "G"G3 :|
+|: "C"e3 edB | "Am"ced cBc | "G"d2 B2 AG | "Em"Bdc BAG |
+"C"e3 efg | "D"af d2 cB | "C"ced cBA | "D"AGF "G"G3 :||
+
+%%newpage
+%% header "Starry Plough Will's Sets - Stan Chapman's / Rose In The Heather		$P"
+
+X: 1
+T: Stan Chapman's
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+"A"~E3 EFA|"Bm"~B3 Bce|"D"fea fec|"E"ecA BAF|
+"A"~E3 EFA|"Bm"~B3 Bce|"D"fea fec|"E"ecA "A"A3:|
+"A"e3 ece|"Bm"~f3 fga|"A"ecA "E"~B3|"F#m"cAF F3|
+"A"e3 ece|"Bm"~f3 fga|"E"ecA ~B3 | "A"cAA A3:||
+
+X: 8
+T: The Rose In The Heather
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:"D"~F3 "A"~E3|"D"DFA BAF|"G"ABd ede|"A"fdB AFE|
+"D"~F3 "A"~E3|"D"DFA BAF|"G"AdB "D"AFE|1 "A"FDC "D"D2A:|2 "A"FDC "D"D2e||
+|:"D"fdB ABd|"D"f2a afd|"G"g2g fed|"Em"Bee "A"efg|
+"D"fdB ABd|"D"faa afa|"G"bag "D"fge|1 "A"fdc "D"d2 e:|2 "A"fdc "D"dAG||
+
+%%newpage
+%% header "Starry Plough Will's Sets - Disconnect / Sailor's Wife		$P"
+
+X: 1
+T: Disconnect
+M: 6/8
+L: 1/8
+K: Em
+|: "Em" E2 E B2 c-|c BA Bcd |"D" D2 D A2 B-|B AG F2 G |
+   "Em" E2 E B2 c-|c BA Bcd |"D" D2 D Bcd |1 D2 D F2 G :|2 D2 D Bcd |
+|: "C" e2 G GFG |"D" A3 ABc | "Bm" d2 F FEF |"Em" G3 Bcd |
+"C" e2 G GFG | "D" A3 d2 c | "Bm" BAG FED |1 "Em" EFG ABd :|2 EFG FED ||
+
+X: 1
+T: The Sailor's Wife
+L: 1/8
+M: 6/8
+K: Ddor
+|: "Dm"DEF E2D | d2e f2g | "C"agf edc | "F"(3ABc A "C"GEC |
+   "Dm"DEF E2D | d2e f2g | afd "A7"ge^c | "Dm"d3 d3 :|
+|: "F"fga fga | fga agf | "C"ecg ecg | ecg gfe |
+   "Dm"fga agf | "C"efg gfe | "Dm"afd "A7"ge^c | "Dm"d3 d3 :|
+
+%%newpage
+%% header "Starry Plough Will's Sets - Emmet's Hedgehog / Donegal Lass		$P"
+
+X: 1
+T: Emmet's Hedgehog
+L: 1/8
+M: 6/8
+K: Em
+"Am"A2e edB | ~A3 AGE | ~A3 AGE | "G"GBG DEG | 
+"Am"A2e edB | ~A3 AGE | "G"GBG DEG |1 BAG "Am"A (3EFG |2 BAG "Am"A (3Bcd ||
+"Am"e2a ged | "C"c"G"B3 AG | ~B3 BAG | g2f "C"edB | 
+"Am"e2a ged | "C"c"G"B3 AG | Bge dBA |1 EFG "Am"A (3Bcd |2 EFG "Am"A (3EFG ||
+
+X: 1
+T: Donegal Lass
+L: 1/8
+M: 6/8
+K: Amix
+|: "A"Ace aed | cdB A3 | "G"GBd G3 | "D"FAd F3 | 
+   "A"Ace aed | cdB A2 a | aed "G"cdB | ABG "A"A3 :|
+|: "G"GBd G3 | "D"FAd F3 | "A"e3 ecA | e3 ecA |
+   "G"GBd G3 | "D"FAd F2 a | "A"aed "G"cdB | ABG "A"A3 :|
+
+%%newpage
+%% header "Starry Plough Will's Sets - My Darling Asleep / Star Above The Garter		$P"
+
+X: 1
+T: My Darling Asleep
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:"D"fdd "(A)"cAA|"(G)"BGG "(D)"A2G|FAA def|"G"gfg "A"eaa|
+  "D"fdd cAA|BGG A2G|FAA def|"G"gec "D"d3:|
+|:"D"FAA Add|FAA BGG|FAA def|"G"gfg "A"eaa|
+  "D"fdd "(A)"cAA|"(G)"BGG "(D)"A2G|FAA def|"G"gec "D"d3:|
+
+X: 5
+T: The Star Above The Garter
+R: slide
+M: 6/8
+L: 1/8
+K: Gmaj
+|:"G"d2B BAG | "Am"~A3 ABA|"C"G2E c2B | BAG "D"ABc|
+  "G"d2B BAG | "D"~A3 ABA|1 "C"G2E c2E | "D"E2D DBc:|2 "C"G2E c2E | "D"E2D D2c||
+|:"D"d2e f2a | "C"g2e d2B|"G"G2B c2B | BAG "D"ABc|
+  "D"d2e f2a | "C"g2e d2B|1 "G"G2B "C"c2E | "D"E2D D2c:|2 G2B"C"c2E | "D"E2D D3||
+
+%%newpage
+%% header "Starry Plough Will's Sets - Spotted Dog / Calliope House		$P"
+
+X: 1
+T: The Spotted Dog
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+|:"A"EAA ABc| BAF AFE|"Bm"FBB B2e|"D"~f3 "E"ecA|
+  "A"EAA ABc| BAF A2e|"D"f2a "A"e2a|1 "E"ABc BAF:|2 "E"ABc B2A||
+|:"A"cee ece|fec ecA|cee ecA|"D"EFA "E"B2A|
+  "A"cee ece|fec e2a|"D"f2a "A"e2a|"E"ABc B2A:|
+
+X: 10
+T: Calliope House
+R: jig
+M: 6/8
+L: 1/8
+K: Emaj
+|:"E"eBB gBB| fBB gBB|"A"cff f2e|"B"fgf ecB|
+  "E"GBB B2G| B2c e2f|1 "A"g2g gfe|"B"f3 f2B:|2 "A" g2g "B"fec|"E"e3 fga||
+|:"E"b2b gbb|fbb gbb|"A"a2a gag|"B"fgf fec|
+"E"GBB B2G| B2c e2f|1 "A"g2g gfe|"B"f3 fga:|2 "A"g2g fec|"E"e3e3||
+
+%%newpage
+%% header "Starry Plough Will's Sets - Laride / Scottish du Stockfish 2		$P"
+
+X: 1
+T: Laride
+M: 4/4
+L: 1/8
+K: Em
+"Em"E4 B4 | "(D)" A2c2 "Em"B4 | "D"A3B AGF2 | "(C)" G2 "D"A2 "Em"B4 |
+"Em"E4 B4 | "(D)"A2c2 "Em"B4 | "D"A3B AGF2 | "(C)" G2 "D"F2 "Em"E4 |
+"Em(C)" E4 G4 | G2E2 "D"F4 | F2AB AGF2 | "Em"G2 A2 B4 |
+"Em(C)" E4 G4 | G2E2 "D"F4 | F2AB AGF2 | "(C)" G2 "D"F2 "Em"E4 |
+
+X: 1
+T:Scottish du Stockfish 2
+C:Daniel Thonon
+M:4/4
+L:1/8
+K:Em
+"Em"B2E2 E2EG|"D"F2D2 "Em"E4| EFGA "G"B2Bd|"A"A2GA "B"B2B2|
+"Em"B2E2 E2EG|"D"FED2 "Em"E4| EFGA "G"B2AG|"D"F2D2 "Em"E4:|
+|:"Em"E2E2 EG3 |"C"E2E2 EG3| "D"F2F2 A2F2 |"G"GABG "D"A4|
+  "Em"E2E2 EG3 |"C"E2E2 EG3| "D"F2F2 A2F2 |G2F2 "Em"E4:|
+
+%%newpage
+%% header "Starry Plough Will's Sets - Rose Tree / Britches Full Of Stitches		$P"
+
+X: 1
+T: The Rose Tree
+R: polka
+M: 4/4
+L: 1/4
+K: Dmaj
+f/e/|:"D"dB AF|A>B AB|d2 ed/e/|"A"fe ef/e/|
+      "D"dB AF|A>B AB|d2 ed/e/|"A"fd "D"d2:|
+|:"D"fe fg|a2 gf|"Em"eb ba|"A"be ef/e/|
+      "D"dB AF|A>B AB|d2 ed/e/|"A"fd "D"d2:|
+
+X: 1
+T: The Britches Full Of Stitches
+R: polka
+M: 4/4
+L: 1/4
+K: Dmaj
+|:"D"d>e fd|ed fd|d>e fd|"(A)" ed "G"B2|
+"D"d>e fd|ed fa|"G"d>e dB|"A"BA A2:|
+|:"D"a>b af|ed ef|a>b af|"A"ed "G"B2|
+"D"a>b af |ed ef|"G"d>e dB|"A"BA A2:|
+
+%%newpage
+%% header "Starry Plough Will's Sets - Coral Riff		$P"
+
+X:34
+T:Coral Riff
+M:4/4
+L:1/4
+R:An Dro / March
+K:EDor
+"Em"E2 DE | B,DE "G"G- | GA DE  | "A"B,A,A,D |
+"Em"E2 DE | B,D (3EFG | "A"A>GED  |1"Em"EGFD :|2 "Em"E2 GA ||
+  |: "Em"B2 AG | B2 EG | "A"BA A2-|
+  |1 A2 GA | "Em"B2 AG | B2 EG | "A"A>GED  | "Em"E2 GA :|
+  |2-A2 FD | "Em"E2 DE | B,D (3EFG | "A"A>GED  | "Em"E4 |
+
+%%newpage
+%% header "Starry Plough Will's Sets - Waltz		$P"
+
+X: 1
+T: Crested Hens
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+|: "Em"E3G FE|B4 Bc|"D"dc Be dc|dc BA GF|
+"Em"E3G FE|B4 Bc|"D"dc BA GA|1 "B7" B3G FD :|2 "B7" B4 ef ||
+|: "Em" gB Bg gB|"C"=c4ef|"D"gf ag fe|"B7"^d2e2 f2|
+   "Em" gB Bg gB|"C"=c4ef|"B7"gf ag fd|1 "Em"e3e ef :|2 "Em"e3G FD ||
+
+X: 1
+T: Josefin's
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+"G"DGA|B d c|BAG|D2 E|"C" C2 C/C/|EGF|E3|"D"D3|
+"G"DGA|B d c|BAG|D2 E|"C"C2 C/C/|EFG|("D"A3|A)Bc|
+|:"G"dBd|g2f|"C"e3|"G"d3|"C"ced|cBA|"G"B>c B|"D"ABc:|
+"Em"BAG|"D"F2G|"C"G3|CDC|"G"B,DG|"D"FEF|("G"G3|G)|
+
+X: 2
+T: Flatworld
+R: waltz
+M: 3/4
+L: 1/8
+K: Amin
+ede|:"Am"ceBeAc|"F"F2ABcA|"Dm"f2fedc|"G"B3ede|
+"Am"ceBeAc|"F"F2fedc|"G"B2BdcB|1 "Am"A3ede:|2 "Am"A6|
+|:"Am"ABcAag|"F"f2fedc|"G"BcdBgf|"C"e2edcB|"F"ABcAfe|
+"Dm"d2dcBA|1 "Bm"B2Bd^cd|"E7"B3BcB:|2 "E7"B2BdcB|"Am"A3||
+
+X: 3
+T: Far Away
+R: waltz
+M: 3/4
+L: 1/8
+K: Bmin
+FA|:"Bm" B3 F Bd|"A" cA F2 FA|"Bm" B3 F Be|"A" c4 dc|"G" B3 GBd|
+"A" cAF2 de|"Bm" fed cBA|1 "Bm" B3 A "A" FA:|2 "Bm" B3 c de||
+|:"D" f2 fd fa|"A" ec A2 "(Bm)"de|"D" f2 fdfa|"A" e4 de|
+"Bm" fdB "A" ecA|"G" dBG "A" cAF|FA "Bm" B2 "A" A2|1 "Bm" B3 "A" c de:|2 "Bm" B4
+
