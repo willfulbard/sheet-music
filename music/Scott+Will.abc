@@ -1,0 +1,24 @@
+X: 1
+T: Unfinished Business
+C: Scott Jespersen
+R: Reel
+M: 4/4
+K: Bm
+[| "Bm" z2 fd BeAc | dBFc EFAB | z DBD A2 FD | EDEF "D" EDCD |
+| "A" A,2 fd BeAc | dBFc EFAB | z DBD A2 FD | "A/C#" EDCD "D" [CD][DD] CA, |
+| "G" G,2 fd BeAc | dBFc EFAB | z DBD A2 FD | EDEF EDCA, |
+| "Em7" B,A,B,C DCDE | "F#m7" FABc "Bm" dBFc | "G" AEBF "F#m" EDCA, | "Bm" ~B,3 A, B,3 A, ||
+[| "G" [DG,][DG,] z2 .z2 ([cDG,][dDG,]- | [dDG,])Bcd cBAF | "A" [EA,][EA,] z2 .z2 ([FB,]"Bm"[dF]- | [dF])aef "D/F#" dBAF |
+| "G" [DG,][DG,] z2 .z2 ([cDG,][dDG,]- | [dDG,])Bcd cBAF | "A" E3~E- EDCD | "D" EDCD "D/F#" [DD]2CA, |
+| "Em7" [DG,][DG,] z2 .z [cEG,]z[dFG,]- | [dFG,]Bcd cBAF | "F#m" [EA,][EA,] z2 .z [cEA,]z"Bm"[dFB,]- | [dFB,]aef dBAF |
+| "E" E3~E- E^DEF | ^GEFG AGAB | "F#" c2 ^A,B, CDE^E | F^G^AB (3cde (3f^g^a || b |]
+
+X: 1
+T: Fifth Gear
+C: Syncopaths
+M: 4/4
+K: Am
+|: "Am" EAAG A2EA | GAAE GEDG | "C" EAAG A2GA | cABG A2ED |
+| "D" EAAG A2EA | GAAE GEDB, | "F" CA,B,G, A,EGA |1 "G" cABG AGED :|2 "G" cABG AGEe- ||
+|: "Am" eAdA cBAe | gedB "G/B" e3 e- | eAdA BAGB | AGEA GEDe- |
+| "C" eAdA cBAe | gedB "Fmaj7 (2x: Em)" e3 e | gede aedA |1 "Em" BAGB AGEe- :|2 "Em" BAGB AGED |]
