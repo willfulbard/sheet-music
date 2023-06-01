@@ -1,3 +1,10 @@
+%% scale 0.87
+%% annotationfont * 16
+%% maxshrink 0.95
+%% titlespace 0.1cm
+%% musicspace -0.4cm
+%% topspace 0.3cm
+
 X: 1
 T: Unfinished Business
 C: Scott Jespersen
@@ -22,3 +29,42 @@ K: Am
 | "D" EAAG A2EA | GAAE GEDB, | "F" CA,B,G, A,EGA |1 "G" cABG AGED :|2 "G" cABG AGEe- ||
 |: "Am" eAdA cBAe | gedB "G/B" e3 e- | eAdA BAGB | AGEA GEDe- |
 | "C" eAdA cBAe | gedB "Fmaj7 (2x: Em)" e3 e | gede aedA |1 "Em" BAGB AGEe- :|2 "Em" BAGB AGED |]
+
+X: 1
+T: Midnight On The Water
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+DE|:"D"F2 F2 FE|"D" F2 F2 FE|"D" F A3 AB|"D" AFED DE|
+"D"F2 d2 "G"B2|"D" A3 F DE|"A" F2 AF EF|1 "D" D4 DE:|2 "D" D4 (3ABc||
+|:"D"d6|"D" dc BA Bc|"D" d3 B AF|"D" D4 d2|
+"Em"e e3 f2|"Em" e2 d2 e2|"Bm"f a3 f2|"Bm"gfed Bc|
+"G"d3 cde|"G" dc BA Bc|"D" d3 B AF|"D" D4 DE|
+
+X: 1
+T: Hava Nagila
+R: reel
+M: 4/4
+L: 1/8
+K: Gmin
+|:"D"D2 D3 ^F ED|^F2 F3 A GF|"G"G2 G3 B AG|
+[1 "D"^F2 "Cm"E/F/E "D"D2 C/E/D:|2 "D"^F2 "Cm"E/F/E "D"D4|:"D"^FF2E DD D2|
+"Cm"EE2D CC C2|C2E3D CC G2|1 "D"^F2 "Cm"E/F/E "D"F4:|
+[2 "D"^F2 "Cm"E/F/E "D"D4||"Gm"G4 G4|G2 G2 G2 G2|
+"Gm"G/G/G B>A GB AG|G/G/G B>A GB AG|
+"Cm"A/A/A c>B Ac BA|A/A/A c>B Ac BA|
+"Cm"A/A/A "D"d2 z4|"Cm"A/A/A "D"d2 z4|"D7"DD (B/A/G/^F/) "Gm"G2||
+
+
+X: 1
+T: Empty Town
+T: (From Deltarune)
+R: waltz
+M: 3/4
+L: 1/8
+K: Em
+||:"Em"E4 GB | g4 f2 |"D6"d4 A2 | B6 |"Cmaj7"B4 cd | c4 B2 |"Bm7"A4 G2 | B6 |
+"Am9"E4 GB | g4 f2 |"G"d4 A2 | B6 |"Fmaj7b5"B4 cd | "Fmaj7"c4 B2 |"B7(sus4)"A4 G2 |"B7" B6 :||
+||:"Em" z2 fg fe | B2 G2 B2 |"D6" z2 fg fe | a6 | "Cmaj7" z2 fg fe | f4 g2 |"G" d2 dc Bc | B6 |
+"Fmaj7b5"z2 Bc BA |"Fmaj7" =F2 C2 c2 |"Em" B3 A GA | B4 G2 | "F#7(b9)" ^A2 F2 E2 |"F#7"  ^A,4 ^A2 | "B7(sus4)" B6-|B6:||
