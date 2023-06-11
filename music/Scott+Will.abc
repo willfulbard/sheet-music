@@ -57,6 +57,24 @@ K: Gmin
 "Cm"A/A/A "D"d2 z4|"Cm"A/A/A "D"d2 z4|"D7"DD (B/A/G/^F/) "Gm"G2||
 
 
+X:1
+T:Tumbalalaika
+O:klezmer
+M:3/4
+L:1/8
+K:C
+"E7" d4 B2 | d4 B2 | e2 ^f2 ^g2 |"Am" a6 ||
+[|"Am" e4 e2 |e4 e2 |e2 d2 c2 |"E" B6 |
+"E7" d4 d2 |d4 d2 |d2 c2 B2 |"Am" A6 |
+"Am"A2 c2 e2 |a2 e4 |"Dm"g2 f2 e2 | d2 B4 |
+"Dm" B2 d2 f2 |"E" e2 d4 |"E7" d2 c2 B2 |"Am" A4 A2 |]
+"Am" e3 ee2 |e3 ee2 |e2 d2 c2 |"E" B4 B2 |
+"E7" d3 dd2 |d3 dd2 |d2 c2 B2 |"Am" A4 A2 |
+"Am"A2 c2 e2 |a2 e4 |"Dm"g2 f2 e2 | d2 B4 |
+"Dm" B2 d2 f2 |"E" e2 d4 |"E7" d2 c2 B2 |"Am" A6 |]
+W: Form: Chorus-Verse-Chorus-FiddleSoloApart-Verse-Chorus-Verse-Chorus
+
+
 X: 1
 T: Empty Town
 T: (From Deltarune)
