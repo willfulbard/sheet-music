@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Install requirements
-        run: sudo apt-get install -y abcm2ps wkhtmltopdf ghostscript
+        run: sudo apt-get update && sudo apt-get install -y abcm2ps wkhtmltopdf ghostscript
       - run: mkdir build && echo "Hello, World" > build/index.html
       - run: ./convert.sh
       - uses: actions/upload-pages-artifact@v1
