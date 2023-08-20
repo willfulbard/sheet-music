@@ -1,9 +1,10 @@
-%% scale 0.87
+%% scale 0.80
 %% annotationfont * 16
 %% maxshrink 0.95
 %% titlespace 0.1cm
-%% musicspace -0.4cm
+%% musicspace 0cm
 %% topspace 0.3cm
+%% gchordfont Helvetica 20
 
 X: 1
 T: Unfinished Business
@@ -15,9 +16,9 @@ K: Bm
 | "A" A,2 fd BeAc | dBFc EFAB | z DBD A2 FD | "A/C#" EDCD "D" [CD][DD] CA, |
 | "G" G,2 fd BeAc | dBFc EFAB | z DBD A2 FD | EDEF EDCA, |
 | "Em7" B,A,B,C DCDE | "F#m7" FABc "Bm" dBFc | "G" AEBF "F#m" EDCA, | "Bm" ~B,3 A, B,3 A, ||
-[| "G" [DG,][DG,] z2 .z2 ([cDG,][dDG,]- | [dDG,])Bcd cBAF | "A" [EA,][EA,] z2 .z2 ([FB,]"Bm"[dF]- | [dF])aef "D/F#" dBAF |
-| "G" [DG,][DG,] z2 .z2 ([cDG,][dDG,]- | [dDG,])Bcd cBAF | "A" E3~E- EDCD | "D" EDCD "D/F#" [DD]2CA, |
-| "Em7" [DG,][DG,] z2 .z [cEG,]z[dFG,]- | [dFG,]Bcd cBAF | "F#m" [EA,][EA,] z2 .z [cEA,]z"Bm"[dFB,]- | [dFB,]aef dBAF |
+[| "G" [DG,][DG,] z2 .z2 (v[cDG,]u[dDG,]- | [dDG,])Bcd cBAF | "A" [EA,][EA,] z2 .z2 (v[FB,]"Bm"u[dF]- | [dF])aef "D/F#" dBAF |
+| "G" [DG,][DG,] z2 .z2 (v[cDG,]u[dDG,]- | [dDG,])Bcd cBAF | "A" E3~E- EDCD | "D" EDCD "D/F#" [DD]2CA, |
+| "Em7" [DG,][DG,] z2 .z u[cEG,]zu[dFG,]- | [dFG,]Bcd cBAF | "F#m" [EA,][EA,] z2 .z u[cEA,]z"Bm"u[dFB,]- | [dFB,]aef dBAF |
 | "E" E3~E- E^DEF | ^GEFG AGAB | "F#" c2 ^A,B, CDE^E | F^G^AB (3cde (3f^g^a || b |]
 
 X: 1
@@ -29,6 +30,8 @@ K: Am
 | "D" EAAG A2EA | GAAE GEDB, | "F" CA,B,G, A,EGA |1 "G" cABG AGED :|2 "G" cABG AGEe- ||
 |: "Am" eAdA cBAe | gedB "G/B" e3 e- | eAdA BAGB | AGEA GEDe- |
 | "C" eAdA cBAe | gedB "Fmaj7 (2x: Em)" e3 e | gede aedA |1 "Em" BAGB AGEe- :|2 "Em" BAGB AGED |]
+
+%% newpage 
 
 X: 1
 T: Midnight On The Water
@@ -44,6 +47,7 @@ DE|:"D"F2 F2 FE|"D" F2 F2 FE|"D" F A3 AB|"D" AFED DE|
 
 X: 1
 T: Hava Nagila
+O: Modern Jewish
 R: reel
 M: 4/4
 L: 1/8
@@ -56,24 +60,18 @@ K: Gmin
 "Cm"A/A/A c>B Ac BA|A/A/A c>B Ac BA|
 "Cm"A/A/A "D"d2 z4|"Cm"A/A/A "D"d2 z4|"D7"DD (B/A/G/^F/) "Gm"G2||
 
-
-X:1
-T:Tumbalalaika
-O:klezmer
-M:3/4
-L:1/8
-K:C
+X: 1
+T: Tumbalalaika
+O: Russian Jewish/Klezmer
+M: 3/4
+L: 1/8
+K: C
 "E7" d4 B2 | d4 B2 | e2 ^f2 ^g2 |"Am" a6 ||
-[|"Am" e4 e2 |e4 e2 |e2 d2 c2 |"E" B6 |
-"E7" d4 d2 |d4 d2 |d2 c2 B2 |"Am" A6 |
-"Am"A2 c2 e2 |a2 e4 |"Dm"g2 f2 e2 | d2 B4 |
-"Dm" B2 d2 f2 |"E" e2 d4 |"E7" d2 c2 B2 |"Am" A4 A2 |]
-"Am" e3 ee2 |e3 ee2 |e2 d2 c2 |"E" B4 B2 |
-"E7" d3 dd2 |d3 dd2 |d2 c2 B2 |"Am" A4 A2 |
-"Am"A2 c2 e2 |a2 e4 |"Dm"g2 f2 e2 | d2 B4 |
-"Dm" B2 d2 f2 |"E" e2 d4 |"E7" d2 c2 B2 |"Am" A6 |]
+[|"Am" e4 e2 |e4 e2 |e2 d2 c2 |"E" B6 | "E7" d4 d2 |d4 d2 |d2 c2 B2 |"Am" A6 |
+"Am"A2 c2 e2 |a2 e4 |"Dm"g2 f2 e2 | d2 B4 | "Dm" B2 d2 f2 |"E" e2 d4 |"E7" d2 c2 B2 |"Am" A4 A2 |]
+"Am" e3 ee2 |e3 ee2 |e2 d2 c2 |"E" B4 B2 | "E7" d3 dd2 |d3 dd2 |d2 c2 B2 |"Am" A4 A2 |
+"Am"A2 c2 e2 |a2 e4 |"Dm"g2 f2 e2 | d2 B4 | "Dm" B2 d2 f2 |"E" e2 d4 |"E7" d2 c2 B2 |"Am" A6 |]
 W: Form: Chorus-Verse-Chorus-FiddleSoloApart-Verse-Chorus-Verse-Chorus
-
 
 X: 1
 T: Empty Town
