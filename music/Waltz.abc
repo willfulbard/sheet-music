@@ -1,0 +1,141 @@
+%% scale 0.87
+%% annotationfont * 16
+%% maxshrink 0.95
+%% titlespace 0.1cm
+%% topspace 0.3cm
+
+X: 1
+T: Crested Hens
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+|: "Em"E3G FE|B4 Bc|"D"dc Be dc|dc BA GF|
+"Em"E3G FE|B4 Bc|"D"dc BA GA|1 "B7" B3G FD :|2 "B7" B4 ef ||
+|: "Em" gB Bg gB|"C"=c4ef|"D"gf ag fe|"B7"^d2e2 f2|
+   "Em" gB Bg gB|"C"=c4ef|"B7"gf ag fd|1 "Em"e3e ef :|2 "Em"e3G FD ||
+
+X: 1
+T: Josefin's
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+"G"DGA|B d c|BAG|D2 E|"C" C2 C/C/|EGF|E3|"D"D3|
+"G"DGA|B d c|BAG|D2 E|"C"C2 C/C/|EFG|("D"A3|A)Bc|
+|:"G"dBd|g2f|"C"e3|"G"d3|"C"ced|cBA|"G"B>c B|"D"ABc:|
+"Em"BAG|"D"F2G|"C"G3|CDC|"G"B,DG|"D"FEF|("G"G3|G)|
+
+X: 2
+T: Flatworld
+R: waltz
+M: 3/4
+L: 1/8
+K: Amin
+ede|:"Am"ceBeAc|"F"F2ABcA|"Dm"f2fedc|"G"B3ede|
+"Am"ceBeAc|"F"F2fedc|"G"B2BdcB|1 "Am"A3ede:|2 "Am"A6|
+|:"Am"ABcAag|"F"f2fedc|"G"BcdBgf|"C"e2edcB|"F"ABcAfe|
+"Dm"d2dcBA|1 "B5"B2Bd^cd|"E7"B3BcB:|2 "E7"B2BdcB|"Am"A3||
+
+X: 3
+T: Far Away
+R: waltz
+M: 3/4
+L: 1/8
+K: Bmin
+FA|:"Bm" B3 F Bd|"A" cA F2 FA|"Bm" B3 F Be|"A" c4 dc|"G" B3 GBd|
+"A" cAF2 de|"Bm" fed cBA|1 "Bm" B3 A "A" FA:|2 "Bm" B3 c de||
+|:"D" f2 fd fa|"A" ec A2 "(Bm)"de|"D" f2 fdfa|"A" e4 de|
+"Bm" fdB "A" ecA|"G" dBG "A" cAF|FA "Bm" B2 "A" A2|1 "Bm" B3 "A" c de:|2 "Bm" B4
+
+X: 1
+T: La Partida
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmin
+ABA^GA|:"Dm"f3AfA|f3AfA|"A"fg/f/e^de2|zGAG^FG|
+"A"e3GeG|e3GeG|"Dm"ef/e/d^cd2|zABA^GA|
+"Dm/F"d2^c(dd)=e|"D7/F#"d2c(BB)A|"Gm"AB/A/G^FG2|zBAGFE|
+"Dm"D^CDEFG|"A"ABAGFE|"Dm"DE/D/^CDFA|1 dABA^GA:|2 dzA2A2||
+|:"A"agAagA|agAagA|"Dm"gfAgfA|gfAgfA|
+"A"feAfeA|feAfeA|"Dm"edAedA|edAedA|
+"Dm/F"dcAdcA|"D7/F#"dcAdcA|"Gm"AB/A/G^FG2|zBAGFE|
+"Dm"D^CDEFG|"A"ABAGFE|"Dm"DE/D/^CDFA|1 dzA2A2:|2 d||
+
+X: 1
+T: Tourner à Trois
+T: Turning by Threes
+C: Paul Machlis (1998)
+R: waltz
+M: 3/4
+L: 1/8
+K: Bm
+"Bm" de f3 F |"Em" GA B4 |"A" cde3 E |"D" G2 F4 |"Bm" B,D FB df |"Em" ef g4 |"C#m" fgf3 F |"F#" fg fe dc |
+"Bm" de f3 F |"Em" GA B4 |"A" cde3 E |"D" G2 F4 |"Bm" B,D FB df |"Em" ef g4 |"F#" f3e dc |"Bm" B6 ||
+"A" cde3 g |"D" g2 f4 |"Em" e3 g fe |"Bm" e2 d4 |"C" =cd ef gc |"Bm" Bd f4 |"C#m" fgf3 F |"F#" fg f4 |
+"Bm" bf dB FD |"Em" GAB4 |"A" cde3 E |"D" G2 F4 |"C" =cd ef gc |"Bm" Bd f3 g |"F#" f3 e dc |"Bm" B6 ||
+
+X: 1
+T: Naia's Waltz
+C: Corwin Zekley (2019)
+R: waltz
+M: 3/4
+L: 1/8
+K: Dm
+D2 E2 ||:"Dm" F4 EF |"Edim" G4 FG |"F" A4 c2 |"Bb" d2 c3 B |
+"F" A4 A2 | B3 A GF |"C" G4 G2 |1 "C#dim" F4 E2 :|2 "Am" A4 c2 ||
+"Bb"d2 a2 gf |"C" g3 f ed |"Am" c2 A2 c2 |"Bb" d6 |
+"Bb"d2 a2 gf |"C" g3 f gc' |"Dm" a6-|a2 f2 e2 |
+"Bb"d2 a2 gf |"C" g3 f ed |"Dm" a3 g fe |"G" g4 |
+["usual ending" "Bb" f4 ed |"Am" c2 A2 c2 |"G" d6-|d2  |]
+["last time through" "Bb" f4 ed |"Am" c2 A2 c2 |"Gm" d6-|"Dm"d2 |]
+
+X: 1
+T: Bittersweet Return
+C: Corwin Zekley (2019)
+R: waltz
+M: 3/4
+L: 1/8
+K: G
+"G" G3 A BG |"D" F2 A4 |"C" ED EF GA |"G" B2 d4 |
+"C"ED EF GA |"G" B2 d2 cB |"Am" c3 c Bc |"Dsus" A4 "D"F2 |
+"G"G3 A BG |"D" F2 A4 |"C" ED EF GA |"G" B2 d4 |
+"C"ED EF GA |"G" BA Bc de |"D" d3 ^c de |"Bm" f3 d ef |
+"Em"g3 e ef |"D" e2 d4 |"C" e3 d cB |"G" d4 cd |
+"Cm"_e3 d cd |"G" c2 {dc}B2 AG |"C" A3 A GA |"Bm" FD FB df |
+"Em"g3 f ef |"D" e2 d3 d |"B7" ^d2 f2 a2 |"Em" g4 ed |
+"Am"c3 c Bc |"D" A4 FD |"Cm" _E2 A3 G |"G" G6 ||
+
+X: 1
+T: Rose Valley Pass
+C: Grace Fellows
+R: waltz
+M: 3/4
+L: 1/8
+K: Dm
+D FG |"Dm" A3 D FG |"Bb" A c2 D FG |"F" A2 c2 c2 |"G7" =B4 c2 |
+"Am"=B3 A GF |"C" EF G2 FE |"Am" C A,-A,4-|A,3 D FG |
+"Dm"A3 D FG |"Bb" A c2 D FG |"F" A2 G2 F2 |"G7" G4 A2 |
+"Am"G3 F ED |"A7" F2 E2 D^C |"Dm" D6-|D3 F Ac |
+"Bb"d3 c de |"Dm" f3 e fg |"F" a3 g f2 |"C7" g4 ag |
+"Dm"f3 e dc |"Bb" B3 A GF |"C7" G6-|G3 F Ac |
+"Bb"d3 c de |"Dm" f3 e fg |"F" a3 g f2 |"C7" g4 ag |
+"Dm"fe dc "F"AF | "A7"G3 F D2 | "Dm"D6-|D3 ||
+
+X: 1
+T: Pernod
+C: Johnny Cunningham
+R: waltz
+M: 3/4
+L: 1/8
+K: Bm
+|: "Bm"f2 Bc de |"Bbaug" f6 |"Adim" fe ^de fg |"Em/G" f2 e2 fg |
+   "A"a3 g f2 | e2 c4 |"Gb" cd ef ec |"G" d2 B2 de |
+   "Bm"f2 Bc de |"Bbaug" f6 |"Adim" fe ^de fg |"Em/G" f2 e2 fg |
+   "A"a3 g f2 | e2 c4 |"Gb" cd ef ec |"G" d2 B4 ||
+   "Em"Be z g fe | Be z g fe |"A" a2 ef (3gfe |"Bm" fd B4 |
+   "Em"GB z d cB |"Bm" FB z d cB |"A" cd ef ec |"G" d2 B4 |
+   "Em"Be z g fe | Be z g fe |"A" a2 ef (3gfe |"Bm" fd B4 |
+   "Em"GB z d cB |"Bm" FB z d cB |"A" cd ef ec |"G" d2 Bc de :|["last time" "Bm" d2 B4 |]
+
