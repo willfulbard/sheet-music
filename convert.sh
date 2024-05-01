@@ -19,6 +19,16 @@ do
   echo "<li><a href=\"$filename.pdf\">$filename.pdf</a></li> " >> ../build/index.html
 done
 
+cd ../pdfs
+
+for f in *.pdf
+do
+	echo "Processing $f file..."
+	# take action on each file. $f store current file name
+	cp "$f" ../build/
+	echo "<li><a href=\"$f.pdf\">$f.pdf</a></li> " >> ../build/index.html
+done
+
 cat << EOF >> ../build/index.html
 
 </ul>
