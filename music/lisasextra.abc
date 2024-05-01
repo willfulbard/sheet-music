@@ -1,0 +1,130 @@
+%% header "Lisa is Extra		$P"
+%% scale 0.87
+
+X: 1
+T: The Trip To Pakistan
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:EGBE G3 B|A3 B AGFG|EGBE G3 B|AGFG E4:|
+|:EGBG c3 A|B3 d AGFG|EGBG c3 A|BAGB A4:|
+|:FGBF GBGF|EFGE FGFE|DFAD FADF|AGFG E4:|
+|:EGG EGG EG|FAA FAA FA|GBB GBB GB|1 FAA FAA FA :|2 EGFD E4 ||
+
+X: 2
+T: Up Downey
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:e|gfeg fegf|egfe a3b|gfeg fegf|egfe B3e|
+gfeg fegf|egfe a3g|ba (3gab agfB|egfd e3:|
+B|EFGA B2dB|BAGB AGFB|EFGA Bdef|gfed eaa2 |
+EFGA ~B3d|BAGB AGFB|EFGA Bded|BAGB E3:|
+
+%%newpage
+%% header "Lisa is Extra		$P"
+
+X: 3
+T: The New Copperplate
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2dG BGdG|~G2dc BGGB|A2eA cAeA|~A2ed cAFA|
+G2dG BGdG|~G2dc BGG2|ABcd efge|1 aged cAFA:|2 aged ^cdef||
+|:g2 gf g2ef|gedc BGGB|Aaag agea|aged ^cdef|
+g2 gf g2ef|gedc BGGB|ABcd efge|1 aged ^cdef:|2 aged cAFA||
+
+X: 4
+T: Catharsis
+R: reel
+M: 4/4
+L: 1/8
+K: Gmin
+"Gm"DF GF DF GF|DF GA BG AF|DF GF DF GF|"F" DE DC "Dm"B,C A,B,|
+"Gm" G,F GF DF GF|DF GA B2 Bc|"Eb"dc BA BA GF|1 "Dm" DG GF "Gm"G2 G2:|2 "Dm"DG GF "Gm"GA Bc||
+"Gm"dG Gc GG BG|GA GG AG Ac|"F"dF Fc FF BF|FA FF AG Ac|
+"Eb" dE Ec EE BE|EA EE AG Ac|"Cm" dc BA "Gm"BA GF|1 "Dm" DG GF "Gm"GA Bc]:|2 "Dm" DG GF "Gm"G2 G2||
+
+%%newpage
+%% header "Lisa is Extra		$P"
+
+X: 5
+T: Fred Finn's
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:A3F ABde|fdec d2cd|BEE2 ~G3B|AFF2 dFAF|
+~A3F ABde|fdec d2cd|BAGB ABde|faeg fdd2:|
+|:fdad bdaf|dfaf gfed|fbba ~b3a|fbba fede|
+fdad bdaf|dfaf gfed|BAGB ABde|faeg fdd2:|
+
+X: 6
+T: The Clumsy Lover (1st & 4th parts)
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|:"A"ceef ecBA|"D"dfff =gfed|"A"ceef ecBA|"E"dBBA B2d2|
+"A"ceef ecBA|"D"dfff =gfed|"A"ceec d2GB|BAAB "A"A4:|
+|:"A"caac acac|"D"daad adad|"A"caac acac|"E"Bece deBe|
+"A"caac acac|"D"daad adad|"A"ceec d2GB|BAAB "A"A4:|
+
+%%newpage
+%% header "Lisa is Extra		$P"
+
+X: 7
+T: Cleveland Park
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+EAB cBA|FAB cBA|^FAB cBA|BcB GAB|
+EAB cBA|FAB cBA|BcB GAB|BAG A3:|
+Ace aec|def ecA|FGA GAB|cdc BAG|
+Ace aec|def ecA|FGA GAB|BAG A3|
+Ace aec|def ecA|FGA GAB|cdc BAG|
+EAB cBA|FAB cBA|BcB GAB|BAG A3|
+
+X: 8
+T: The Handsome Young Maidens
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+|:g|aed cdB|Ace aga|bee dee|bee bag|
+aed cdB|Ace aga|bge dBG|BAG A2:|
+B|c2 A EAc|dff fed|cde aec|Bff fed|
+c2 A EAc|dff fed|cde aec|dBe A2 B|
+c2 A EAc|dff fed|cde aec|Bff fed|
+cAA eAA|dAA fed|ece fdf|gfg a3||
+
+%%newpage
+%% header "Lisa is Extra		$P"
+
+X: 9
+T: The Star Above The Garter
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+d2B BAG ~A3 ABA|G2E c2B BAG ABc|
+d2B BAG ~A3 ABA|G2E c2E D3 D3:|
+|:d2e f2a g2e d2B|G2B c2B BAG ABc|
+d2e f2a g2e d2B|G2B c2E D3 D3:|
+
+X: 10
+T: Headwood Crossing
+R: jig
+M: 6/8
+L: 1/8
+K: Cmaj
+|:cGE ~G3|AGE GAB|cGE ~G3|A2d dcB|
+cGE ~G3|AGE GAB|cde ~g3|eae ged:|
+|:cde ~g3|ega ged|cde ged|cAG A2B|
+cde ~g3|ega gab|~a3 ged|eae ged:|
+
+
