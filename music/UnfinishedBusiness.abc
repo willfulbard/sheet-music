@@ -1,0 +1,14 @@
+X: 1
+T: Unfinished Business
+C: Scott Jespersen
+R: Reel
+M: 4/4
+K: Bm
+[| "Bm" z2 fd BeAc | dBFc EFAB | z DBD A2 FD | EDEF "D" EDCD |
+| "A" A,2 fd BeAc | dBFc EFAB | z DBD A2 FD | "A/C#" EDCD "D" [CD][DD] CA, |
+| "G" G,2 fd BeAc | dBFc EFAB | z DBD A2 FD | EDEF EDCA, |
+| "Em7" B,A,B,C DCDE | "F#m7" FABc "Bm" dBFc | "G" AEBF "F#m" EDCA, | "Bm" ~B,3 A, B,3 A, ||
+[| "G" [DG,][DG,] z2 .z2 ([cDG,][dDG,]- | [dDG,])Bcd cBAF | "A" [EA,][EA,] z2 .z2 ([FB,]"Bm"[dF]- | [dF])aef "D/F#" dBAF |
+| "G" [DG,][DG,] z2 .z2 ([cDG,][dDG,]- | [dDG,])Bcd cBAF | "A" E3~E- EDCD | "D" EDCD "D/F#" [DD]2CA, |
+| "Em7" [DG,][DG,] z2 .z [cEG,]z[dFG,]- | [dFG,]Bcd cBAF | "F#m" [EA,][EA,] z2 .z [cEA,]z"Bm"[dFB,]- | [dFB,]aef dBAF |
+| "E" E3~E- E^DEF | ^GEFG AGAB | "F#" c2 ^A,B, CDE^E | F^G^AB (3cde (3f^g^a || b |]
