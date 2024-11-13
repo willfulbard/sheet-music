@@ -1,0 +1,327 @@
+%% scale 0.87
+%% annotationfont * 16
+%% maxshrink 0.95
+%% titlespace 0.1cm
+%% musicspace -0.4cm
+%% topspace 0.3cm
+
+%% header "Will+Christian - TOC		$P"
+X: 1
+T: Table of Contents
+L: 1/8
+M: C
+K: C
+W: Merry Blacksmith / Old copper plate- Page 2
+W: Reign of Love Dm to Em - Page 3
+W: George Whites (G) / Ormond Sound (Am) - Page 4
+W: Spootiskerry (G) / Old Bush (Dmix) - Page 5
+W: Maison de Glace (D) / La Fée Des Dents - Page 6
+W: February Reel #1 (F#m) / Rapide du cheval blanc (Em) - Page 7
+W: Hut on Staffin Island (D) / Kilarney Boy's of Pleasure (Em) - Page 8
+W: Nail That Catfish (G) / Kitchen Girl (Amix) - Page 9
+W: Antony Frawly's (G) / Flannel Dreams (A) - Page 10
+W: Bus Stop (Am) / Earl's Chair (Bm/D) - Page 11
+W: Waltzes - Page 12
+
+
+%%newpage
+%% header "Will+Christian - Merry Blacksmith/Old Copper Plate		$P"
+%%scale 0.70
+X: 1
+T: The Merry Blacksmith
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A|"D" d3 A BAFA|ABdA BAFA|ABde fded|"A" Beed egfe|
+"D" d3 A BAFA|ABdA BAFA|"G" ABde fdec|"A" dAAG "D" FAD:|
+|:f|"D" a2ag fafe|dedA BAFA|ABde fded|"A" Beed e2fg|
+"D" abag fgfe|dedA BAFA|"G" ABde fdec|"A" dAAG "D" FAD:|
+
+X: 1
+T: The Old Copperplate
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:"Am" A2 EA cA ~A2 |aged cA ~A2 |"G" G2 DG BGBd| gedc BAGB|
+"Am" A2 EA cA ~A2| aged cAGB| "G"ABcd efge| aged "Am"cA ~A2:|
+|:"Am" ageg a2 eg|aged cA ~A2|"G" gfef g2 ef|gedc BG ~G2|
+  "Am" ageg a2 eg| aged cAGB| "G"ABcd efge|aged "Am"cA ~A2:|
+
+%% scale 0.87
+%%newpage
+%% header "Will+Christian - Reign of Love		$P"
+
+X: 1
+T: Reign Of Love
+R: march
+M: 4/4
+L: 1/8
+K:Dmin
+|:"Dm"D2EF G2A2|F4E4|"C"G2FE D2G2|FED2 EDC2|
+"Dm"D2EF G2A2|F4E4|"C"G2FE D2C2|1"G"D6 A,2 :|2 "G" D8 ||
+"Dm"d2A2c2G2-|G2AG F2E2|"C"G2FE D2G2|"F"A2F2 "A"c4|
+"Dm"d2A2c2G2-|G2AG F2E2|"C"G2FE D2C2 | "G" D8 :|
+
+X: 1
+T: Reign Of Love
+R: march
+M: 4/4
+L: 1/8
+K:Emin
+|:"Em"E2FG A2B2|G4F4|"D"A2GF E2A2|GFE2 FED2|
+"Em"E2FG A2B2|G4F4|"D"A2GF E2D2|1"A"E6 B,2 :|2 "A" E8 ||
+"Em"e2B2d2A2-|A2BA G2F2|"D"A2GF E2A2|"G"B2G2 "B"d4|
+"Em"e2B2d2A2-|A2BA G2F2|"D"A2GF E2D2 | "A" E8 :||
+
+
+%%newpage
+%% header "Will+Christian - George White's/Ormond Sound		$P"
+
+X: 9
+T: George White's Favourite
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:Bd|"Em"eB (3BBB eBdB|"D"AGAB GEDE|"G"GB (3BBB GABd|eBdB "D"A2Bd|
+"Em"eB (3BBB eBdB|"D"AGAB GEDE|"G"GABd "C"gedB|1 "D"AGAB "G"G2:|2 "D"AGAB "G"G4||
+|:"G"gede gaba|"C"gfga gedB|"G"dega bgag|"Am"eaag "D"a2ga|
+"G"bgeg d3e|"C"gede gaba|"G"gfgd "C"egdB|1 "D"AGAB "G"G4:|2 "D"AGAB "G"G2||
+
+X: 1
+T: Ormond Sound
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:"Am"A2 ed BedB|"G"AG (3GGG AGEG|"Am"A2 ed (3B^cd ef|"G"gfga gedg|
+  "Am"eA (3AAA BedB|AGEF "G"G3 A|"E"EA (3AAA GABd|1 "G"gedB "Am"A2 (3EFG:|2 "G"gedB "Am"A3 e||
+|:"Am"efge agfg|e ~a3 edBd|"C"(3efg fa "G"~g3 e|dgge dBGB|
+  "F"cBcA "G"dcdB|"E"efge "Am"a2 ga|"C"bg (3ggg agab|1 "G"gedB A3 "Am"e:|2 "G"gedB "Am"A2 (3EFG||
+
+%%newpage
+%% header "Will+Christian - Spootiskerry/Old Bush		$P"
+
+X: 1
+T: Spootiskerry
+L: 1/8
+M: 4/4
+K: G
+DE |: "G"G2 DE GDEG | DEGA B2 AB | G2 DE GABd | "C"eged "D"B2 AB |
+"G"G2 DE GDEG | DEGA B2 AB | "C"g2 ed edBA |1 "D"B2 G2 "G"G2 DE :|2 "D"B2 G2 "G"G2 ef||
+"Em"g2 eded B2 | "D"BABG E2 DE | "C"GABd eged | "D"B2 A2 A2 ef |
+"Em"g2 eded B2 | "D"BABG E2 DE | "C"GABd eged | "D"B2 G2 G2 ef |
+"Em"g2 eded B2 | "D"BABG E2 DE | "C"GABd eged | "D"B2 A2 A2 DE |
+"^G desc. line"G2 DE GDEG | DEGA B2 AB | "C"g2 ed edBA | "D"B2 G2 "G"G2 |]
+
+
+X: 4
+T: The Old Bush
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+"Am(D)"A2GA "C"cA~A2|"D"d^cde fde=c|"Am(D)"A2GA "C"cA~A2|"D"dfed cAdc|
+"Am(D)"A2GA "C"cA~A2|"D"d^cde ~f3g|afge fde^c|1 dfed "C"cAdc:|2 dfed cA~A2||
+|:"C"eg~g2 edcd|egge c3d|eg~g2 "D"afge|dfed "Am"cA~A2|
+"C"eg~g2 ag~g2|egge "D"defg|afge fde^c|1 dfed "Am"cA~A2:|2 dfed cAdc||
+
+
+%%newpage
+%% header "Will+Christian - Maison de Glace/La Fée des Dents		$P"
+
+X: 1
+T: La Maison de Glace
+L: 1/8
+M: 6/8
+K: D
+|: "D"D3 DEF | A3 AFA | "G"B3 Bcd | "A"cBA GFE | 
+"D"D3 DEF | A3 AFA |1 "G"B3 BAG | "A"F2 A E2 A :|2 "G"B3 Bcd | "A"c3 A3 |
+|: "Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | dcA dcA
+"Bm"B3 Bcd | "G"B3 Bcd | "A"fed edc | "D"Adc d3 :|
+
+X: 1
+T: La Fée Des Dents
+C: André Brunet
+M: 6/8
+L: 1/8
+K: G
+|: "G"B2 D2 GA | Bdc BAG | "C"c2 E2 FG | "D"FAG FED |
+"G"B2 D2 GA | "Em"Bdc Bgf | "C"eg "D"d2 cB | AGF "G"G3 :|
+|: "C"e3 edB | "Am"ced cBc | "G"d2 B2 AG | "Em"Bdc BAG |
+"C"e3 efg | "D"af d2 cB | "C"ced cBA | "D"AGF "G"G3 :||
+
+%%newpage
+%% header "Will+Christian - February Reel/Rapide du Cheval Blanc		$P"
+
+X: 1
+T: February Reel #1
+M: 4/4
+L: 1/8
+K: F#m
+|: "F#m"z8 | z8 | "D"z8 | z4 "E"z4 |
+   "F#m"z8 | z4 "D" z4 | z8 | "E"z4 "F#m"z4 :|
+|: "Bm"z8 | "C#"z4 "F#m" z4 | "Bm"z8 | "C#"z8 |
+   "Bm"z8 | "C#"z4 "F#m" z4 | z8 | "E"z4 "F#m"z4 :|
+
+X: 1
+T: Rapide du cheval blanc #1
+M: 4/4
+L: 1/8
+K: Em
+|: "Em"z8 | z8 | z8 | "D"z8 |
+   "Em"z8 | z8 | z8 | "D"z4 "Em"z4 :|
+|: "Em"z8 | "C"z8 | "D"z8 | "(A)"z8 |
+   "Em"z8 | "C"z8 | "D"z8 | "(A)"z4 "Em"z4 :|
+
+
+%%newpage
+%% header "Will+Christian - Hut of Staffin Island/Kilarney Boy's of Pleasure		$P"
+
+X: 4
+T: The Hut On Staffin Island
+M: 4/4
+L: 1/8
+K: Dmaj
+DB,|:"D"A,B,DE D3E|(3FED FA d2cd|"G"B3d BAFD|"A"E2FE DB,B,D|
+     "D"A,B,DE D3E|(3FED FA d2cd|"G"B3d BAFD|1 "A"E2FE "D"D3B,:|2 "A"E2FE "D"D4||
+"Bm"d3d- dded|"A"cBcd c2BA|"G"B3A BcdB|"A"AFEF "G"DB,B,2|
+"Bm"d3d- dded|"A"cBcd c2BA|"G"B3A BcdB|"A"AFEF "D"D4|
+"Bm"d3d- dded|"A"cBcd c2BA|"G"B3A BcdB|"A"AFEF "G"DB,B,D|
+"D"A,B,DE D2 DE|(3FED FA d2cd|"G"B3d BAFD|"A"E2FE "D"D3B,||
+
+X: 1
+T: The Killarney Boys Of Pleasure
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|"Em"~E2FD E2FA|"G"BFAE "D"DEFA|"Em"BA(3Bcd ezed|(3Bcd "D"AF DEFD|
+ "Em"E2FD E2FA|"G"BFAE "D"DEFA|"Em"BA(3Bcd ezed|1B2AF "D"FEED:|2B2AF "D"FE~E2|:
+"Em"Beed Beed|ABAF DEFA|"D"~f3e fzfe|dBAF DE~F2|
+"Em"Beed Beed|ABAF DEFA|"D"~f3e dzBA|1(3Bcd AF "Em"FE~E2:|2(3Bcd AF "Em"FEED|
+
+%%newpage
+%% header "Will+Christian - Nail that Catfish/Kitchen Girl		$P"
+
+X: 1
+T: Nail That Catfish To The Tree
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+D2|:"G"G2 BG AGBG|cGAG B2 BG|"D"ABAG F2 AB|AGFD (3EFE D2|
+    "G"G2 BG AGBG|cGAG B2 BG|"D"ABAG FDEF|1 "G"G4 G2 D2:|2 "G"G4 G2 F2||
+"C"E4 G4|c6 B2|"D"ABAG F2 AB|AGFD (3EFE D2|
+"C"E4 G4|c6 B2|"D"ABAG FDEF|1 "G"G4 G2 F2:|2 "G"G6 D2||
+
+X: 3
+T: The Kitchen Girl
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+"A"a4"G"g4|"A"efed c2 cd|e2 ef gaba|"E"g2 e2 e4|
+"A"a4"G"g4|"A"efed cdef|g2d2 efed|"E"c2A2"A"A4:|
+"Am"AB=cA BAGB|ABAG EDEG|A2B2=c2d2|"E"e3f e4|
+"Am"AB=cA BAGB|ABAG EGAB|=c2A2 "G"BAG2|"Am"A3B A4:|
+
+%%newpage
+%% header "Will+Christian - Anthony Frawley's/Flannel Dreams		$P"
+
+X: 1
+T: Anthony Frawley's
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:BA|"G"GED GBA|GED ~G3|GED GAB|"C"dBA "D"~B2 A|
+     "G"GED GAB|def g2a|bag (3efg e|"C"dBG "D"A:|
+|:Bc|"G"~d3 "C"edB|"D"def "G"gfe|~d3 edB|dBA "D"ABc|
+     "G"~d3 "C"edB|"D"def "G"g2a|"C"bag (3efg e|dBG "D"A:|
+
+X: 1
+T: Flannel Dreams
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+E|:"A" GAE GAE|B2 A3 E|"D" GAE GAE|EDC D2 E|
+"A" GAE GAE|B2 A2 AG|1 "D" F2 A e2 c-|"F#m"cdc "E"B2 E:|2 "D"F2 A e2 c-|"F#m"cdc "E"Bcd||
+|:"D" f2 f2ed|"A" edc cdc|"E" B2 B2AB|"F#m"c3 "E"B2 A|
+"D" f2 f2ed|"A" edc BcA|1 "F#m"F5 E|FAB cdA:|2 "F#m"F3 E3|"E"G3 E3||
+
+%%newpage
+%% header "Will+Christian - Bus Stop/Earl's Chair		$P"
+
+X: 3
+T: The Bus Stop
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+|:"Am"A2 eA dA c2|"Am"ABcA "G"BAGB|"Am"A2eA dAc2|"F"cde^f "G"gedB|
+"Am"A2 eA dAc2|"Am"ABcA "G"BAG2|"F"FGAc "G"BAGA|"Am"cABG A4:|
+|:"Am"e a2 g edcB|ABcd e4|"Am" e a2 g ed c2|"D"de^fd "E"e4|
+"Am" e a2 g edcB|ABcd e2 dc|"G"BAGF EFGB|"Am"cABG A4:|
+
+X: 7
+T: The Earl's Chair
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A|"Bm"B2 dB BAFA|"(G)"B2 dB BAFB|"D"A F ~F2 D F ~F2|AFdB ADFA|
+"Bm"B2 dB BAFA|"(G)"B2 dB BAFB|"A"AFAB "D"dcdf|"A"edef "D"d3|
+f|"A" edef "D"d2 Bd|"A"edef "D"dBAB|"A" edef "D" d2de|"D"fedB ADFA|
+"A" e2ef "Bm"d B ~B2|"G"g B ~B2 defg|"A"afbf "D"afeg|fedB "A"A3|
+
+%%newpage
+%% header "Will+Christian - Waltz		$P"
+
+X: 1
+T: Crested Hens
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+|: "Em"E3G FE|B4 Bc|"D"dc Be dc|dc BA GF|
+"Em"E3G FE|B4 Bc|"D"dc BA GA|1 "B7" B3G FD :|2 "B7" B4 ef ||
+|: "Em" gB Bg gB|"C"=c4ef|"D"gf ag fe|"B7"^d2e2 f2|
+   "Em" gB Bg gB|"C"=c4ef|"B7"gf ag fd|1 "Em"e3e ef :|2 "Em"e3G FD ||
+
+X: 1
+T: Josefin's
+R: waltz
+M: 3/8
+L: 1/8
+K: Gmaj
+"G"DGA|Bdc|BAG|D2 E|"C" C2 C/C/|EGF|E3|"D"D3|
+"G"DGA|Bdc|BAG|D2 E|"C"C2 C/C/|EFG|("D"A3|A)Bc|
+|:"G"dBd|g2f|"C"e3|"G"d3|"C"ced|cBA|"G"B>c B|"D"ABc:|
+"Em"BAG|"D"F2G|"C"G3|CDC|"G"B,DG|"D"FEF|("G"G3|G3)||
+
+X: 2
+T: Flatworld
+R: waltz
+M: 3/4
+L: 1/8
+K: Amin
+ede|:"Am"ceBeAc|"F"F2ABcA|"Dm"f2fedc|"G"B3ede|
+"Am"ceBeAc|"F"F2fedc|"G"B2BdcB|1 "Am"A3ede:|2 "Am"A6|
+|:"Am"ABcAag|"F"f2fedc|"G"BcdBgf|"C"e2edcB|"F"ABcAfe|
+"Dm"d2dcBA|1 "Bm"B2Bd^cd|"E7"B3BcB:|2 "E7"B2BdcB|"Am"A3||
+
+X: 3
+T: Far Away
+R: waltz
+M: 3/4
+L: 1/8
+K: Bmin
+FA|:"Bm" B3 F Bd|"A" cA F2 FA|"Bm" B3 F Be|"A" c4 dc|"G" B3 GBd|
+"A" cAF2 de|"Bm" fed cBA|1 "Bm" B3 A "A" FA:|2 "Bm" B3 c de||
+|:"D" f2 fd fa|"A" ec A2 "(Bm)"de|"D" f2 fdfa|"A" e4 de|
+"Bm" fdB "A" ecA|"G" dBG "A" cAF|FA "Bm" B2 "A" A2|1 "Bm" B3 "A" c de:|2 "Bm" B4
+
