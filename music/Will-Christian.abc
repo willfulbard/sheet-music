@@ -14,13 +14,13 @@ K: C
 W: Merry Blacksmith / Old copper plate- Page 2
 W: Reign of Love Dm to Em - Page 3
 W: Coolies (Em) / High Drive (D) - Page 4
-W: Spootiskerry (G) / Old Bush (Dmix) - Page 5
-W: Maison de Glace (D) / La Fée Des Dents - Page 6
-W: February Reel #1 (F#m) / Rapide du cheval blanc (Em) - Page 7
-W: Hut on Staffin Island (D) / Kilarney Boy's of Pleasure (Em) - Page 8
-W: Nail That Catfish (G) / Kitchen Girl (Amix) - Page 9
-W: Antony Frawly's (G) / Flannel Dreams (A) - Page 10
-W: Bus Stop (Am) / Earl's Chair (Bm/D) - Page 11
+W: Spootiskerry (G) / Old Bush (Dmix) - Page 6
+W: Maison de Glace (D) / La Fée Des Dents - Page 7
+W: February Reel #1 (F#m) / Rapide du cheval blanc (Em) - Page 8
+W: Hut on Staffin Island (D) / Kilarney Boy's of Pleasure (Em) - Page 9
+W: Nail That Catfish (G) / Kitchen Girl (Amix) - Page 10
+W: Antony Frawly's (G) / Flannel Dreams (A) - Page 11
+W: Bus Stop (Am) / Earl's Chair (Bm/D) - Page 12
 W: Waltzes - Page 12
 
 
@@ -79,8 +79,6 @@ K:Emin
 %%newpage
 %% header "Will+Christian - Coolies/High Drive		$P"
 
-%% scale 0.87
-
 X: 7
 T: Cooley's
 R: reel
@@ -91,7 +89,9 @@ ED|"Em"EBBA B2 EB|"Em"B2 AB dBAG|"D"(3FED AD BDAD|"D"(3FED AD BAGF|
             "Em"EBBA B2 EB|"Em" B2 AB defg|"D" afec dBAF|"D"DEFD "Em"E2:|
             |:gf|"Em"eB~B2 eBgf|"Em"eB~B2 gedB|"D"~A2 FA DAFA|"D"~A2 FA defg|
             "Em"eBB2 eBgf|"Em"eBB2 defg|"D"afec dBAF|"D"DEFD "Em"E2:|
+
 %% scale 0.7
+
 X: 1
 T: The High Drive
 R: reel
@@ -112,6 +112,7 @@ K: D
 
 %%newpage
 %% header "Will+Christian - Spootiskerry/Old Bush		$P"
+%% scale 0.87
 
 X: 1
 T: Spootiskerry
@@ -125,7 +126,6 @@ DE |: "G"G2 DE GDEG | DEGA B2 AB | G2 DE GABd | "C"eged "D"B2 AB |
 "Em"g2 eded B2 | "D"BABG E2 DE | "C"GABd eged | "D"B2 A2 A2 DE |
 "^G desc. line"G2 DE GDEG | DEGA B2 AB | "C"g2 ed edBA | "D"B2 G2 "G"G2 |]
 
-%% scale 0.87
 
 X: 4
 T: The Old Bush
