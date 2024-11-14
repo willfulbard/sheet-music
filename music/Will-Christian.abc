@@ -13,7 +13,7 @@ M: C
 K: C
 W: Merry Blacksmith / Old copper plate- Page 2
 W: Reign of Love Dm to Em - Page 3
-W: George Whites (G) / Ormond Sound (Am) - Page 4
+W: Coolies (Em) / High Drive (D) - Page 4
 W: Spootiskerry (G) / Old Bush (Dmix) - Page 5
 W: Maison de Glace (D) / La Fée Des Dents - Page 6
 W: February Reel #1 (F#m) / Rapide du cheval blanc (Em) - Page 7
@@ -77,29 +77,38 @@ K:Emin
 
 
 %%newpage
-%% header "Will+Christian - George White's/Ormond Sound		$P"
+%% header "Will+Christian - Coolies/High Drive		$P"
 
-X: 9
-T: George White's Favourite
+%% scale 0.87
+
+X: 7
+T: Cooley's
 R: reel
 M: 4/4
 L: 1/8
-K: Gmaj
-|:Bd|"Em"eB (3BBB eBdB|"D"AGAB GEDE|"G"GB (3BBB GABd|eBdB "D"A2Bd|
-"Em"eB (3BBB eBdB|"D"AGAB GEDE|"G"GABd "C"gedB|1 "D"AGAB "G"G2:|2 "D"AGAB "G"G4||
-|:"G"gede gaba|"C"gfga gedB|"G"dega bgag|"Am"eaag "D"a2ga|
-"G"bgeg d3e|"C"gede gaba|"G"gfgd "C"egdB|1 "D"AGAB "G"G4:|2 "D"AGAB "G"G2||
-
+K: Edor
+ED|"Em"EBBA B2 EB|"Em"B2 AB dBAG|"D"(3FED AD BDAD|"D"(3FED AD BAGF|
+            "Em"EBBA B2 EB|"Em" B2 AB defg|"D" afec dBAF|"D"DEFD "Em"E2:|
+            |:gf|"Em"eB~B2 eBgf|"Em"eB~B2 gedB|"D"~A2 FA DAFA|"D"~A2 FA defg|
+            "Em"eBB2 eBgf|"Em"eBB2 defg|"D"afec dBAF|"D"DEFD "Em"E2:|
+%% scale 0.7
 X: 1
-T: Ormond Sound
+T: The High Drive
 R: reel
 M: 4/4
 L: 1/8
-K: Ador
-|:"Am"A2 ed BedB|"G"AG (3GGG AGEG|"Am"A2 ed (3B^cd ef|"G"gfga gedg|
-  "Am"eA (3AAA BedB|AGEF "G"G3 A|"E"EA (3AAA GABd|1 "G"gedB "Am"A2 (3EFG:|2 "G"gedB "Am"A3 e||
-|:"Am"efge agfg|e ~a3 edBd|"C"(3efg fa "G"~g3 e|dgge dBGB|
-  "F"cBcA "G"dcdB|"E"efge "Am"a2 ga|"C"bg (3ggg agab|1 "G"gedB A3 "Am"e:|2 "G"gedB "Am"A2 (3EFG||
+K: D
+|: "D" d3e fedA | "G"B2gB BAGB | "A"A2Ae fedf | eA~A2 efge |
+   "D" d3e fedA | "G"B2gB BAGB | "A"A2Ae fedf |1 edce "D"d2 A2 :|2 edce "D"defg ||
+   "D" a3g ad~d2 | "G"AB~B2 gBdB | "A".A~A2e fedf | eA~A2 efge |
+   "D" a3g ad~d2 | "G"AB~B2 gBdB | "A".A~A2e fedf | edce "D"defg |
+   "D" a3g ad~d2 | "G"AB~B2 gBdB | "A".A~A2e fedf | eA~A2 efge |
+   "D" d3e fedA | "G"B2gB BAGB | "A"A2Ae fedf | edce "D"d2 A2 ||
+|: "D"dAeA fA~A2 | "G"gBBA Bgag | "D"fA~A2 fedf | "A"eA~A2 efge |
+   "D"dAeA fA~A2 | "G"gBBA Bgag | "D"fA~A2 fedf |1 "A"edce "D"d2 A2 :|2 "A"edce "D"defg |
+|: "D"aAA aAA aA | "G"gAA gAA gA | "D"fAA fAA fA | "A"eAA eAA eA |
+   "D"aAA aAA aA | "G"gAA gAA gA | "D"fA~A2 fedf |1 "A"edce "D"defg :|2 "A"edce "D"d2 A2 ||
+
 
 %%newpage
 %% header "Will+Christian - Spootiskerry/Old Bush		$P"
@@ -116,6 +125,7 @@ DE |: "G"G2 DE GDEG | DEGA B2 AB | G2 DE GABd | "C"eged "D"B2 AB |
 "Em"g2 eded B2 | "D"BABG E2 DE | "C"GABd eged | "D"B2 A2 A2 DE |
 "^G desc. line"G2 DE GDEG | DEGA B2 AB | "C"g2 ed edBA | "D"B2 G2 "G"G2 |]
 
+%% scale 0.87
 
 X: 4
 T: The Old Bush
