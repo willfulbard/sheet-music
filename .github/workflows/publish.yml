@@ -14,7 +14,9 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y abcm2ps wkhtmltopdf ghostscript
       - run: mkdir build && echo "Hello, World" > build/index.html
       - run: ./convert.sh
-      - uses: actions/upload-pages-artifact@v4
+      - name: Upload static files as artifact
+        id: deployment
+        uses: actions/upload-pages-artifact@v3
         with:
           path: build/
 
@@ -28,10 +30,11 @@ jobs:
     # Deploy to the github-pages environment
     environment:
       name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     # Specify runner + deployment step
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
