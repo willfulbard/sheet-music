@@ -1,0 +1,357 @@
+X:1
+T:Alone in the Dark
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:Dmin
+"Dm" D3 A GAFG | DGFG DAGA |"Dm/C" c3 A dcAG | cAGE"Am/B" A4 |$"Dm" D3 A GAFG | DGFG DAGA | %6
+"G" =B3 c BAGF |"Dm" AGFD"C" EFEF ::$"G" G=B c d2 G Bc | df=Bd efed |"Dm7" c=B A F2 c Bc | %11
+ ADFA edcA |$"G" G=B c d2 G Bc | df=Bd efed |"Am/D" c3 A dcAG |"F" cAGF"^C(Am)" EFEF :| %16
+
+X:2
+T:Bride Beneath the Apple Tree
+C:Corwin Zekley
+L:1/8
+M:3/4
+K:G
+"G" D2 G3 d |"Bm" F3 G FD |"C" E2 c2 ed |"G" B6 |$"G" D2 G3 d |"D" F2 Ad gf |"C" e3 g ed | %7
+"G" B4 cd |$"C" e3 d GA |"G" B3 A DE |"Bm" FG dF GB |"C" E2- E3 C |$"G" D2 G3 d |"D" F3 G FD | %14
+"C" EF G2 A2 |"G" G3 A Bd |$"D" f3 g fd | Ad a2 gf |"C" e3 g ed | c2 EF GA |$"G" B4 FG | FG dF Gd | %22
+"C" e4 d2 | c2- c3 E |$"G" D2 G3 d |"D" F3 G FD |"C" E2 c2 ed |"Bm" f4 ef |$"Am7" g3 e fg | %29
+"^D7(add13)" b4 a2 |"C" g6- |"G""^skip last time" g4"_(" B,"_)"C |] %32
+
+X:3
+T:Comptche Apples
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:D
+"D" DAdA cdeg | fedc d2 c2 |"G" B3 B2 A Bd |"Bm" cdAF"A" EGFE |$"D" DAdA cdeg | fedc d2 c2 |1 %6
+"G" B2 (3ddd g2 f2- |"A" fedc"D" d4 :|2"G" B2 (3ddd g2 f2- ||"A" fedc"D" defg |:$"D" a3 a2 b aA | %11
+ agfA agfA |"Em" g3 g2 a gB | gfeB gfeB |$"Bm" f4 f2 ab | =fe d2 B2 A2 |1"G" BG G/G/G Bdcd | %17
+"A" eA A/A/A egfg :|2"G" B2 (3ddd g2 fg ||"A" eABc"D" d4 |] %20
+
+X:4
+T:Corkscrew
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:Dmin
+"Gm" DGBG"F" AFcA |"Gm" BAGF"Dm" DCB,A, |"Gm" G,3 A, B,DFD |"C" EDCA,"Dm" D4 |$"Gm" DGBG"F" AFcA | %5
+"Gm" BAGF GABc | dB !trill(!B2!trill)!"C" fece |1"Dm" dcBA"Gm" G4 :|2"Dm" dcBA"Gm" GABc ||$ %9
+"Gm" dB a2 g2 Bd | fB e2 d3 c | BG !trill(!G2!trill)! DGBd |"Dm" AF !trill(!F2!trill)! DFAc |$ %13
+"Gm" dB a2 g2 Bd | fB e2 d3 c |"Bb" Bdfg"C" ecAc |"Dm" BAGF"Gm" GABc |$"Gm" dB a2 g2 Bd | %18
+ fB e2 d3 c |"^(Eb)" BG !trill(!G2!trill)! DGBd |"Dm" AF !trill(!F2!trill)! DFAc |$ %21
+"Cm" G_E !trill(!E2!trill)! CEGE |"Dm" FGAc d3 F |"Gm" DGBG"F" AFDF |"Dm" DCB,A,"Gm" G,4 |] %25
+
+X:5
+T:Crest the Summit
+C:Corwin Zekley
+L:1/8
+M:6/8
+K:Dmin
+"Dm" D2 E/F/ AdA | cAG A3 | DdD cDB | !trill(!A2!trill)! G AGF |1$"Am" ECA, A,CE |"Bb" FDB, B,DF | %6
+"C" GG,C EGc |"G" =BAG"A" A3 :|2$"Am" A,DE AED ||"Bb" B,DF BFD |"C" CDG Ade |"Am" a3 a2 e |$ %12
+"G" g3 gag |"Dm" f2 d3 f |"G" !trill(!g3!trill)! =bag |"Dm" afd A2 =B |1$"C" cgc acg | %17
+"Dm" !trill(!f2!trill)! e fed |"C" ced c=BA |"G" =BAG"Am" A3 :|2$"C" !trill(!c3!trill)! edc || %21
+"Dm" dAF DEF |"E7" E=BE dEB |"A7" EAE GFE ||"Dm""^Last Time Only\n" D2 x4 |] %25
+
+X:6
+T:Cut the Brakes
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:Emin
+"Em" EBeg"^(D)" fedf |"Em" edBe"^(D)" dBAd |"Em" Bd d/d/d"^(D)" Ad"^(G)"Gd | %3
+ d/d/d"^(D)" Fd"Bm" DE F/E/D |$"Em" EBeg"^(D)" fedf |"Em" edBe"^(D)" dBAG |"Em" FGdG"A" EF^cF |1 %7
+"Bm" DE F/E/D"Em" E4 :|2"D" DE F/E/D E"Em"FGA ||$"G" B2 BA GABe |"D" dA A/A/A AGFD | %11
+"Em" EB B/B/B FBGB | B/B/B Ad"Bm" Bedf |$"C" fgBc gBcg |"D" ^cdad bagf |1"Em" egfe dfed | %16
+ BedB"D" AGA_B :|2$"Em" edBA"G" dBAG ||"B7" BAGF"Em" E4 |] %19
+
+X:7
+T:Dusty Attic Jam
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:D
+"D" D4 A2 D2 |"C" G2 A2 =c2"D" A2- | A2 D2 F2 G2 | A2 F2 G2 A2 |$"C" =c4 E2 D2 | E2 G2 =c2"G" B2- | %6
+ B2 D2 G2 ^G2 | A2 D2 =F2 ^F2 |$"D" D4 A2 D2 |"C" G2 A2 =c2"D" A2- | A2 D2 F2 G2 | A2 F2 G2 A2 |$ %12
+"Am" =c4 E2 D2 | E2 G2 =c2"G" B2- | B2 G2 =c2 d2 |"C" e2 d2 f2 g2 |$"D" a4 f2"C/A" g2- | %17
+ g2 e2"D/B" f4 |"C" e2 d2 =c2 A2 |"D" d4 d4 |$"Am" =c2 e2 B2 e2 | A2 e2 G2"C" E2- | E2 G2 =c2 d2 | %23
+ e2 d2 f2 g2 |$"D" a4 f2"C/A" g2- | g2 e2"D/B" f4 |"C" e2 d2 =c2 A2 |"D" d4 d4 |$"C/A" =c4 E2 D2 | %29
+ E2 G2 =c2"G" B2- | B2 D2 G2 ^G2 | A2 D2 =F2 ^F2 ||"D""^Last Time Only" D2 x6 |] %33
+
+X:8
+T:Flew the Coop
+C:Corwin Zekley
+L:1/8
+M:9/8
+K:G
+"G" !turn!G3 GBd"C" cBA |"G" !turn!G3 GFE D3 |"C" E2 C E2 C EFG |"G" !turn!B3"D" cAF"G" G3 |$ %4
+"G" !turn!G3 GBd"C" cBA |"G" !turn!G3 GFE D3 |"C" E2 C E2 C EFG |"G" !turn!B3"D" cAF"G" GBd |$ %8
+"C" e3 e2 d efg |"G" !turn!d3 dBG"Bm" F2 G |"C" EG,B, CEG ABc |"G" BDG dcB"D" Agf |$ %12
+"C" e3 e2 d efg |"G" b2 d- dgb"Bm" agf |"C" efg gdc"G" BAG |"D" cAF DEF"G" G3 |] %16
+
+X:9
+T:Highstrung Hoedwn
+C:Corwin Zekley 
+L:1/8
+M:4/4
+K:Amin
+"Am" a3 e gage |"D" ^fedf"Am" e2 A2- | A a2 e gage |"D" ^fedf"Am" e2 AB |$ cde^f g2 fe | %5
+"G" dedB G2 AB |1"C" cdeg"G" dBGA- |"F" AcBG"Am" A4 :|2"C" cdeg"G" dBGA- || %9
+"F" AcBG A2"Am" A/B/c/d/ |$"Am" e A2 d2 A cA- | A B2 G ABcd | eg^fd egfd | e2 a2 a2 A/B/c/d/ |$ %14
+ e A2 d2 A cA- | A B2 G ABcd | eg^fd cedB | AcBG"D" ^F3 G |$"D" AD B c2 B Ac- | cB A c2 B AB | %20
+"Am" cAdc ed^fe |"E" ^g6 A/B/c/d/ |$"Am" e A2 d2 A cA- | A B2 G EGAB |"C" cdeg"G" dBGA- | %25
+"Em" AcBG A4 |] %26
+
+X:10
+T:Katie's Waltz
+C:Corwin Zekley
+L:1/8
+M:3/4
+K:G
+ x3 D GA |"G" B3 A GD |"C" E2 G3 B, |"G" E2 D4- | D3 D GA |$ B3 E GA |"Am" c3 B de |"Em" B3 B eg | %8
+ b3 a gf |$"C" e3 d cd |"G" B2 G3 A |"Bm" B3 A GF |"C" E3 D GA |$"G" B3 A GD |"C" E2 G3 A | %15
+"G" G6- | G3 F Bd |$"Bm" f3 e fa |"Em" g2 e4 |"Bm" f3 e fa |"C" g2 e2 ga |$"G" b3 a gB | %22
+"Bm" e2 d3 B |"Am" A3 E GA |"D" F3 D GA |$"G" B3 A GD |"C" E2 G3 D |"C#dim" E2 F2 G2 |"D7" A4 GA |$ %29
+"A7" B3 A G2 |"Eb7" G2 A2"D7" F2 |"G" G6- | G3 x3 |] %33
+
+X:11
+T:Keepsake Box
+C:Corwin Zekley
+L:1/8
+M:3/4
+K:Dmin
+"Dm" A3 F GA |"G" =B2 c3 B |"Dm" =B2 A4- | A6 |$ A3 F GA |"G" =B2 c3 B |"F" A3 G FG |"C" E6 |$ %8
+"Dm" A3 F GA |"G" =B2 c3 B |"Bb" d2 f3 d |"F" c6 |$"Bb" d2 f3 g |"Bdim" a3 g f2 |"C" g6- | %15
+"C#dim" g6 |$"Dm" a3 g fg |"C" e2 c3 e |"Bb" f3 e dc |"F" A6 |$"Bb" f3 e dc |"F" A2 F3 A |"C" G6 | %23
+"A" F4 E2 |$"Bb" DF Bd fa |"C" c'3 g fe |"Dm" f3 e dc |"G7" A4 A2 |$"Bb" f3 e dc |"F" A2 F3 A | %30
+"C" G4- GF |"F" F6 |] %32
+
+X:12
+T:Labyrinth
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:Dmin
+"Dm" D2 E2 F2 D2 |"C" G4"Dm" A4- | A2 D2 D2 E2 | F2 D2 E2 F2 |$"G" G4 F2"F" A2- | A2 G2 =B2 c2 | %6
+"G" d2 c2 =B4 |"Am" A4 A,2 C2 |$"Dm" D2 E2 F2 D2 |"C" G4"Dm" A4- | A2 D2 D2 E2 | F2 D2 G2 A2 |$ %12
+"G" =B2 A2 G2"Dm" A2- | A2 G2 F2 G2 |"Am" E2 D2 C4 |"Dm" D2 F2 A2 d2 |$"Dm" e2 d2 c2 A2- | %17
+ A2 d2 c2 =B2 |"G" G4 c2 A2 |"Am" G2 F2 D2 C2 |$"Dm" D2 E2 F2 D2 | G4 A4- |"G" A2 c2 =B2 G2 | %23
+"Am" A2 D2 F2 A2 |$"Dm" e2 d2 c2 A2- | A2 d2 c2 =B2 |"G" G4 c2 A2 |"Am" G2 F2 D2 C2 |$ %28
+"Bb" D2 E2 F2 D2 | G2 A2 F4 |"Am" E2 D2 C4 |"Dm" D4 |] %32
+
+X:13
+T:Midnight Masquerade
+C:Corwin Zekley
+L:1/8
+M:3/4
+K:Dmin
+"Dm" z2 DE Fd |"Am" c2{dc} =B2 Ac |"Dm" z2 DE Fd |"Am" c2"G" =B2 AB |$"F" c3 c =BA |"C" G3 G FE |1 %6
+"Dm" FA df e=B |"A" d2 ^c4 :|2"Bb" FA df ^gb ||"A" a3 g fe |$"C" d2 c3 A |"Am" fe cG Ac | %12
+"Dm" dc AF D_E |"G7" E3 E FG |$"Bb7" _A3 A GF |"A7" G2 _AG FD |"Dm" F3 D FG |"G7" A2 G4 |$ %18
+"C" d2 c3 A |"Am" fe cG Ac |"Dm" dc AF D_E |"G7" E3 E FG |$"Fm7" _A4 GA |"Bb7" B2 F3 B | %24
+"Em" =B3 A Bd |"A" ^c6 |] %26
+
+X:14
+T:Rose Valley Pass
+C:Grace Fellows
+L:1/8
+M:3/4
+K:Dmin
+ x3 D FG |"Dm" A3 D FG |"Bb" A c2 D FG |"F" A2 c2 c2 |"G7" =B4 c2 |$"Am" =B3 A GF |"C" EF G2 FE | %7
+"Am" CA,- A,4- | A,3 D FG |$"Dm" A3 D FG |"Bb" A c2 D FG |"F" A2 G2 F2 |"G7" G4 A2 |$"Am" G3 F ED | %14
+"A7" F2 E2 D^C |"Dm" D6- | D3 F Ac |$"Bb" d3 c de |"Dm" f3 e fg |"F" a3 g f2 |"C7" g4 ag |$ %21
+"Dm" f3 e dc |"Bb" B3 A GF |"C7" G6- | G3 F Ac |$"Bb" d3 c de |"Dm" f3 e fg |"F" a3 g f2 | %28
+"C7" g4 ag |$"Dm" fe dc"F" AF |"A7" G3 F D2 |"Dm" D6- | D3 x3 |] %33
+
+X:15
+T:Sticky Burger Hands
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:Bmin
+"Bm" B,3 D FEDE | FEDE F2 A2 | B,3 D FEDF | EDCB,"A" A,4 |$ A,3 C EDCD | EDCD E2 A2 | %6
+"Bm" B3 d cAeA |1"A" dAcA"Bm" B4 :|2"A" dAcA BFAF ||$"G" G4 GABc |"D" d2 d2 defa |"A" e8 | %12
+ f e2 f edcB |$"F#m" A4 ABAF |"G" G2 G2 GAGF |"D" D8 | DFAc dcAF |$"G" G4 GABc |"D" d2 d2 defa | %19
+"A" e8 | f e2 f edcB |$"F#m" A4 ABAF |"G" G2 G2 GAGE |"D" F8 |"Bm" BFAF"A" EDCD |] %25
+
+X:16
+T:Sweet-ish
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:Gmin
+"Gm" d4 c4 | dcBA G2 dc | BA G2 G3 A | Bdfg"C" =e4 |$"Gm" d4 c4 | dcBA G2 GA |"Bb" B2 f=e dgfe | %7
+"A" agf=e"D" d4 :|$"Gm" GABG A2 AB | cABd"C" f2 =e2 |"Gm" GABG A2 AB |"Dm" AGFD"Gm" G4 |$ %12
+"Gm" GABG A2 AB | cABd"C" f2 =e2 |"Gm" gafg"C" =edcB |"Dm" dcBA"Gm" G3 F |$"Gm" GABG A2 AB | %17
+ cABd"C" f2 =e2 |"Gm" GABG A2 AB |"F" AGFD"Gm" GABc |$"Eb" d4 c4 |"C" dcBA G2"Eb" dc | BA G2 G3 D | %23
+"Dm" FDCB,"Gm" G,4 |] %24
+
+X:17
+T:The Burning Flag
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:Gmin
+"Gm" GD D/D/D dcBd | cBAF G2 DF | GD D/D/D GABd |"Dm" f3"C" =e2 c BA |$"Gm" GD D/D/D dcBd | %5
+ cBAF G2 GA |"Bb" B2 f=e dgfe |"A" agf=e"D" d4 |$"Gm" GD D/D/D dcBd | cBAF G2 DF | GD D/D/D GABd | %11
+"Dm" f3"C" =e2 c BA |$"Gm" GD D/D/D dcBd | cBAF G2 DF |"Bb" G2 BA cA^cA |"D" d3 d z2 df |$ %16
+"Gm" gd d/d/d gabg |"F" a3 f2 c df |"Gm" gd d/d/d gafg | =efde"C" c4 |$"Gm" gd d/d/d gabg | %21
+"F" a3 f2 c df |"Gm" g/a/g fd fdcB |"Dm" dcBA"Gm" G2 Bd |$"Gm" gd d/d/d gabg |"F" a3 f2 c df | %26
+"Gm" gd d/d/d gabg |"C" abc'a"D" d'4 |$"D" d'd d/d/d c'd d/d/d | bd d/d/d abab |"Gm" g2 fd cBGF | %31
+"Dm" DCB,A,"Gm" G,4 |] %32
+
+X:18
+T:The Cabin Porch
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:A
+"A" ABcd eAdA | cBAG A2 AB | cAdA eaga |"D" f6 fg |$"A" abaf eAce |"D" fedc d2 dc |1"E" BAGF E3 A | %7
+ BEcE dcBc :|2"E" BAGF EFGA ||"A" BAAG A2 (3ABc |:$"D" d4 dcde | fg a2 a2 fg |"F#m" afge fece | %13
+ f4 f2 fg |$"A" afge fece |"D" fedc d2 dc |1"E" BAGF E3 A | BEcE dcBc :|2"E" BAGF EFGA || %19
+"A" BAAG A4 |] %20
+
+X:19
+T:The Goose & The Gander
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:G
+"G" DG (3GGG"F" =FAdA |"C" EGcG EDCE |"G" DG (3GGG"Dm" =FAdA |"Am" EGAB"Am" c2 Bc |$ %4
+"G" d2 dc Bcde |"Dm" =fA (3AAA AG=FA |"G" DG (3GGG"Dm" =FAde |1"F" =fcA=F"G" G2 GF :|2 %8
+"F" =fcA=F"G" GABc ||$"G" d2 dc Bcde |"F" =fA (3AAA AG=FA |"G" DGGD"Dm" =FFDC | %12
+"Bb" _B,CD=F"C" E2 DC |$"G" DGdB c"F"A=FD |"G" GBgd"F" =fcA=F |"G" DG (3GGG"Dm" =FAde |1 %16
+"F" =fcA=F"G" GABc :|2"F" =fcA=F"G" G4 |] %18
+
+X:20
+T:The Hero's Trial
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:Bmin
+"Bm" Bcdc BAFB |"A" AFEA FEDC |"Bm" B,3 A, B,DFD |"A" A,CEC D4 |$"Bm" Bcdc BAFB |"A" AFEA FEDC | %6
+"Bm" B,3 A, B,DFD |1"A" A,CEC"Bm" B,4 :|2"A" A,CEC"Bm" B,CDE |:$"Bm" FA B2 B2 AF |"A" EF A2 A2 FE | %11
+"Bm" FABc d2 Bc | de f2 defa |$"A" e6 ef | edcB AFED |"Bm" B,3 A, B,DFD |1"A" A,CEC"Bm" B,CDE :|2 %17
+"A" A,CEC"Bm" B,4 |] %18
+
+X:21
+T:The Hobbit's Hut
+C:Corwin Zekley
+L:1/8
+M:6/8
+K:Amin
+"Am" e2 a age |"D" ^fed"Em" e2 B |"Am" ABc edc |"G" BAG Bcd |$"Am" e2 a age |"D" ^fed"Em" e2 B | %6
+"Am" cde"G" dBG |1"Am" A3 A3 :|2"Am" A3 A2 B |:$"C" c3 cde |"G" dBG G2 ^F | G3 GAB | %12
+"D" A^FD D2 E |$"Am" AcA"Em" BGE |"C" cec"G" dBG |1"Am" Ace g^fd |"Em" e3 e2 B :|2 %17
+"F" cde"Em" dBG ||"Am" A3 A3 |] %19
+
+X:22
+T:The Morning Mist
+C:Corwin Zekley
+L:1/8
+M:3/4
+K:Emin
+ x3 d ^cA |"Em" B3 E EF | G3 F GB |"D" AB AG FE | D3 E FG |$ AB AG FE | D3 A, ^CD |"Bm" ^C2 B,4- | %8
+ B,3 d ^cA |$"Em" B3 E EF | G3 F GB |"D" AB AG FE | D3 E FG |$ AB AG FE | D3 E FG |"Em" E6 | %16
+ GF GA Bc |$"G" d6 | GF GA Be |"D" d2 A3 G | F3 G AB |$"C" E3 F GB |"G" D3 F GB |"D" A6 | %24
+ GF GA Bc |$"G" d6 | GF GA Be |"D" d2 A3 G | F3 G AB |$"C" E3 F GB |"G" D3 E FG |"Bm" A6- | %32
+ A3 x3 |] %33
+
+X:23
+T:The Mortal Coil
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:Dmin
+"Dm" D2 AD"C" C2 GC |"Bb" B,CDE FGAB |"F" c2 F4 c2 |"G" =BcdB G2 FE |$"Dm" D2 AD"C" C2 GC | %5
+"Bb" B,CDE FGAB |"Am" c2 EG Aceg |1"C" fedc"Dm" d4 :|2"C" fedc"Dm" defg ||$"Bb" a2 AB df a2 | %10
+ ABda gfed |"C" c2 ec cfcc | gcca cc g2 |$"Bb" a2 AB df a2 | ABda gfed |1"Am" c2 EG Aceg | %16
+"C" fedc"Dm" defg :|2$"Am" cAgf edcA ||"C" Gfed cAGF |] %19
+
+X:24
+T:The Road Home
+C:Grace Fellows
+L:1/8
+M:3/4
+K:D
+"D" FG A3 F |"Bm" E2 D4 |"G" Bc d3 B |"F#m" A6 |$"D" FG A3 F |"Bm" E2 D4 |"G" B,2 D2 F2 |"A" E6 |$ %8
+"D" FG A3 F |"Bm" E2 D4 |"G" Bc d3 B |"Em" e6 |$"Bm" fe d3 B |"F#m" A2 F4 |"G" G2 A2 B2 |"A" E6 |$ %16
+"Bm" FD B,A, B,D |"G" FD B,A, B,D |"Em" FD B,A, B,D |"F#m" F2 E4 |$"D" AF DC DF |"Bm" AF DC DF | %22
+"G" AF DC DF |"A" A2 E4 |$"Bm" FD B,A, B,D |"G" FD B,A, B,D |"Em" FD B,A, B,D |"F#m" F2 E4 |$ %28
+"D" AF DC DF |"Bm" D2 C4 |"G" B,3 C D2 |"A" C6 ||"D""^Last Time" D6 |] %33
+
+X:25
+T:The Senator's Secret
+C:Corwin Zekley
+L:1/8
+M:4/4
+K:Gmin
+"Gm" GABd cAFA | BG G/G/G DG G/G/G |"F" FAcA dAcA |"Gm" BAGF"Dm" DCB,A, |$"Gm" G,3 B,"F" A,CFC | %5
+"Bb" B,DFD"C" C=EGA |"Eb" BAGF EGBd |1"F" cAFA"Gm" G2 GF :|2"F" cAFA"Gm" G2 Bc ||$"Gm" dggf g2 ga | %10
+ bgaf gfdA |"F" cff=e f2 fg | afg=e fdcA |$"Gm" BcdB"F" ABcA |"Gm" G2 GF GABc | dD D/D/D dedc | %16
+"Dm" BcBA"Gm" GABc |$"Gm" dggf g2 ga | bgaf gfdA |"F" cff=e f2 fg | afg=e fedc |$ %21
+"G" d/d/d bd adgd |"F" f2 =eg fdcA |"Eb" BAGF EGBd |"Dm" cAFA"Gm" G2 z2 |] %25
+
+X:26
+T:The Shattered Sword
+C:Corwin Zekley
+L:1/8
+M:3/4
+K:Cmin
+"Cm" D3 E Gd |"Gm" c2 B3 G |"Ab" F2 E3 F |"Gsus4/Bb" G2 D4 |$"Cm" D3 E Gd |"Gm" c2 B3 G | %6
+"Fm" F2 E3 F |"G" G4 FG |$"Dm7b5" A3 B AG |"G7" F2 D3 E |"Cm7" F2 E3 D |"F7" C2 =A,4 |$ %12
+"Ab" C3 D EG |"Bb" F2 G3 B |"Cm" c6- | c2 c2 d2 |$"Fm7" e3 d cd |"Gm7" fe d3 c |"Cm" g2 c3 g | %19
+"D" ^f2 d4 |$"Ab7" f3 e de |"G7" fe d3 G |"Gm7" d2 c3 B |"C7" c2 c2 d2 |$"Fm7" e3 d cd | %25
+"Gm" fe d3 c |"Cm" g2 f2 e2 |"Am7b5" d6 |$"Fm7" c4 BA |"Db7" G4 F2 |"G7sus4" G6- |"G7" G4 z2 |] %32
+
+X:27
+T:Turn the Winch
+C:Corwin Zekley
+L:1/8
+M:6/8
+K:Gmin
+"Gm" GFG G,2 D | GFG Bcd |"F" F=EF A,2 D | F=EF ABc |$"Gm" BAB"F" cAF |"Bb" dcd"Dm" fga | %6
+"Gm" gfd cBA |"Dm" d2 d cBF :|$"Gm" GBG AcA | BdB cdf | g2 g- gfd | g2 g- g2 =e |$ %12
+"F" !turn!f3 f=ed | cAF FGA |"Gm" G2 G, G2 G, |"Dm" FGd cBA |$ GBG AcA | BdB cdf | g2 g- gfd | %19
+ g2 g- g2 f |$"F" baf cBA | F3 FGA |"Gm" G2 G, G2 G, |"Dm" FGd cBA |] %24
+
+X:28
+T:Untaken Path
+C:Corwin Zekley
+L:1/8
+M:3/4
+K:Emin
+"Em" e3 G Be | g2 f3 e |"Bm" f2 d3 ^c | B6 |$"Em" e3 G Be | g3 f ga |"G" b4 b2 |"D" a3 g f2 |$ %8
+"C" e3 G ce | g2 f3 e |"G" d3 e d2 |"F#dim" c3 B A2 |$"Em" B3 c B2 |"D" A3 G FE |"C#dim" _E3 =E3 | %15
+ F3 G3 |$"C7" E3 _E =E_E | F3 E3 |"C#dim" _E3 =E3 | F3 G3 |"D" A3 F GA |"B7" B3 A GF |$ %22
+"C7" E3 _E =E_E | F3 E3 |"C#dim" _E3 =E3 | F3 G3 |"D" A3 F GA |"Ebdim" B3 A GF |$"Em" G3 B e_e | %29
+"G7" d3 B AG |"C7" F3 G F2 |"F7" A4 _B2 |"B7sus4" B6- |"B7" B6 |] %34
+
+X:29
+T:Warm Winter Waltz
+C:Corwin Zekley
+L:1/8
+M:3/4
+K:G
+ x4 B,C |:"G" D2 G2 B2 |"D" A6 |"C" EG cE GF |"G" E2 D4 |$"C" CE GC ED |"G" C2 B,2 GF |1 %7
+"Am" E2 D2 GB |"D" A4 B,C :|2$"D" ED E2 F2 ||"G" G3 A Bc |$"D" d2 d2 e2 | d3 c BA |"G" B2 G2 gf | %14
+"C" f2 e4 |$ e2 c3 e |"G" dc BA G2 |"Em" BA G2 F2 |"D" D4 B,C |$"G" D2 G2 B2 |"D" A6 | %21
+"C" EG cE GF |"G" E2 D4 |$"C" CE GC EG |"G" B,D GB, DG |"D" Ac B2 F2 |"G" G4 x2 |] %27
+
+X:30
+T:Weary Wayfarer Waltz
+C:Corwin Zekley
+L:1/8
+M:3/4
+K:Bmin
+ x3 A dc |"G" B3 d BA |"D" F2 A3 D |"A" E3 F ED |"Bm" B,3 A, DC |$"G" B,3 A, B,C |"D" D3 C DE | %7
+ FG A2 GF |"A" E3 A dc |$"G" B3 d BA |"D" F2 A3 D |"A" E3 F ED |"Bm" B,3 E FA |$"G" B3 A Bc | %14
+"D" d2 DF Ad | f2 FA df |"A" a4 a2 |$"Bm" b3 a fa |"A" e2 c4 |"F#m" a3 g fd |"Bm" B4 B2 |$ %21
+"Em" g3 f ed |"D" f3 e dA | FA df ad' |"A" c'4 c'2 |$"Bm" b3 a fa |"A" e2 c4 |"F#m" a3 g fd | %28
+"Bm" B3 E FA |$"G" B3 d BA |"D" F2 A3 D |"A" E3 D C2 |"D" D3 x3 |] %33
+
+
+

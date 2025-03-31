@@ -1,0 +1,158 @@
+<!DOCTYPE HTML><html><head><meta charset="utf-8"></head>
+<body><pre>2025-03-13
+
+	* Revision: 161
+	- added auto value (-1) to --fin and remover --nofin
+	- renamed edomix to edomap and reused edomix for fractional edo36 values
+	- new option --temp (0=auto choice edo: 12, 36 or 53, 1=force edo53 and map
+	edo36, 2=use fractional edo36 values when mixing edo 53 and 36
+	- only autodetect encoder when microtonal accidentals present
+	--fin=3 always show accidentals and ignore pitch-alter (finale)
+	--fin=2 use musescore rules for accidentals (musescore)
+	--fin=1 same as 2 but always use current alteration when no pitch-alter
+	(burak)
+	--fin=0 same as 2 but also honor microtonal pitch-alter values
+	--fin=-1 automatic detection of encoder if finale or burak, otherwise
+	musescore
+
+2025-03-09
+
+	* Revision: 160
+	- option --fin, when set pitch-alterations are ignored for microtonal
+	accidentals This seems to be the logic presently followed by finale and
+	musescore
+	- auto-detect musescore/finale and set --fin if detected
+	- option --nofin disables auto-detection
+
+2025-03-06
+
+	* Revision: 159
+	- when a tune uses %%MIDI temperamentequal 36, replace ^3 by ^ and _3 by _
+	(because 3*12/36 == 1)
+
+2025-02-17
+
+	* Revision: 158
+	- added a couple of regression test files with microtonal accidentals
+
+	* Revision: 157
+	- bug in return value of alt2acc when float alter value
+	- accept floating alter if +/-1.0, 0.0 or +/-0.5
+	- do not add natural (converted from alter) if no current alteration (or key
+	alteration)
+	- (test function) better option handling in regression04.py
+
+2025-02-16
+
+	* Revision: 156
+	- change internal representation of accidentals to the corresponding
+	MusicXML textstings. (mapping double-flat to flat-flat and the same for
+	sharp)
+	- recognize Edo36 accidentals (natural-up, sharp-down etc.) and translate them
+	to _4, _3, ... ^3, ^4 (flat-down, flat, .. sharp, sharp-up)
+	- new option "no36" to map Edo36 accidentals to Edo53: most up/down variants
+	are mapped to quarter-sharp and quarter-flat
+	- new functions acc2abc and alt2acc to support the new internal representation
+	of accidentals
+
+2025-02-10
+
+	* Revision: 155
+	- accidental type natural-up/down added
+	- proper error message when accidental type not supported
+	- also accept musicxml extension within .mxl files
+
+2025-02-05
+
+	* Revision: 154
+	- follow probable bug in Musescore: hide accidental when alteration is
+	defined in a key-step element, even if an explicit accidental element is
+	present. When the key is defined by a &lt;fifths&gt; element the accidental is not
+	hidden when the same alteration is in the key!
+
+2025-01-31
+
+	* Revision: 153
+	- better order for translation of accidental/alteration
+	- add "%%MIDI temperamentequal 53" to the output when file has edo53
+	accidentals
+	- another list(map(...)) bug for python3 (when translating tablature)
+
+2025-01-29
+
+	* Revision: 152
+	- translation of microtone accidentals using nine comma's per octave (EDO
+	53) and %%MIDI temperamentequal 53
+	- remove option --nonat again
+
+2025-01-21
+
+	* Revision: 151
+	- also store key-alter values, and correct them for non-standards values as
+	encountered in xml files of the SimbTr collection.
+	- remember the staff of alterations as an ABC voice may switch staff
+	- option --nonat avoids forced naturals, when alter element is missing for a
+	note that follows the same but altered note. This avoids a bug in Finale and
+	MuseScore, where alter elements are never saved for non-traditional
+	alterations)
+	- the nonat option also follows the traditional accidental rules for non-
+	traditional key signatures
+	- do not let the &lt;accidental&gt; take precedence over the &lt;alter&gt; when option
+	nonat is present *and* pitch-alter equals value from the accidental (this is
+	for xml files from SimbTr collection)
+
+2025-01-20
+
+	* Revision: 150
+	- added --nonat option for non-traditional accidentals. (for Finale and
+	MuseScore xml that save no or wrong &lt;alter&gt; values for most non-traditional
+	accidentals)
+
+2025-01-19
+
+	* Revision: 149
+	- translation of non-traditional key signatures
+
+	* Revision: 148
+	- translation of quarter-flat, flat-up and sharp-down
+	- bug in perc2map for py3: transform map object to proper list
+
+2024-06-05
+
+	* Revision: 147
+	- corrected a boolean test to get rid of another deprecation warning in
+	python 3.12 (again no changes needed in xml2abc-js, because javascript
+	maintains backwards compatility, in sharp constrast to python)
+
+2024-05-02
+
+	* Revision: 146
+	- corrected escape sequences that caused deprecation warnings (and syntax
+	warnings as of python 3.12)
+
+2023-03-29
+
+	* Revision: 145
+	- added function vertaal() as an interface when xml2abc is used as a library
+	- the info function stores diagnostic messages in a global list and only
+	writes these messages so stderr when xml2abc is run as main program
+
+2023-02-18
+
+	* Revision: 144
+	- updated tabDrumDoc.html
+	- handle start and stop of wavy-line on a single note
+	- put stop of wavy-line after the ABC note
+
+2021-04-12
+
+	* Revision: 143
+	- percmap translation changed (option -t) The %%voicemap line now comes
+	after %%MIDI lines (if any)
+
+2020-07-23
+
+	* Revision: 142
+	- merged patch from Martin Tarenskeen with corrections for Python3
+
+</pre></body></html>
